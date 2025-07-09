@@ -1,0 +1,89 @@
+project:
+  type: website
+  output-dir: docs
+
+# Meta
+description-meta: "Course on Agribusiness Entrepreneurship developed by Dr. Lauren Chenarides, exploring entrepreneurial thinking, business models, and market challenges in the food and agriculture sector."
+author-meta: "Lauren Chenarides"
+
+website:
+  title: "Food & Ag Markets"
+  description: "Course on Agribusiness Entrepreneurship developed by Dr. Lauren Chenarides."
+  navbar:
+    background: light
+    left:
+      - text: Syllabus
+        href: syllabus.qmd
+      - text: Schedule
+        href: 2025/schedule.qmd
+      # - text: Lectures
+      #   href: lectures.qmd
+      - text: Case Studies
+        menu:                           
+        - text: Access Coursepack
+          href: cases/coursepack.qmd
+        - text: "Weekly Assignments & Signups"
+          href: cases/case-assignment.qmd
+        - text: "Case Discussion Roles"
+          href: cases/case-roles.qmd
+        - text: How We Use Case Studies
+          href: cases/case-method.qmd 
+      - text: Case Competition
+        href: cases/case-competition.qmd                
+      - text: Podcast Project
+        href: podcast/podcast-instructions.qmd                
+      - text: Mentors
+        menu:                           
+        - text: "Meet the 2025 Cohort"
+          href: mentors/mentors.qmd
+        - text: "Student Guide to Mentor Work"
+          href: mentors/eidp.qmd
+        - text: "Mentor Guide & Timeline"
+          href: mentors/mentor-instructions.qmd
+      # - text: Archive
+      #   menu:
+      #     - text: Fall 2025
+      #       href: 2025/schedule.qmd         
+      # - text: Dr. Lauren Chenarides
+      #   href: https://scholar.google.com/citations?user=07RAgEQAAAAJ&hl=en
+      #   target: _blank        
+    right: 
+      - icon: github
+        href: https://github.com/laurenchenarides/csu-arec-224
+  page-navigation: true
+  page-footer: 
+    left: "[Lauren Chenarides](https://github.com/laurenchenarides/csu-arec-224) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    right: 
+      - icon: github
+        href: https://github.com/laurenchenarides/csu-arec-224
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  repo-url: https://github.com/laurenchenarides/csu-arec-224
+  repo-actions: [edit, issue, source]
+  open-graph: true
+  site-url: "https://github.com/laurenchenarides/csu-arec-224"
+  google-analytics:
+    tracking-id: "G-GG4GM3TPXK"
+    anonymize-ip: true
+
+bibliography: readings.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    citations-hover: true
+    footnotes-hover: true
+    link-external-icon: false
+    link-external-newwindow: true
+
+execute: 
+  freeze: auto
+
+comments:
+  hypothesis: false
+  
+
