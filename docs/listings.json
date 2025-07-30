@@ -1,38 +1,20 @@
 [
   {
-    "listing": "/mentors/mentors.html",
+    "listing": "/lectures/lectures.html",
     "items": [
-      "/mentors/bios/mentor5.html",
-      "/mentors/bios/mentor2.html",
-      "/mentors/bios/mentor8.html",
-      "/mentors/bios/mentor9.html",
-      "/mentors/bios/mentor1.html",
-      "/mentors/bios/mentor6.html",
-      "/mentors/bios/mentor4.html",
-      "/mentors/bios/mentor7.html",
-      "/mentors/bios/mentor3.html",
-      "/mentors/bios/mentor10.html",
-      "/mentors/bios/mentor11.html",
-      "/mentors/bios/mentor12.html",
-      "/mentors/bios/mentor13.html"
-    ]
-  },
-  {
-    "listing": "/lectures.html",
-    "items": [
-      "/2025/lecture1.html",
-      "/2025/lecture2.html",
-      "/2025/lecture3.html",
-      "/2025/lecture4.html",
-      "/2025/lecture5.html",
-      "/2025/lecture6.html",
-      "/2025/lecture7.html",
-      "/2025/lecture8.html",
-      "/2025/lecture9.html",
-      "/2025/lecture10.html",
-      "/2025/lecture11.html",
-      "/2025/lecture12.html",
-      "/2025/lecture13.html"
+      "/lectures/lecture1.html",
+      "/lectures/lecture2.html",
+      "/lectures/lecture3.html",
+      "/lectures/lecture4.html",
+      "/lectures/lecture5.html",
+      "/lectures/lecture6.html",
+      "/lectures/lecture7.html",
+      "/lectures/lecture8.html",
+      "/lectures/lecture9.html",
+      "/lectures/lecture10.html",
+      "/lectures/lecture11.html",
+      "/lectures/lecture12.html",
+      "/lectures/lecture13.html"
     ]
   },
   {

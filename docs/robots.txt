@@ -1,1 +1,1 @@
-Sitemap: https://github.com/laurenchenarides/csu-arec-224/sitemap.xml
+Sitemap: https://github.com/laurenchenarides/csu-arec-310/sitemap.xml

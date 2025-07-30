@@ -1,10 +1,10 @@
-# AREC 280-A1/224 Introduction to Agribusiness Entrepreneurship 
+# AREC 310 Food and Agricultural Markets
 
-This is the website for my Introduction to Agribusiness Entrepreneurship class. I share class material here.  
+This is the website for my Food and Agricultural Markets class. I share class material here.  
 
 ## Reuse of material
 
-Please link my [site](https://github.com/laurenchenarides) and this [course site](https://github.com/laurenchenarides/csu-arec-224) to use any organized material. Copyrights belong to cited authors/creators. 
+Please link my [site](https://github.com/laurenchenarides) and this [course site](https://github.com/laurenchenarides/csu-arec-310) to use any organized material. Copyrights belong to cited authors/creators. 
 
 ## How to help  
 

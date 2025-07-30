@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Course on Agribusiness Entrepreneurship developed by Dr. Lauren Chenarides, exploring entrepreneurial thinking, business models, and market challenges in the food and agriculture sector."
+description-meta: "Course on Food and Agricultural Markets developed by Dr. Lauren Chenarides."
 author-meta: "Lauren Chenarides"
 
 website:
   title: "Food & Ag Markets"
-  description: "Course on Agribusiness Entrepreneurship developed by Dr. Lauren Chenarides."
+  description: "Course on Food and Agricultural Markets developed by Dr. Lauren Chenarides"
   navbar:
     background: light
     left:
@@ -16,30 +16,12 @@ website:
         href: syllabus.qmd
       - text: Schedule
         href: 2025/schedule.qmd
+      - text: Marketing Project
+        href: project/project-instructions.qmd                
+      - text: Readings
+        href: 2025/readings.qmd
       # - text: Lectures
-      #   href: lectures.qmd
-      - text: Case Studies
-        menu:                           
-        - text: Access Coursepack
-          href: cases/coursepack.qmd
-        - text: "Weekly Assignments & Signups"
-          href: cases/case-assignment.qmd
-        - text: "Case Discussion Roles"
-          href: cases/case-roles.qmd
-        - text: How We Use Case Studies
-          href: cases/case-method.qmd 
-      - text: Case Competition
-        href: cases/case-competition.qmd                
-      - text: Podcast Project
-        href: podcast/podcast-instructions.qmd                
-      - text: Mentors
-        menu:                           
-        - text: "Meet the 2025 Cohort"
-          href: mentors/mentors.qmd
-        - text: "Student Guide to Mentor Work"
-          href: mentors/eidp.qmd
-        - text: "Mentor Guide & Timeline"
-          href: mentors/mentor-instructions.qmd
+      #   href: lectures/lectures.qmd
       # - text: Archive
       #   menu:
       #     - text: Fall 2025
@@ -49,24 +31,24 @@ website:
       #   target: _blank        
     right: 
       - icon: github
-        href: https://github.com/laurenchenarides/csu-arec-224
+        href: https://github.com/laurenchenarides/csu-arec-310
   page-navigation: true
   page-footer: 
-    left: "[Lauren Chenarides](https://github.com/laurenchenarides/csu-arec-224) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "[Lauren Chenarides](https://github.com/laurenchenarides/csu-arec-310) &copy; <script>document.write(new Date().getFullYear())</script>" 
     right: 
       - icon: github
-        href: https://github.com/laurenchenarides/csu-arec-224
+        href: https://github.com/laurenchenarides/csu-arec-310
   search:
     location: navbar
     type: textbox
   reader-mode: true
-  repo-url: https://github.com/laurenchenarides/csu-arec-224
+  repo-url: https://github.com/laurenchenarides/csu-arec-310
   repo-actions: [edit, issue, source]
   open-graph: true
-  site-url: "https://github.com/laurenchenarides/csu-arec-224"
+  site-url: "https://github.com/laurenchenarides/csu-arec-310"
   google-analytics:
     tracking-id: "G-GG4GM3TPXK"
-    anonymize-ip: true
+    anonymize-ip: false
 
 bibliography: readings.bib
 

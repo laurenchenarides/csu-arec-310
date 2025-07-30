@@ -1,11 +1,10 @@
 ## Learning Objectives
 
-- Identify and describe real-world problems in the agribusiness sector using industry evidence (problem identification) 
-- Apply core components of a business model and basic marketing and financial concepts to evaluate solutions to agribusiness problems (business model development and planning)
-- Develop and deliver clear, persuasive oral and written presentations tailored to an entrepreneurial audience (communication and presentation)
-- Collaborate effectively in teams to research, analyze, and present solutions to agribusiness challenges (teamwork and collaboration)
-- Demonstrate professionalism by engaging with mentors through structured meetings (professional engagement)
-- Reflect on experiential learning activities to articulate personal growth and professional skill development (reflective and experiential learning)
+- Understand the functions performed and appreciate the importance and the complexity of the agricultural and food marketing system. (Problem-solving Skill and Professional Development Learning Objectives)
+- Understand the basic workings of the futures markets for speculators and hedgers, and how these may be used by producers and firms to manage price risk. (Technical Competence Learning Objective)
+- Be able to apply the basic economic concepts and analytical tools to understand the market forces that affect prices and to be able to use these tools to evaluate markets, prices, and current agricultural marketing issues. (Technical Competence and Problem-solving Skills Learning Objectives)
+- Refine your ability to think critically and be able to justify your position with relevant economic logic by developing an analytical approach and decision-making framework for economic decisions made by producers & firms in the marketing system. (Communication Skills and Problem-solving Skills Learning Objectives)
+
 
 
 :::{.callout-note collapse=true icon=false}
