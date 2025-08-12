@@ -1,5 +1,6 @@
 ---
-title: From Listener to Producer
+title: "Analyzing Market Forces in Colorado Retail Milk"
+subtitle: "Group Project"
 format: 
   html: 
     theme: cosmo
@@ -9,89 +10,131 @@ format:
 ---
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
-{{< include /files/includes/_msclarity.qmd >}}
+<!-- {{< include /files/includes/_msclarity.qmd >}} -->
 
-In **Week 2**, you listened to *The Podcase* by Patrick J. McGinnis and John Lafkas (2020), where they interviewed Luke Holden of Luke’s Lobster. You got to hear a real founder reflect on the risks, decisions, and grit it took to build a business.
-
-Now it’s your turn.
-
-This semester, you’ll work in a **pod** of four classmates to create a professional-style podcast episode (a "podcase") featuring a real-world mentor—someone with entrepreneurial experience and insights to share.
-
-> You’ll work in the same group of four students (your pod) for both the podcase and the final business case competition. Each pod will be paired with a [mentor](../mentors/mentors.qmd) based on your preferences, skills, and interests. Think of this as a "mentor match," and you’ll stick with this team throughout the semester.
-
-## Your Assignment
-
-Each pod will be paired with a **mentor**. Your goal is to:
-
-🎤 **Produce a compelling podcast episode** that tells a story about the entrepreneurial journey of your mentor.  
-🔍 **Conduct research** to understand their business, sector, and challenges.  
-💡 **Craft questions** that go beyond the surface to reveal their thought process, decisions, and values.  
-📝 **Write up show notes** to summarize the episode and connect it to themes from the course.
-
-Examples of mentor businesses include:
-
-- An agritech startup solving water access
-- A rancher using regenerative grazing models
-- A food systems nonprofit improving rural distribution
+*This is a Group Project. Max number per group is 4. Groups must be submitted via Canvas by the due date listed on Canvas.*
 
 
-## What Makes a Great Podcase?
+## Background
 
-Good podcasts require more than just the technical equipment. To produce a professional-quality episode, you’ll need:
+Cousins Supermarket is one of the largest food retailers in the U.S. They operate about 1,525 grocery retail stores in 20 states under a variety of banner names. Cousins operates about 15 food production or manufacturing facilities producing high quality private-label products. Data and science are at the core of their business. They collect 96% of sales on their customer loyalty card. Like many other agricultural and food businesses, they are increasingly interested in leveraging the data that they collect to increase profits.
 
-- **Background research** on the mentor and their business
-- **Clear structure** for the conversation
-- **Engaging co-hosts** with prepared questions
-- **Teamwork** to execute your vision
+## Project 
 
-Want inspiration? Explore high-quality podcasts like:
+You and your team are working as market data analysts for Cousins Supermarket. Your manager sends you company data in the following Excel file: [milkmarketfmmocwt.xlsx](milkmarketfmmocwt.xls). She tells you that this file is *PROJECT TEAM EYES ONLY* and MUST not be shared outside of your team. The file contains data on Cousins milk sales in Colorado prior to the pandemic: June 2014 – February 2019. She was also able to obtain milk data on the local competitors: Jeminy, Legals, Greens, and Fresh & Better. There were a bunch of small stores that she could not get data on, but she has a good idea of sales for the total market area based on industry estimates. Your manager tells you that milk is a good indicator for overall sales.  
 
-- [The Huberman Lab](https://hubermanlab.com/) (known for tight research and clarity)
-- [How I Built This](https://www.npr.org/series/490248027/how-i-built-this) (great for founder stories)
+Over the course of six emails, your manager asks you to complete a series of data-driven tasks to inform decision-making at Cousins Supermarket. These tasks include analyzing market trends, visualizing competitive data, and assessing strategic options such as mergers. 
+
+## Submission Materials
+
+For the final submission of your project, please ensure that your work is organized and presented professionally. Follow these instructions carefully:
+
+1.	Organize all six emails sequentially in a Word Document. Each email should be clearly labeled (e.g., Email 1: Market Analysis and Predictions). Every file that you create must carry the designation *PROJECT TEAM EYES ONLY* to prevent a data breach. Use the template provided and prepare a cover page before the emails.
+2.	You must also include the Excel file that generated the graphs referenced in your emails must be included, in case your manager wants to make changes to the graphic herself. Each graph must be clearly labeled and formatted to appear on separate Worksheets in your Excel workbook, with axis labels and appropriate titles.
+3.	Your final submission files will include: 
+  (1)	Your email packet, including a cover letter and the six emails, as a Word Doc or PDF.
+  (2)	Your complete Excel workbook with all graphs and exhibits referenced in the emails, as well as the data and calculations used to create the graphs. Each graph must appear in separate Excel Worksheets.
+4.	Use Times New Roman, 12-point font, throughout.
+5.	Submit your final documents via Canvas by the deadline. 
+
+**Late submissions will not be accepted.** Make sure to review all materials and complete the submission before the deadline.
+
+## Project Data
+
+👉 [Download data file here](milkmarketfmmocwt.xlsx)
+
+::: {.callout-note icon=false title="Description of the data file"}
+
+| Variable  | Description                             |
+|-----------|-----------------------------------------|
+| Year | Year of the data point
+| Month | Month (numeric) of the data point
+| MonthName | Month (name) of the data point
+| q1 | Quantity (i.e., gallons) of milk sold via Jeminy
+| q2 | Quantity (i.e., gallons) of milk sold via Cousins
+| q3 | Quantity (i.e., gallons) of milk sold via Legals
+| q4 | Quantity (i.e., gallons) of milk sold via Fresh & Better
+| q5 | Quantity (i.e., gallons) of milk sold via Greens
+| QM | Quantity (i.e., gallons) of milk sold for the entire Colorado market
+| p1 | Weighted average price of milk sold via Jeminy
+| p2 | Weighted average price of milk sold via Cousins
+| p3 | Weighted average price of milk sold via Legals
+| p4 | Weighted average price of milk sold via Fresh & Better
+| p5 | Weighted average price of milk sold via Greens
+| VM | Value of milk sales for the entire Colorado market
+| fmmocwt | The Federal Milk Marketing Order (fmmo) prices per hundredweight (cwt)
+
+: {.striped .responsive}
+
+:::
 
 
+## Email 1: Market Analysis and Predictions
 
-## Roles Within Your Pod
+Management contacts you to gather information about the retail milk market in Colorado. They are asking you to conduct market research and make educated predictions about the general direction of retail milk market growth. Write an email to your manager outlining what your predictions are and what information they are based on. 
 
-Each pod member will take on a defined role:
+In your email, you must answer the following questions:
 
-### 🎬 Pre-Production (Guest Prep)
+1. What types of factors determine whether demand for retail milk will increase, decrease, or stay the same? What retail milk demand factors are at play currently in the Colorado market and what factors were at play during the June 2014 – February 2019 period? 
 
-- Research the mentor’s business and industry
-- Help the co-hosts develop interview questions
-- Meet with the mentor before the recording to prep them
+2. What types of factors determine whether supply for retail milk will increase, decrease, or stay the same? What retail milk supply factors are at play currently in the Colorado market and what factors were at play during the June 2014 – February 2019 period?
 
-### 🎙️ Production (Co-Host)
+Assume that retail milk is a homogeneous product in a market with many buyers and sellers, near perfect information, and mobile resources.
 
-- Co-lead the interview at the CSU Recording Studio
-- Drive the conversation and keep it on track
-- Reflect curiosity and professionalism throughout
+**Cite all your sources.** I will check to make sure that all sources exist and that the information is true and accurate. MLA citation style is not required, but easily accessing where the information is available is required. Note that webpages can disappear from day to day, so it is best practice to save a pdf of any website you reference with the download date in case the link is not working when your manager clicks it. 
 
-### 🕵️‍♀️ In-Studio Fact Checker
+Please refer to the syllabus for the course policy on academic integrity and use of generative AI.
 
-- Sit in on the live session at the CSU Recording Studio
-- Look up facts or data to support/clarify what the mentor shares
-- Step in with prompts or follow-ups if needed
+## Email 2: Data Visualization
 
-### ✍️ Post-Production (Show Notes Lead)
+Your next task is to design a series of graphs and send them in an email to management. The three graphs you are to send to management include:
 
-- Write engaging and informative show notes
-- Highlight important insights, links, and connections to course themes
-- Submit your draft to the team and instructor
+1. Graph the monthly quantity of milk sold by Cousins over time. Our data is collected from August 2014 to January 2019, so the graphs should be for each month-year point in the dataset.  
+
+2. In a separate graph, do the same for Jeminy, Legals, Greens, and Fresh & Better. Make sure that the values of the axes are the same for ease of comparison. Discuss your findings.
+
+3. Graph the market shares of Cousins, Jeminy, Legals, Greens, and Fresh & Better. Discuss your findings. Note: Market share is the percentage of an industry’s total sales over a certain period. It is calculated by dividing total company sales by total industry sales.
+Your email must include a description of the method you used to create the exhibit, and a discussion of the results. The graphs should have labeled axes and make appropriate use of colors.  
 
 
+## Email 3: Market Structure Analysis
 
-## Logistics
+Management is interested in understanding the competitive landscape of the Colorado retail milk market. They want to assess the level of market concentration and determine if the market structure resembles perfect competition or tends towards oligopoly. To achieve this, you are asked to calculate and analyze key market structure indicators. These calculations will help determine Cousins' position in the market relative to its competitors and provide insights into the overall market dynamics.
 
-- **Recording Location:** CSU Library Podcast Studio  
-- **Length:** 30-40 minutes  
-- **Deadline:** Varies by group – schedule with your mentor and instructor  
-- **Submission:** Final show notes uploaded via **Canvas**  
+Management wants to understand the position of the firm in the market. They ask you to perform the following calculations and report back in one, easy-to-understand email:
+
+1. Calculate the HHI of the market and graph it over time. Discuss your findings. 
+2. Calculate the CR4 and the CR2 and graph each over time. Discuss your findings. Can we assume the market is behaving as if it is perfectly competitive?
+
+## Email 4: Price Analysis
+
+Management has requested an analysis of price movements and marketing margins to gain a deeper understanding of pricing trends and profitability in the Colorado retail milk market. This analysis will help identify pricing strategy patterns across the industry, specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.
+
+1. Graph the monthly weighted average price of milk sold by Cousins over time. In a separate graph, do the same for Jeminy, Legals, Greens, and Fresh & Better. Make sure that the values of the axes are the same for ease of comparison. Discuss your findings.
+2. Create a price index (Laspeyres or Paasche) to show how prices in the market are moving over time. Graph it. Note: The "market" is represented by QM (total quantity) and VM (value of milk sales). The price index will represent the price changes relative to the base period. 
+3. Summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. Be sure to interpret your findings and explain the implications for Cousins' pricing strategy position. 
+
+## Email 5: Margin Analysis
+
+1. Using the Federal Milk Marketing Order Class I price (variable = fmmocwt), do the following:
+- Determine the marketing margin of the industry over time. Graph it.
+- Determine the marketing margin for Cousins only over time. Graph it.
+
+Note: The Federal Milk Marketing Order prices are per hundredweight (cwt), so you will need to convert them to gallons to match the retail data you were given by creating a new variable fmmogal = fmmocwt/11.63.
+
+2. Summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. This email must contain discussion of the results of the marketing margins and an interpretation of your findings. Be sure to explain the implications of your findings for Cousins' overall market position.
+
+## Email 6: Merger Analysis
+
+Your manager also shares some confidential information from the CEO. The CEO believes that one way to increase profits will be to merge with another retailer in Colorado. 
+
+1. Estimate the demand for Cousins milk. What is the own-price elasticity? What are the cross-price elasticities? Interpret them. 
+2. Which retailer do you recommend that Cousins merge with? Why?
 
 
 ## How You’ll Be Graded
 
-Your podcase will be evaluated based on:
+Your project will be evaluated based on:
 
 | Criteria         | Points | Description |
 |----------------|--------|-------------------------------|
@@ -103,5 +146,39 @@ Your podcase will be evaluated based on:
 **Total: 100 points** (10% of final grade)
 
 
-> The best podcasts don’t just *talk*—they tell a story, highlight decisions, and leave the listener thinking differently. Let’s make something worth sharing.
+---
+
+## COVER PAGE TEMPLATE
+
+Cousins Supermarket Data Analytics Project: Final Submission
+
+Team Name: [Insert Team Name]
+
+Project Title: Market Data Analysis and Strategic Recommendations for Cousins Supermarket
+
+Date of Submission: [Insert Date]
+
+Instructor: Dr. Chenarides
+
+Course: [Insert Course Name]
+
+**Team Members:**
+
+1. [Insert Full Name]
+2. [Insert Full Name]
+3. [Insert Full Name]
+4. [Insert Full Name]
+
+**Summary of Project:**
+
+This project analyzes the retail milk market in Colorado for Cousins Supermarket from June 2014 to February 2019, using sales data to assess market trends, pricing strategies, competition, and the potential for mergers. 
+
+**Contents:**
+
+Email 1: Market Analysis and Predictions <br>
+Email 2: Data Visualization <br>
+Email 3: Market Structure Analysis <br>
+Email 4: Price Analysis <br>
+Email 5: Margin Analysis <br>
+Email 6: Merger Analysis <br>
 

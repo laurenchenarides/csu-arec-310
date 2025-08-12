@@ -1,5 +1,5 @@
 ---
-title: Assignment 4 Load forecast and EV penetration
+title: Homework 4
 #description-meta: "{{<br meta website.description >}}"
 #draft: true
 format: 
@@ -24,24 +24,20 @@ format:
     colorlinks: true
 ---
 
-Load forecast is very important for power system planning and operation. First visit NYISO website's [Custom Reports](https://www.nyiso.com/custom-reports) to explore all sorts of data out there. We will be focusing on day-ahead market (DAM) forcast (1-hour interval), and actual load (5-min interval), and comparing them and analyze how to make forecast better. Download one whole year (2023) of [Real_Time_Dispatch_Actual_Load](/data/2023_OASIS_Real_Time_Dispatch_Actual_Load.csv) and [Day Head Market Load Forcast](/data/2023_OASIS_Day_Ahead_Market_ISO_Load_Forecast.csv) for New York City. (5pts) 
+Homework 4 is an excerpt from [the project instructions](project-instructions.qmd) and covers material related to the recent modules we’ve covered. You can work alone or in your Project Teams, but **everyone must hand in their own assignment**. 
 
-- Plot the load curve and load duration curve of New York City.  
-  -	**Load Curve**: Plot the NYC hourly actual load for 2022, highlighting daily, weekly, and seasonal variations.   
-  -	**Load Duration Curve**: Sort the load data in descending order and plot it to show the distribution of demand over time. This reveals the percentage of time different demand levels occur.  
-- Show the characteristics of hourly load curve of an average day in New York City  
-  - All days average  
-  - Weekday vs. weekend  
-  - Monthly avearge   
-  - Seasonal average (Winter, Spring, Summer, and Fall)   
-- Find the hour(s)/day(s) with the largest forecast error [actual - forcast], and try to explain why (e.g., weather evetns, holidays, disruptions)?  
-- Now make reasonable assumptions of EV penetration rate and EV charging in New York City, and try to show how that would change the load curve. 
-- Should ConEdison/NYPA worry about it, what policy/incentives should you use to change people's charging behavior so to save costs for the utility companies? 
+## Instructions
+
+Management is interested in understanding the competitive landscape of the Colorado retail milk market. They want to assess the level of market concentration and determine if the market structure resembles perfect competition or tends towards oligopoly. To achieve this, you are asked to calculate and analyze key market structure indicators. These calculations will help determine Cousins' position in the market relative to its competitors and provide insights into the overall market dynamics.
+
+Management wants to understand the position of the firm in the market. They ask you to perform the following calculations and report back in one, easy-to-understand email:
+
+1. Calculate the HHI of the market and graph it over time. Discuss your findings. 
+2. Calculate the CR4 and the CR2 and graph both over time. Discuss your findings. Can we assume the market is behaving as if it is perfectly competitive?
 
 
-**Further reading**: 
+**Submission Notes:**
 
-Arvind Jaggi, Senior Economist, Demand Forecasting & Analysis, [Electric Vehicle Forecast Impacts (Gold Book 2021)](https://www.nyiso.com/documents/20142/19415353/04%202021%20GoldBook%20EVForecast.pdf/bc823f27-cbbd-669f-8d76-e695d59b9bed)
-
-Play around the [En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=22.10.0&p1=110&p7=100&p10=5&p16=-0.03&p23=-30&p30=-0.07&p35=2&p39=250&p47=5&p50=5&p53=100&p55=100&p57=-10&p59=-100&p63=8.9&p65=100&p67=100) model, and change some of the parameters and check how assumptions affect modeling results. 
+- You must create a new `date` variable by combining the `month` and `year` variables using an Excel formula.
+- Each graph should be formatted to appear on their own worksheet. Points will be deducted for graphs that are embedded on the data sheet itself.
 

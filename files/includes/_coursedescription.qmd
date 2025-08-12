@@ -2,3 +2,4 @@
 
 The primary objective is to foster development and understanding of key agricultural marketing issues and concerns, equip you with analytical skills that may be utilized to evaluate different marketing problems and programs from both the industry and firm perspective. This course will provide you with an understanding of economic concepts that will be employed for analyzing issues in agricultural marketing
 
+## Prerequisite: AREC/ECON 202 (Principles of Microeconomics)

@@ -1,0 +1,47 @@
+---
+title: Homework 5
+#description-meta: "{{<br meta website.description >}}"
+#draft: true
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+---
+
+Homework 5 is an excerpt from [the project instructions](project-instructions.qmd) and covers material related to the recent modules we’ve covered. You can work alone or in your Project Teams, but **everyone must hand in their own assignment**. 
+
+## Instructions
+
+To gain a deeper understanding of pricing trends and profitability in the Colorado retail milk market, management has requested an analysis of price movements and marketing margins. This analysis will help identify patterns in pricing strategies across the industry and specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.
+
+You are required to summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. Be sure to explain the implications of your findings for Cousins' pricing strategy and overall market position.
+
+1. Create a price index (Laspeyres *or* Paasche) to show how the aggregate price in the market is moving over time. Graph it. Discuss the construction of the price index and your findings.
+2. Using the Federal Milk Marketing Order Class I price (`fmmocwt`), calculate the following as two separate variables and plot them on the same graph:
+    (a) the industry-wide marketing margin 
+    (b) the marketing margin for Cousins, only. 
+3. Discuss your results.   
+
+**Submission Notes:**
+
+- Start with the Excel workbook that was graded after assignment 4. This way, you will not have to create a new `date` variable by combining the `month` and `year` variables using an Excel formula.
+- The Federal Milk Marketing Order prices are per hundredweight (cwt), so you will need to convert them to gallons to match the retail data you were given. 
+- Each graph should be formatted to appear on their own worksheet. Points will be deducted for graphs that are embedded on the data sheet itself.
+- Your email should be clear, concise, and actionable, providing management with the information they need to make informed decisions about Cousins' pricing strategies in the Colorado retail milk market.
+

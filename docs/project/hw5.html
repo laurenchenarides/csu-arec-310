@@ -9,7 +9,7 @@
 <meta name="author" content="Lauren Chenarides">
 <meta name="description" content="Course on Food and Agricultural Markets developed by Dr.&nbsp;Lauren Chenarides.">
 
-<title>Homework 4 – Food &amp; Ag Markets</title>
+<title>Homework 5 – Food &amp; Ag Markets</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,7 +79,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
 
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Homework 4 – Food &amp; Ag Markets">
+<meta property="og:title" content="Homework 5 – Food &amp; Ag Markets">
 <meta property="og:description" content="Course on Food and Agricultural Markets developed by Dr.&nbsp;Lauren Chenarides">
 <meta property="og:site_name" content="Food &amp; Ag Markets">
 </head>
@@ -158,14 +158,14 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
   <ul>
   <li><a href="#instructions" id="toc-instructions" class="nav-link active" data-scroll-target="#instructions">Instructions</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/laurenchenarides/csu-arec-310/edit/main/project/hw4.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/blob/main/project/hw4.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="hw4.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/laurenchenarides/csu-arec-310/edit/main/project/hw5.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/blob/main/project/hw5.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="hw5.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Homework 4</h1>
+<h1 class="title">Homework 5</h1>
 </div>
 
 
@@ -182,19 +182,26 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
 </header>
 
 
-<p>Homework 4 is an excerpt from <a href="../project/project-instructions.html">the project instructions</a> and covers material related to the recent modules we’ve covered. You can work alone or in your Project Teams, but <strong>everyone must hand in their own assignment</strong>.</p>
+<p>Homework 5 is an excerpt from <a href="../project/project-instructions.html">the project instructions</a> and covers material related to the recent modules we’ve covered. You can work alone or in your Project Teams, but <strong>everyone must hand in their own assignment</strong>.</p>
 <section id="instructions" class="level2">
 <h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
-<p>Management is interested in understanding the competitive landscape of the Colorado retail milk market. They want to assess the level of market concentration and determine if the market structure resembles perfect competition or tends towards oligopoly. To achieve this, you are asked to calculate and analyze key market structure indicators. These calculations will help determine Cousins’ position in the market relative to its competitors and provide insights into the overall market dynamics.</p>
-<p>Management wants to understand the position of the firm in the market. They ask you to perform the following calculations and report back in one, easy-to-understand email:</p>
+<p>To gain a deeper understanding of pricing trends and profitability in the Colorado retail milk market, management has requested an analysis of price movements and marketing margins. This analysis will help identify patterns in pricing strategies across the industry and specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.</p>
+<p>You are required to summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you’ve identified. Be sure to explain the implications of your findings for Cousins’ pricing strategy and overall market position.</p>
 <ol type="1">
-<li>Calculate the HHI of the market and graph it over time. Discuss your findings.</li>
-<li>Calculate the CR4 and the CR2 and graph both over time. Discuss your findings. Can we assume the market is behaving as if it is perfectly competitive?</li>
+<li>Create a price index (Laspeyres <em>or</em> Paasche) to show how the aggregate price in the market is moving over time. Graph it. Discuss the construction of the price index and your findings.</li>
+<li>Using the Federal Milk Marketing Order Class I price (<code>fmmocwt</code>), calculate the following as two separate variables and plot them on the same graph:
+<ol type="a">
+<li>the industry-wide marketing margin</li>
+<li>the marketing margin for Cousins, only.</li>
+</ol></li>
+<li>Discuss your results.</li>
 </ol>
 <p><strong>Submission Notes:</strong></p>
 <ul>
-<li>You must create a new <code>date</code> variable by combining the <code>month</code> and <code>year</code> variables using an Excel formula.</li>
+<li>Start with the Excel workbook that was graded after assignment 4. This way, you will not have to create a new <code>date</code> variable by combining the <code>month</code> and <code>year</code> variables using an Excel formula.</li>
+<li>The Federal Milk Marketing Order prices are per hundredweight (cwt), so you will need to convert them to gallons to match the retail data you were given.</li>
 <li>Each graph should be formatted to appear on their own worksheet. Points will be deducted for graphs that are embedded on the data sheet itself.</li>
+<li>Your email should be clear, concise, and actionable, providing management with the information they need to make informed decisions about Cousins’ pricing strategies in the Colorado retail milk market.</li>
 </ul>
 
 
@@ -632,7 +639,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/laurenchenarides/csu-arec-310/edit/main/project/hw4.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/blob/main/project/hw4.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/laurenchenarides/csu-arec-310/edit/main/project/hw5.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/blob/main/project/hw5.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
