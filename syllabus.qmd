@@ -30,17 +30,15 @@ format:
 
 **Department of Agricultural and Resource Economics**
 
-**Course Name**: [AREC 310](https://colostate.instructure.com/courses/212872) (XXXXX), Food and Agricultural Markets
+**Course Name**: Food and Agricultural Markets
+
+**Course Number**: [AREC 310](https://colostate.instructure.com/courses/209950) (CRN 66760)
 
 **Time**: 9:30 AM - 10:45 AM T R
 
-**Instructor**: Lauren Chenarides
+**Location**: ENGRG B 103
 
-**Email**: <Lauren.Chenarides@colostate.edu>	
-
-**Location**: Clark C 248
-
-**Term:** August 25 -- December 19, 2025
+**Term:** August 25 -- December 14, 2025
 
 ::: {.callout-note icon=false title="Contact Information"}
 **Instructor**: Dr. Lauren Chenarides
@@ -58,9 +56,9 @@ format:
 
 ## Course Links
 
-- [Link to Canvas](https://colostate.instructure.com/courses/212872)
+- [Link to Canvas](https://colostate.instructure.com/courses/209950)
 - [Link to Course Website](https://laurenchenarides.github.io/csu-arec-310/)
-- [Link to Coursepack](https://hbsp.harvard.edu/import/1220179)
+- [Link to Coursepack](https://hbsp.harvard.edu/import/1227355)
 
 {{< include /files/includes/_coursedescription.qmd >}}
 
@@ -71,13 +69,13 @@ format:
 ### Required
 
 - **Harvard Business Publishing Coursepack**  
-  This is a required Excel refresher.  
+  This is a required Excel refresher. Duration: 6 hours.  
   👉 [Access Coursepack Here](https://hbsp.harvard.edu/import/1220179)
 
 ### Optional Resource
 
-- **Kuratko, Donald F.** *Entrepreneurship: Theory, Process, Practice*, 12th Edition. Cengage.  
-  This is our core textbook. Weekly lectures will be based on chapters in this textbook. Purchase of the textbook is not required for Fall 2025. 
+- **Norwood, F. B., Lusk, J. L., Peel, D. S., & Riley, J. M.** (2021). *Agricultural marketing and price analysis.* Waveland Press.  
+  This is our core textbook. Weekly lectures will be based on chapters in this textbook. Purchase of the textbook is **not required** for Fall 2025. 
 
 Additional readings and materials may be posted online throughout the semester.
  
@@ -98,11 +96,11 @@ Marketing Project            | 150   |
 
 ### Grading Policies
 
-- Exams: Two examinations will be offered. Both exams will be worth 150 points each. If you miss the exam for a university excused absence it is your responsibility to make arrangements with me at least 2 weeks before the exam. The exams will be worth 300 points in total.
+- **Exams:** Two examinations will be offered. Both exams will be worth 150 points each. If you miss the exam for a university excused absence it is your responsibility to make arrangements with me at least 2 weeks before the exam. The exams will be worth 300 points in total.
 
-- Homework: There will be six homework sets throughout the course that will include problem sets, computer-based exercises, etc. There will also be one introductory bio due at the beginning of the semester. These assignments will be worth approximately 210 points in total. **Late submissions are not accepted.** Any assignment submitted after the deadline will automatically receive a zero.
+- **Homework:** There will be six homework sets throughout the course that will include problem sets, computer-based exercises, etc. There will also be one introductory bio due at the beginning of the semester. These assignments will be worth approximately 210 points in total. **Late submissions are not accepted.** Any assignment submitted after the deadline will automatically receive a zero.
 
-- Project: There will be a group project. Details will be provided later in the semester. The project will be worth 150 points.
+- **Project:** This will be a group project. The project is Excel-based. The project will be worth 150 points.
 
 - All graded components are weighted individually and not curved.
 
@@ -136,11 +134,11 @@ B-    | 83.33% – 80.00% |     |
 - **F (Failing):** Inadequate performance or failure to meet minimum course requirements.
 :::
 
+{{< include /files/includes/_academicintegrity.qmd >}}
+
 {{< include /files/includes/_communityprinciples.qmd >}}
 
 {{< include /files/includes/_mentalhealth.qmd >}}
-
-{{< include /files/includes/_academicintegrity.qmd >}}
 
 {{< include /files/includes/_religiousobservances.qmd >}}
 
