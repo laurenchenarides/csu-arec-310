@@ -40,7 +40,7 @@ repo-actions: false
 | 15   | 12/2       | T   | Lecture 7.2                                 |                            |
 | 15   | 12/4       | R   | Exam 2 Study Session (In-Class)             |                            |
 | 16   | 12/9       | T   | **Exam 2** (In-Class)                       |                            |
-| 16   | 12/11      | R   | No Lecture                                  |                            |
+| 16   | 12/11      | R   | No Lecture                                  | Market Data Analysis Project  |
 
 : {.striped .responsive}
 

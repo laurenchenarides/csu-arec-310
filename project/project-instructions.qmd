@@ -25,17 +25,21 @@ You and your team are working as market data analysts for Cousins Supermarket. Y
 
 Over the course of six emails, your manager asks you to complete a series of data-driven tasks to inform decision-making at Cousins Supermarket. These tasks include analyzing market trends, visualizing competitive data, and assessing strategic options such as mergers. 
 
-## Submission Materials
+## Submission Guidelines
 
 For the final submission of your project, please ensure that your work is organized and presented professionally. Follow these instructions carefully:
 
-1.	Organize all six emails sequentially in a Word Document. Each email should be clearly labeled (e.g., Email 1: Market Analysis and Predictions). Every file that you create must carry the designation *PROJECT TEAM EYES ONLY* to prevent a data breach. Use the template provided and prepare a cover page before the emails.
-2.	You must also include the Excel file that generated the graphs referenced in your emails must be included, in case your manager wants to make changes to the graphic herself. Each graph must be clearly labeled and formatted to appear on separate Worksheets in your Excel workbook, with axis labels and appropriate titles.
+1.	Organize all six emails sequentially in a Word Document. 
+    - Each email should be clearly labeled (e.g., Email 1: Market Analysis and Predictions). 
+    - Every file that you create must carry the designation *PROJECT TEAM EYES ONLY* to prevent a data breach. 
+    - Prepare a cover page before the emails using the template provided below.
+    - Use Times New Roman, 12-point font, throughout.
+2.	You must include the Excel file that generated the graphs referenced in your emails. 
+    - Each graph must be clearly labeled and formatted to appear on **separate Worksheets** in your Excel workbook, with axis labels and appropriate titles.
 3.	Your final submission files will include: 
-  (1)	Your email packet, including a cover letter and the six emails, as a Word Doc or PDF.
-  (2)	Your complete Excel workbook with all graphs and exhibits referenced in the emails, as well as the data and calculations used to create the graphs. Each graph must appear in separate Excel Worksheets.
-4.	Use Times New Roman, 12-point font, throughout.
-5.	Submit your final documents via Canvas by the deadline. 
+    (1)	Your email packet, including a cover letter and the six emails, as a Word Doc or PDF.
+    (2)	Your complete Excel workbook with all graphs and exhibits referenced in the emails, as well as the data and calculations used to create the graphs. Each graph must appear in separate Excel Worksheets.
+4.	Submit your final documents via Canvas by the deadline. 
 
 **Late submissions will not be accepted.** Make sure to review all materials and complete the submission before the deadline.
 
@@ -117,8 +121,9 @@ Management has requested an analysis of price movements and marketing margins to
 ## Email 5: Margin Analysis
 
 1. Using the Federal Milk Marketing Order Class I price (variable = fmmocwt), do the following:
-- Determine the marketing margin of the industry over time. Graph it.
-- Determine the marketing margin for Cousins only over time. Graph it.
+
+  - Determine the marketing margin of the industry over time. Graph it.
+  - Determine the marketing margin for Cousins only over time. Graph it.
 
 Note: The Federal Milk Marketing Order prices are per hundredweight (cwt), so you will need to convert them to gallons to match the retail data you were given by creating a new variable fmmogal = fmmocwt/11.63.
 
