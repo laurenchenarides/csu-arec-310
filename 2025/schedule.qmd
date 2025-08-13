@@ -7,7 +7,9 @@ repo-actions: false
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 <!-- {{< include /files/includes/_msclarity.qmd >}} -->
 
-| Week | Date       | Day | Lecture Content                             | Assignment^[Homework assignments are due the corresponding Fridays at 11:59 PM]        |
+All lecture slides are available on Canvas.
+
+| Week | Date       | Day | Lecture Content^[First number indicates Module, Second number indicates Lecture]                             | Assignment^[Homework assignments are due the corresponding Fridays at 11:59 PM]        |
 |------|------------|-----|---------------------------------------------|----------------------------|
 | 1    | 8/26       | T   | Lecture 1.1                                 |                            |
 | 1    | 8/28       | R   | Lecture 1.2                                 | Homework 1                 |

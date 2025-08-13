@@ -1369,21 +1369,21 @@
     "href": "2025/schedule.html",
     "title": "Fall 2025 Course Schedule",
     "section": "",
-    "text": "Week\nDate\nDay\nLecture Content\nAssignment1\n\n\n\n\n1\n8/26\nT\nLecture 1.1\n\n\n\n1\n8/28\nR\nLecture 1.2\nHomework 1\n\n\n2\n9/2\nT\nLecture 2.1\n\n\n\n2\n9/4\nR\nLecture 3.1\nHomework 2\n\n\n3\n9/9\nT\nLecture 3.2\n\n\n\n3\n9/11\nR\nIn-Class Activity: General Price Analysis\n\n\n\n4\n9/16\nT\nLecture 3.3\n\n\n\n4\n9/18\nR\nLecture 3.4\nHomework 3\n\n\n5\n9/23\nT\nLecture 4.1\n\n\n\n5\n9/25\nR\nLecture 4.1\n\n\n\n6\n9/30\nT\nLecture 4.2\n\n\n\n6\n10/2\nR\nLecture 4.2\n\n\n\n7\n10/7\nT\nLecture 4.3\n\n\n\n7\n10/9\nR\nExam 1 Study Session (In-Class)\n\n\n\n8\n10/14\nT\nExam 1 (In-Class)  Bring a calculator!\n\n\n\n8\n10/16\nR\nIn-Class Activity: Excel Lab\n\n\n\n9\n10/21\nT\nLecture 5.1\n\n\n\n9\n10/23\nR\nLecture 5.2\nHomework 4\n\n\n10\n10/28\nT\nIn-Class Activity: Market Power in Beef Industry\n\n\n\n10\n10/30\nR\nLecture 6.1\n\n\n\n11\n11/4\nT\nIn-Class Activity: Price Indexes\n\n\n\n11\n11/6\nR\nLecture 7.1\nHomework 5\n\n\n12\n11/11\nT\nLecture 8.1\n\n\n\n12\n11/13\nR\nLecture 8.2\n\n\n\n13\n11/18\nT\nLecture 8.3\n\n\n\n13\n11/20\nR\nLecture 8.4\nHomework 6\n\n\n14\n11/25\nT\nFall Recess\n\n\n\n14\n11/27\nR\nFall Recess (Thanksgiving)\n\n\n\n15\n12/2\nT\nLecture 7.2\n\n\n\n15\n12/4\nR\nExam 2 Study Session (In-Class)\n\n\n\n16\n12/9\nT\nExam 2 (In-Class)  Bring a calculator!\n\n\n\n16\n12/11\nR\nNo Lecture\nMarket Data Analysis Project\nNote: T–Tuesday; R–Thursday"
+    "text": "All lecture slides are available on Canvas.\nNote: T–Tuesday; R–Thursday"
   },
   {
     "objectID": "2025/schedule.html#footnotes",
     "href": "2025/schedule.html#footnotes",
     "title": "Fall 2025 Course Schedule",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nHomework assignments are due the corresponding Fridays at 11:59 PM↩︎"
+    "text": "Footnotes\n\n\nFirst number indicates Module, Second number indicates Lecture↩︎\nHomework assignments are due the corresponding Fridays at 11:59 PM↩︎"
   },
   {
     "objectID": "2025/readings.html",
     "href": "2025/readings.html",
     "title": "Readings",
     "section": "",
-    "text": "Here is a list of readings for the course. All readings are available on Brightspace."
+    "text": "Here is a list of readings for the course. All readings are available on Canvas."
   },
   {
     "objectID": "2025/readings.html#lecture-1",
@@ -3267,5 +3267,61 @@
     "title": "Analyzing Market Forces in Colorado Retail Milk",
     "section": "Submission Guidelines",
     "text": "Submission Guidelines\nFor the final submission of your project, please ensure that your work is organized and presented professionally. Follow these instructions carefully:\n\nOrganize all six emails sequentially in a Word Document.\n\nEach email should be clearly labeled (e.g., Email 1: Market Analysis and Predictions).\nEvery file that you create must carry the designation PROJECT TEAM EYES ONLY to prevent a data breach.\nPrepare a cover page before the emails using the template provided below.\nUse Times New Roman, 12-point font, throughout.\n\nYou must include the Excel file that generated the graphs referenced in your emails.\n\nEach graph must be clearly labeled and formatted to appear on separate Worksheets in your Excel workbook, with axis labels and appropriate titles.\n\nYour final submission files will include:\n\nYour email packet, including a cover letter and the six emails, as a Word Doc or PDF.\nYour complete Excel workbook with all graphs and exhibits referenced in the emails, as well as the data and calculations used to create the graphs. Each graph must appear in separate Excel Worksheets.\n\nSubmit your final documents via Canvas by the deadline.\n\nLate submissions will not be accepted. Make sure to review all materials and complete the submission before the deadline."
+  },
+  {
+    "objectID": "2025/readings.html#module-1",
+    "href": "2025/readings.html#module-1",
+    "title": "Readings",
+    "section": "Module 1",
+    "text": "Module 1\n\nRichard L Kohis, Richard L Kohis, and Joseph N Uhl Marketing of Agricultural Products (Prentice-Hall of India Pvt. Limited, 2005). (Chapters 1-3)"
+  },
+  {
+    "objectID": "2025/readings.html#module-2",
+    "href": "2025/readings.html#module-2",
+    "title": "Readings",
+    "section": "Module 2",
+    "text": "Module 2\n\nF Bailey Norwood et al. Agricultural Marketing and Price Analysis (Waveland Press, 2021). (Chapter 6)"
+  },
+  {
+    "objectID": "2025/readings.html#module-3",
+    "href": "2025/readings.html#module-3",
+    "title": "Readings",
+    "section": "Module 3",
+    "text": "Module 3\n\nCampbell R McConnell, Stanley L Brue, and Sean Masaki Flynn Microeconomics: Principles, Problems, and Policies (McGraw Hill, 2018). (Chapters 3 & 6)"
+  },
+  {
+    "objectID": "2025/readings.html#module-4",
+    "href": "2025/readings.html#module-4",
+    "title": "Readings",
+    "section": "Module 4",
+    "text": "Module 4\n\nMcConnell, Brue, and Flynn (Chapters 10-13)\nJ MacDonald, X Dong, and K Fuglie “Concentration and Competition in US Agriculture,” Economic Research Service, USDA. Economic Information Bulletin, no. 256 (2023)."
+  },
+  {
+    "objectID": "2025/readings.html#module-5",
+    "href": "2025/readings.html#module-5",
+    "title": "Readings",
+    "section": "Module 5",
+    "text": "Module 5\n\nMcConnell, Brue, and Flynn Microeconomics. (Chapter 14)\nYuliya V Bolotova “Market Power in the US Beef Packing Industry,” Applied Economics Teaching Resources 6, no. 1 (2024)."
+  },
+  {
+    "objectID": "2025/readings.html#module-6",
+    "href": "2025/readings.html#module-6",
+    "title": "Readings",
+    "section": "Module 6",
+    "text": "Module 6\n\nUnknown Index Numbers, n.d. (Chapter 3)"
+  },
+  {
+    "objectID": "2025/readings.html#module-7",
+    "href": "2025/readings.html#module-7",
+    "title": "Readings",
+    "section": "Module 7",
+    "text": "Module 7\n\nNorwood et al. Agricultural Marketing and Price Analysis. (Chapter 7)"
+  },
+  {
+    "objectID": "2025/readings.html#module-8",
+    "href": "2025/readings.html#module-8",
+    "title": "Readings",
+    "section": "Module 8",
+    "text": "Module 8\n\nKohis, Kohis, and Uhl Marketing of Agricultural Products. (Chapter 20)\nNorwood et al. Agricultural Marketing and Price Analysis. (Chapter 9)"
   }
 ]
