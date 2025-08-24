@@ -1,0 +1,31 @@
+---
+title: In-Class Lab - Market Analysis Project
+page-layout: full
+repo-actions: false
+---
+
+This lab gives you hands-on practice with the tools and steps you’ll use in your [Market Analysis Project](../project/project-instructions.qmd). By the end of class, you’ll have had more time to spend on the project, and a clearer idea of how to each part of the analysis is connected.
+
+**Time:** 50 minutes
+
+## Objectives
+
+By the end of this lab, you will:
+
+- Manipulate raw data and create new variables.
+
+- Construct basic descriptive statistics and visualizations.
+
+- Identify preliminary patterns in market structure and pricing.
+
+- Connect your findings to the larger questions of the project.
+
+## Notes for Students
+
+- This lab is *not graded*; the goal is to practice, not to perfect.
+
+- Bring your questions—the project builds on these same steps.
+
+- Collaboration is encouraged, but each student should be engaged with the lab independently.
+
+

@@ -18,6 +18,12 @@ website:
         href: 2025/schedule.qmd
       - text: Readings
         href: 2025/readings.qmd
+      - text: Working with Excel
+        menu: 
+        - text: "Excel Primer (Assignment 2)"
+          href: 2025/excel-course.qmd
+        - text: "Excel Lab (In-Class)"
+          href: 2025/excel-lab.qmd
       - text: Market Data Analysis Project
         href: project/project-instructions.qmd                
       - text: Homework Assignments
