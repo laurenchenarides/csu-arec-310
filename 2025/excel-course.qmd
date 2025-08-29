@@ -6,7 +6,7 @@ repo-actions: false
 
 This activity introduces you to spreadsheet modeling as a tool for analyzing food and agricultural markets. Spreadsheets are widely used across agribusiness, government, and research to manage data, run scenarios, and support decision-making. Developing comfort with Excel will help you complete assignments in this course and prepare you for future coursework and internships.
 
-👉 [Access Coursepack Here](https://hbsp.harvard.edu/import/1220179)
+👉 [Access Coursepack Here](https://hbsp.harvard.edu/import/1227355)
 
 ## What You’ll Do
 
