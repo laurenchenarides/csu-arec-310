@@ -16,8 +16,8 @@ All lecture slides are available on Canvas.
 | 2    | 9/2        | T   | Lecture 2.1                                 |                            |
 | 2    | 9/4        | R   | Lecture 3.1                                 | Homework 2                 |
 | 3    | 9/9        | T   | Lecture 3.2                                 |                            |
-| 3    | 9/11       | R   | *In-Class Activity: General Price Analysis* |                            |
-| 4    | 9/16       | T   | Lecture 3.3                                 |                            |
+| 3    | 9/11       | T   | Lecture 3.3                                 |                            |
+| 4    | 9/16       | R   | *In-Class Activity: General Price Analysis* |                            |
 | 4    | 9/18       | R   | Lecture 3.4                                 | Homework 3                 |
 | 5    | 9/23       | T   | Lecture 4.1                                 |                            |
 | 5    | 9/25       | R   | Lecture 4.1                                 |                            |
