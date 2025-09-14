@@ -28,10 +28,18 @@ website:
         href: project/project-instructions.qmd                
       - text: Homework Assignments
         menu: 
+        - text: "Assignment 3"
+          href: 2025/hw3.qmd
         - text: "Assignment 4"
           href: project/hw4.qmd
         - text: "Assignment 5"
           href: project/hw5.qmd
+      - text: Additional Resources
+        menu: 
+        - text: "General Price Analysis"
+          href: 2025/A3.general_price_analysis.docx
+        - text: "Equilibrium Displacement Models"
+          href: 2025/edm.qmd
       # - text: Lectures
       #   href: lectures/lectures.qmd
       # - text: Archive

@@ -1,0 +1,11 @@
+---
+title: "General Price Analysis"
+format: pdf
+header-includes:
+  - \KOMAoption{captions}{tableheading}
+  - \usepackage{tikz}
+  - \usetikzlibrary{arrows.meta,calc,intersections}
+---
+
+
+
