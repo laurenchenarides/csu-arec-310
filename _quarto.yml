@@ -37,7 +37,7 @@ website:
       - text: Additional Resources
         menu: 
         - text: "General Price Analysis"
-          href: 2025/A3.general_price_analysis.docx
+          href: 2025/general_price_analysis.pdf
         - text: "Equilibrium Displacement Models"
           href: 2025/edm.qmd
       # - text: Lectures
