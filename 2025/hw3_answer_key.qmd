@@ -25,11 +25,52 @@ You are given the following demand schedule for white, whole grain processed flo
 | 20                          | 0                   |
 
 a. Plot the demand curve using appropriate economic conventions.  
+
+Demand is linear from $(Q=10, P=15)$ to $(Q=0, P=20)$.
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[>=Latex, scale=0.9]
+  % axes
+  \draw[->] (0,0) -- (11,0) node[below] {$Q$ (thousand lbs)};
+  \draw[->] (0,0) -- (0,8) node[left] {$P$ (\$/lb)};
+  % ticks
+  \foreach \x/\lab in {0/0,2/2,4/4,6/6,8/8,10/10} \draw (\x,0) -- ++(0,0.1) node[below,yshift=-2pt]{\lab};
+  \foreach \y/\lab in {0/0,3/15,4/18,5/20} \draw (0,\y) -- ++(0.1,0) node[left,xshift=-8pt]{\lab};
+  % demand line
+  \draw[thick,blue] (0,5) -- (10,3);
+  % labeled endpoints
+  \fill (10,3) circle (1.5pt) node[below right] {$Q{=}10,\ P{=}15$};
+  \fill (0,5) circle (1.5pt) node[above left] {$Q{=}0,\ P{=}20$};
+  \node[blue] at (7.5,3.4) {$D$};
+\end{tikzpicture}
+\caption{Demand for white whole grain processed flour.}
+\end{figure}
+
+
 b. What is the slope? Is it positive or negative? Why?  
+
+With \(P\) on the vertical axis and \(Q\) on the horizontal axis, slope is \(\Delta P/\Delta Q = (20-15)/(0-10) = -0.5\). Negative because of the law of demand (price and quantity demanded move in opposite directions).
+
+
 c. Calculate the own-price elasticity of demand when the price changes from \$18/lb to \$15/lb. Is it elastic or inelastic? Interpret.  
+
+From table: at \(P_1=18\), \(Q_1=4\); at \(P_2=15\), \(Q_2=10\).
+
+\[
+E_D=\frac{\frac{Q_2-Q_1}{(Q_1+Q_2)/2}}{\frac{P_2-P_1}{(P_1+P_2)/2}}
+=\frac{(10-4)/7}{(15-18)/16.5}\approx \frac{0.8571}{-0.1818}\approx -4.71
+\]
+Elastic (absolute value \(>1\)). Interpretation: a 1% drop in price increases quantity demanded by about 4.7\%.
+
+
 d. ConAgra (the owner of Ultragrain, a version of processed whole wheat flour) recently began an advertising campaign highlighting the health benefits of increasing whole grains in a diet. Will this affect the demand schedule given above? If so, how? Clearly illustrate on your graph from (a). If not, explain why.  
+
+Shifts **demand right** (higher quantity at each price). On the graph: a parallel rightward shift of the demand curve.
+
 e. Researchers at CSU recently developed a new method to clean the haulers that transport the white, whole wheat grain from the farms to the processing plants that decreases the amount of time it takes to clean the haulers. Will this affect the demand schedule given above? If so, how? Clearly illustrate on your graph from (a). If not, explain why.  
 
+This is a **supply-side** cost/time change, not a demand determinant. Demand schedule **unchanged**.
 
 ## Problem 2: Supply (5 points)
 
@@ -45,19 +86,109 @@ You are given the following schedule of supply for white, whole grain processed 
 | 14                          | 2                   |
 
 a. Plot the supply curve using appropriate economic conventions.  
+
+Supply is linear from $(Q=2, P=14)$ to $(Q=12, P=34)$.
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[>=Latex, scale=0.9]
+  % axes
+  \draw[->] (0,0) -- (13,0) node[below] {$Q$ (thousand lbs)};
+  \draw[->] (0,0) -- (0,10) node[left] {$P$ (\$/lb)};
+  % ticks
+  \foreach \x/\lab in {0/0,2/2,4/4,6/6,8/8,10/10,12/12} \draw (\x,0) -- ++(0,0.1) node[below,yshift=-2pt]{\lab};
+  \foreach \y/\lab in {0/0,3/14,6/22,8.5/30,10/34} \draw (0,\y) -- ++(0.1,0) node[left,xshift=-8pt]{\lab};
+  % supply line
+  \draw[thick,green!50!black] (2,3) -- (12,10);
+  % labeled endpoints
+  \fill (2,3) circle (1.5pt) node[left] {$Q{=}2,\ P{=}14$};
+  \fill (12,10) circle (1.5pt) node[above right] {$Q{=}12,\ P{=}34$};
+  \node[green!50!black] at (9,8.2) {$S$};
+\end{tikzpicture}
+\caption{Supply for white whole grain processed flour.}
+\end{figure}
+
+
 b. What is the slope? Is it positive or negative? Why?  
+
+With \(P\) vertical, \(Q\) horizontal: \(\Delta P/\Delta Q = (34-14)/(12-2) = 20/10 = 2\) (positive, law of supply).
+
 c. Calculate the own-price elasticity of supply when the price changes from \$22/lb to \$30/lb. Is it elastic or inelastic? Interpret.  
+
+From table: \(P_1=22, Q_1=6\); \(P_2=30, Q_2=10\).
+
+\[
+E_S=\frac{\frac{10-6}{(6+10)/2}}{\frac{30-22}{(22+30)/2}}
+=\frac{4/8}{8/26}\approx \frac{0.5}{0.3077}\approx 1.63
+\]
+Elastic (\(>1\)). Interpretation: a 1% rise in price raises quantity supplied by about 1.6\%.
+
+
 d. ConAgra recently began an advertising campaign highlighting the health benefits of increasing whole grains in a diet. Will this affect the supply schedule given above? If so, how? Clearly illustrate on your graph from (a). If not, explain why.  
+
+Advertising is a **demand** determinant. The **supply** schedule does **not** shift.
+
+
 e. Researchers at CSU recently developed a new method to clean the haulers that transport the white, whole wheat grain from the farms to the processing plants that decreases the amount of time it takes to clean the haulers. Will this affect the supply schedule given above? If so, how? Clearly illustrate on your graph from (a). If not, explain why.  
+
+Lowers cost/time per unit → **supply shifts right** (greater quantity at each price).
 
 
 ## Problem 3: Equilibrium (9 points)
 
 Given the supply and demand conditions illustrated in Problems 1 and 2, respectively, answer the following questions.  
 
+Let \(Q_D\) and \(Q_S\) be (thousand lbs), \(P\) in \$/lb.
+
+From Problem 1 (linear), \(dQ/dP=-2\) and point \((P,Q)=(15,10)\) ⇒ \(Q_D = 40 - 2P\).
+
+From Problem 2 (linear), \(dQ/dP=+0.5\) and point \((14,2)\) ⇒ \(Q_S = -5 + 0.5P\).
+
+
 a. What is the equilibrium price and quantity in the white, whole wheat processed flour market under the initial conditions depicted by the demand and supply schedules? Graph it using the complete schedules.  
+
+Solve \(Q_D = Q_S\):
+\[
+40 - 2P = -5 + 0.5P \;\Rightarrow\; 45 = 2.5P \;\Rightarrow\; P^* = 18
+\]
+\[
+Q^* = -5 + 0.5(18) = 4
+\]
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[>=Latex, scale=0.95]
+  % axes
+  \draw[->] (0,0) -- (11,0) node[below] {$Q$ (thousand lbs)};
+  \draw[->] (0,0) -- (0,8) node[left] {$P$ (\$/lb)};
+  % ticks
+  \foreach \x in {0,2,4,6,8,10} \draw (\x,0) -- ++(0,0.1) node[below,yshift=-2pt]{\x};
+  \foreach \y/\lab in {0/0,3/15,4/18,5/20,6/22,8/26} \draw (0,\y) -- ++(0.1,0) node[left,xshift=-8pt]{\lab};
+  % demand (Q=40-2P -> P=(40-Q)/2)
+  \draw[thick,blue] (0,5) -- (10,3);
+  % supply (Q=-5+0.5P -> P=2(Q+5))
+  \draw[thick,green!50!black] (0,10) -- (10,30); % off-scale line; instead plot between known points:
+  \draw[thick,green!50!black] (2,3) -- (12,10);  % main visible segment
+  % equilibrium point (Q=4,P=18)
+  \fill (4,4) circle (2pt) node[above right] {$E(Q^*=4,\ P^*=18)$};
+  % guides
+  \draw[densely dotted] (4,0) -- (4,4);
+  \draw[densely dotted] (0,4) -- (4,4);
+  % labels
+  \node[blue] at (8,3.4) {$D$};
+  \node[green!50!black] at (9.8,8.6) {$S$};
+\end{tikzpicture}
+\caption{Equilibrium at \(P^*=18\), \(Q^*=4\).}
+\end{figure}
+
+
 b. Assume white whole wheat processed flour is a normal good. If food assistance benefits increase, will the equilibrium in the market be different from what you found in part (a)? If so, how? Clearly illustrate on your graph. If not, explain why.  
+
+Demand shifts **right** → \(P\uparrow, Q\uparrow\). Show a parallel outward shift of \(D\) on the graph, new intersection above/right of \(E\).
+
 c. Assume that more farmers start to plant white, whole wheat. Assume that the planting and harvesting conditions were average. Will the equilibrium in the market be different from what you found in part (a)? If so, how? Clearly illustrate on your graph. If not, explain why.  
+
+Supply shifts **right** → \(P\downarrow, Q\uparrow\). Show a parallel outward shift of \(S\), new intersection below/right of \(E\).
 
 
 ## Problem 4: Impact of Higher Beef Prices on the Pork Market (11 points)
@@ -88,7 +219,7 @@ Because beef and pork are substitutes, this price change creates a demand shock 
 ### Step 1. Demand shock
 
 $$
-S_D = (0.6)(10) = 6 \%.
+S_D = (0.6)(10) = 6 \%
 $$  
 
 Because the shock comes from beef prices (a substitute), it shifts the pork demand curve to the right.  
