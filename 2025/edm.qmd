@@ -1,6 +1,8 @@
 ---
 title: "Equilibrium Displacement Models"
-format: pdf
+format: 
+  pdf: 
+    geometry: top=1in, bottom=0.75in, left=1in, right=1in, footskip=0.5in
 header-includes:
   - \KOMAoption{captions}{tableheading}
   - \usepackage{tikz}
@@ -26,6 +28,8 @@ By incorporating elasticities into an **equilibrium displacement model (EDM)**, 
 
 
 ## Endogenous and Exogenous Variables
+
+Equilibrium displacement models are used to assess how *endogenous variables* respond to changes in *exogenous variables*.
 
 In an EDM, all variables are grouped as either **endogenous** or **exogenous**.  
 
@@ -148,7 +152,6 @@ Now we combine supply and demand.
    \% \Delta P = \frac{S_D - S_S}{E_S - E_D}
    $$
 
-
 ## Intuition
 
 - The denominator $(E_S - E_D)$ is positive since $E_S > 0$ and $E_D < 0$.  
@@ -248,46 +251,91 @@ Both give the same $\% \Delta Q$ in equilibrium.
 4. **Solve for price:** Set $\% \Delta Q_S = \% \Delta Q_D$ and solve for $\% \Delta P$.  
 5. **Solve for quantity:** Substitute $\% \Delta P$ into either equation to calculate $\% \Delta Q$.  
 
+
+\newpage
+
 ## Example: Impacts of Manure Regulations in the Pork Market
 
-Pork producers are facing tougher regulations on how they manage and treat hog manure. These regulations raise production costs, which shifts the supply curve **leftward**, raising price and lowering quantity. This movement from one equilibrium to another is referred to as an **equilibrium displacement**.
+Pork producers are facing tougher regulations on how they manage and treat hog manure. These regulations raise production costs, which shifts the supply curve **leftward**, raising price and lowering quantity. We quantify these changes using elasticities and an equilibrium displacement model (EDM).
 
+::: {.callout-note}
+This example uses **long-run elasticities** ($E_S = 2.15$, $E_D = -1.96$).  
+To examine the short-run impacts, simply replace these with short-run elasticities.  
+:::
 
-### Step 1. Represent the Shock
+### Step 1. Express the cost increase as a percent of the current price
 
 Suppose the current hog price is \$50/cwt, and the new regulations increase production costs by \$1/cwt.  
 
-- \$1 is **2%** of \$50.  
-- From the producer’s perspective, paying \$1 more per cwt is like receiving \$1 less in price.  
-
-Thus, this regulation is equivalent to a **2% reduction in effective price**.  
-
-With supply elasticity $E_S = 2.15$:
-
 $$
-S_S = E_S(-2) = 2.15(-2) = -4.3 \%.
+P = \$50 \ \text{per cwt} 
+$$
+$$
+\Delta C = \$1 \ \text{per cwt}
 $$
 
-So the exogenous supply shock is a $-4.3\%$ shift in supply.  
-There is no demand shift: $S_D = 0$.
+Calculate the cost increase as a percentage of the current price:
+
+$$
+\frac{\Delta C}{P} = \frac{\$1}{\$50} = 0.02 = 2\%
+$$
+
+**Interpretation:** Paying \$1 more per cwt is like receiving \$1 less per cwt in revenue. From the producer’s perspective, this is an **effective price decrease** of 2%:
+
+$$
+\% \Delta P_{\text{effective}} = -2\%.
+$$
+
+### Step 2. Convert the effective price change into a supply shock
+
+The **supply elasticity** tells us how responsive producers are to a change in price:
+
+$$
+E_S = \frac{\% \Delta Q_S}{\% \Delta P}.
+$$
+
+Rearrange to solve for the percent change in quantity supplied:
+
+$$
+\% \Delta Q_S = E_S \times (\% \Delta P).
+$$
+This equation says: if the effective price producers receive changes by some percent, then quantity supplied will change by elasticity × that percent. In our case, the regulation is equivalent to a **2% fall in effective price**. It is also important to know that the (long-run) supply elasticity $E_S = 2.15$
+
+\newpage
+
+Substitute the effective price change from Step 1 ($-2\%$) and the long-run supply elasticity $E_S = 2.15$:
+
+$$
+S_S = E_S \times (\% \Delta P_{\text{effective}})
+$$
+$$
+S_S = 2.15 \times (-2)
+$$
+$$
+S_S = -4.3\%
+$$
+
+**Interpretation:** A 2% decrease in effective price leads to a 4.3% decrease in supply.  
+This is the **exogenous supply shock**: $S_S = -4.3\%$.  
+Because nothing changed on the demand side, $S_D = 0$.
 
 
-### Step 2. Write Supply and Demand Equations
+### Step 3. Write the EDM equations
 
 Supply:
+
 $$
-\% \Delta Q_S = E_S(\% \Delta P) + S_S
-= 2.15(\% \Delta P) - 4.3
+\% \Delta Q_S = E_S (\% \Delta P) + S_S = 2.15(\% \Delta P) - 4.3
 $$
 
 Demand:
+
 $$
-\% \Delta Q_D = E_D(\% \Delta P) + S_D
-= -1.96(\% \Delta P) + 0
+\% \Delta Q_D = E_D (\% \Delta P) + S_D = -1.96(\% \Delta P) + 0
 $$
 
 
-### Step 3. Impose Equilibrium
+### Step 4. Impose Equilibrium (Set supply equal to demand)
 
 In equilibrium, $\% \Delta Q_S = \% \Delta Q_D$:
 
@@ -307,39 +355,28 @@ $$
 \% \Delta P = \frac{4.3}{2.15+1.96} = 1.05 \%.
 $$
 
+**Result:** Price rises by about **1.05%**.
 
-### Step 4. Solve for Quantity
+### Step 5. Solve for Quantity
 
 Plug back into supply or demand:
 
-- Supply:
+Using supply:
+
 $$
-\% \Delta Q_S = 2.15(1.05) - 4.3 = -2.05 \%
+\% \Delta Q_S = 2.15(1.05) - 4.3
+$$
+$$
+\% \Delta Q_S \approx -2.05\%
 $$
 
-- Demand:
+Check with demand:
+
 $$
-\% \Delta Q_D = -1.96(1.05) = -2.05 \%
+\% \Delta Q_D = -1.96(1.05) \approx -2.05\%
 $$
+**Result:** Quantity falls by about **2.05%**.
 
-
-### Result
-
-- **Price increases by 1.05%**  
-- **Quantity decreases by 2.05%**
-
-
-::: {.callout-note title="Interpretation"}
-Although regulations raised production costs by 2%, the market price rose by only about 1%. The remainder of the adjustment occurred through reduced output: pork production fell by about 2%.  
-
-This reflects how elasticities distribute the burden of shocks between **price changes** and **quantity changes**.
-:::
-
-
-### Step 5. Short vs. Long Run
-
-This example uses **long-run elasticities** ($E_S = 2.15$, $E_D = -1.96$).  
-To examine the short-run impacts, simply replace these with short-run elasticities.  
 
 ## Pork Market: Supply Shift from Manure Regulations
 
@@ -388,4 +425,13 @@ To examine the short-run impacts, simply replace these with short-run elasticiti
 \end{tikzpicture}
 \caption{Manure regulations raise costs $\Rightarrow$ supply shifts left ($S_0 \to S_1$): $P$ rises, $Q$ falls.}
 \end{figure}
+
+
+::: {.callout-note title="Interpretation"}
+- Although regulations raised production costs by 2%, the market price rose by only about 1%. In other words, a 2% cost increase (relative to price) cannot be fully passed on to consumers.  
+
+- The remainder of the adjustment occurred through reduced output: pork production fell by about 2%.  
+
+- This reflects how elasticities distribute the burden of shocks between **price changes** and **quantity changes**.
+:::
 
