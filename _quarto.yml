@@ -38,6 +38,8 @@ website:
         menu: 
         - text: "Equilibrium Displacement Models"
           href: 2025/edm.qmd
+        - text: "Multi-Sector Model"
+          href: 2025/multi_sector_model.qmd
       # - text: Lectures
       #   href: lectures/lectures.qmd
       # - text: Archive

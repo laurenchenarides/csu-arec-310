@@ -70,11 +70,17 @@ Because beef and pork are substitutes, this price change creates a demand shock 
 
 **Tasks:**  
 
-1. Calculate the value of the demand shock, $S_D$.  
+1. Calculate the value of the demand shock, $S_D$.
+
+*Hint: $S_D = (\text{cross-price elasticity of pork demand w.r.t. beef})(\% \Delta P_{\text{beef}})$*
+
 2. Write the supply and demand equations in elasticity form.  
+
 3. Solve for the equilibrium percent change in pork price, $\% \Delta P$.  
+
 4. Solve for the equilibrium percent change in pork quantity, $\% \Delta Q$.  
+
 5. Briefly explain the intuition behind your results.  
 
-*Hint: Recall that $S_D = (\text{cross-price elasticity})(\% \Delta P_{\text{beef}})$*  
+  
 

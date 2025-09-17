@@ -3218,5 +3218,145 @@
     "title": "Analyzing Market Forces in Colorado Retail Milk",
     "section": "COVER PAGE TEMPLATE",
     "text": "COVER PAGE TEMPLATE\nCousins Supermarket Data Analytics Project: Final Submission\nTeam Name: [Insert Team Name]\nProject Title: Market Data Analysis and Strategic Recommendations for Cousins Supermarket\nDate of Submission: [Insert Date]\nInstructor: Dr. Chenarides\nCourse: [Insert Course Name]\nTeam Members:\n\n[Insert Full Name]\n[Insert Full Name]\n[Insert Full Name]\n[Insert Full Name]\n\nSummary of Project:\nThis project analyzes the retail milk market in Colorado for Cousins Supermarket from June 2014 to February 2019, using sales data to assess market trends, pricing strategies, competition, and the potential for mergers.\nContents:\nEmail 1: Market Analysis and Predictions  Email 2: Data Visualization  Email 3: Market Structure Analysis  Email 4: Price Analysis  Email 5: Margin Analysis  Email 6: Merger Analysis"
+  },
+  {
+    "objectID": "2025/multi_sector_model.html",
+    "href": "2025/multi_sector_model.html",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "The basic supply & demand model focuses on one sector of the marketing channel:\n\nCould be the farm level (price & quantity of raw inputs like barley).\nCould be the retail level (price & quantity of final goods like beer).\n\nBut food systems have multiple linked sectors.\n\nWhat happens at the farm affects processors and consumers.\nWhat happens at retail feeds back to processors and farmers.\n\nTo capture these linkages, we need a multi-sector model.\n\n\n\nInputs (Farm Level): barley, hops, yeast, water.\n\nProcessor (Brewers): brewers transform inputs into beer.\n\nOutput (Retail): beer sold to consumers (ignoring wholesalers/retailers).\n\nThere is both:\n- A supply & demand for beer (retail).\n- A supply & demand for barley (farm).\nBut how do we connect them?\n\n\n\nWe need two simplifying assumptions to tie the beer and barley markets together.\n\nThese assumptions let us draw one diagram showing both markets.\nWithout them, the analysis gets messy (technology choice, variable costs, substitution across inputs, etc.).\n\n\n\n\n\nEach gallon of beer requires a fixed amount of barley.\nBrewers can’t substitute away from barley if its price rises.\nThis lets us say:\n\n\\[\nQ^F = \\alpha Q^R\n\\] Where: - \\(Q^F\\): farm output (bushels of barley)\n- \\(Q^R\\): retail output (gallons of beer)\n- \\(alpha\\): conversion factor (e.g., 1.5 lbs barley per gallon beer)\nIf we know retail output, we know farm output exactly.\n\n\n\n\nThe cost of processing barley into beers is constant (fixed) per unit.\nDenote this as \\(MB\\) (per-unit marketing bill).\nRetail price is then just:\n\n\\[\nP^{Beer} = P^{Barley} + MB\n\\]\nThis assumption creates a fixed wedge between the farm price and the retail price.\n\n\n\nBrewers only demand barley because they can sell beer.\nThus the derived demand for barley is just the consumer demand for beer, shifted down by \\(MB\\).\nNumerical Example:\n\nConsumers will pay $1.00 for a gallon of beer. \nMarketing bill = $0.30. \nMax brewers will pay for barley = $1.00 − $0.30 = $0.70.\n\n\n\n\n\n\nEquilibrium in the barley market occurs where supply of barley meets derived demand for barley.\n\nAt this quantity, the consumer price of beer equals the farm price of barley plus the marketing bill.\n\n\n\n\n\n\n\nDerived demand shifts down. \nBarley price falls. \nBeer price rises. \nQuantities fall.\n\n\n\n\n\n\nBoth beer demand and derived demand for barley shift out. \nPrices and quantities rise in both markets.\n\n\n\n\n\n\nNew regulations raise \\(MB\\). Who bears the cost?\n\nIf demand more elastic than supply → farm price falls more. \nIf supply more elastic than demand → retail price rises more. \nGeneral rule: the side with less elasticity bears more of the burden."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#elasticities-and-forecasting",
+    "href": "2025/multi_sector_model.html#elasticities-and-forecasting",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Elasticities are useful tools in applied economics. They tell us:\n\nwhether a tax on a specific good will raise large or small revenues,\n\nwhich goods are the greatest competitors, and\n\nhow prices and quantities may change in response to shocks.\n\nFor example:\n\nHow does the supply of pork decreases due to tougher regulations on manure treatment and disposal?\n\nHow much will the demand for pork increase due to an increase in the price of beef?\n\nWe do not need to know the exact supply and demand curves. Estimates of elasticities are usually sufficient.\nBy incorporating elasticities into an equilibrium displacement model (EDM), we can calculate price and quantity changes resulting from outside shocks."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#endogenous-and-exogenous-variables",
+    "href": "2025/multi_sector_model.html#endogenous-and-exogenous-variables",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "Endogenous and Exogenous Variables",
+    "text": "Endogenous and Exogenous Variables\nEquilibrium displacement models are used to assess how endogenous variables respond to changes in exogenous variables.\nIn an EDM, all variables are grouped as either endogenous or exogenous.\n\nEndogenous variables: Determined within the model (price and quantity).\n\nExogenous variables: Determined outside the model and taken as given.\n\nExamples: input prices, technology, consumer income, population, tastes, and prices of related goods.\n\n\nShocks to exogenous variables shift supply and/or demand curves. The market then finds a new equilibrium where supply equals demand."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#formalizing-the-model",
+    "href": "2025/multi_sector_model.html#formalizing-the-model",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "Formalizing the Model",
+    "text": "Formalizing the Model\n\nDemand Curve\n\nStep 1. Start with the elasticity definition\nFor demand, the own-price elasticity is defined as:\n\\[\nE_D = \\frac{\\% \\Delta Q_D}{\\% \\Delta P}\n\\]\nThis formula says: “a 1% change in price leads to \\(E_D\\) percent change in quantity demanded.”\nRemember that \\(E_D\\) is typically negative because price and quantity demanded move in opposite directions.\n\n\nStep 2. Rearrange to express quantity changes\nMultiply both sides by \\(\\% \\Delta P\\) to solve for the percent change in quantity demanded:\n\\[\n\\% \\Delta Q_D = E_D \\cdot (\\% \\Delta P)\n\\]\nThis equation tells us how much quantity demanded changes in response to a given price change, holding everything else constant.\n\n\nStep 3. Add in demand shocks\nMarkets can also shift for reasons other than price (income, tastes, population, etc.).\nWe capture these exogenous demand shifts with a new term, \\(S_D\\):\n\\[\n\\% \\Delta Q_D = E_D (\\% \\Delta P) + S_D\n\\]\n\n\\(\\% \\Delta Q_D\\): percent change in quantity demanded\n\n\\(\\% \\Delta P\\): percent change in price\n\n\\(E_D\\): own-price elasticity of demand (negative)\n\n\\(S_D\\): demand shock (e.g., if incomes rise and demand increases by 7%, then \\(S_D = 7\\))\n\nTakeaway: This step-by-step process shows how we move from the basic elasticity definition to an equation that includes both price effects and shifts in demand.\n\n\n\nSupply Curve\n\nStep 1. Start with the elasticity definition\nFor supply, the own-price elasticity is defined as:\n\\[\nE_S = \\frac{\\% \\Delta Q_S}{\\% \\Delta P}\n\\]\nThis formula says: “a 1% change in price leads to \\(E_S\\) percent change in quantity supplied.”\nUnlike demand, \\(E_S\\) is typically positive because price and quantity supplied move in the same direction.\n\n\nStep 2. Rearrange to express quantity changes\nMultiply both sides by \\(\\% \\Delta P\\) to solve for the percent change in quantity supplied:\n\\[\n\\% \\Delta Q_S = E_S \\cdot (\\% \\Delta P)\n\\]\nThis equation captures how much quantity supplied changes in response to a price change, holding everything else constant.\n\n\nStep 3. Add in supply shocks\nSupply can also shift due to exogenous factors (e.g., technology, input costs, regulations).\nWe capture these exogenous supply shifts with a new term, \\(S_S\\):\n\\[\n\\% \\Delta Q_S = E_S (\\% \\Delta P) + S_S\n\\]\n\n\\(\\% \\Delta Q_S\\): percent change in quantity supplied\n\n\\(\\% \\Delta P\\): percent change in price\n\n\\(E_S\\): own-price elasticity of supply (positive)\n\n\\(S_S\\): supply shock (e.g., if new technology lowers costs and supply increases 5%, then \\(S_S = 5\\))"
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#solving-for-the-equilibrium-price",
+    "href": "2025/multi_sector_model.html#solving-for-the-equilibrium-price",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "Solving for the Equilibrium Price",
+    "text": "Solving for the Equilibrium Price\nNow we combine supply and demand.\n\nIn equilibrium, quantity supplied equals quantity demanded:\n\\[\n\\% \\Delta Q_S = \\% \\Delta Q_D\n\\]\nSubstitute in the supply and demand equations:\n\\[\nE_S(\\% \\Delta P) + S_S = E_D(\\% \\Delta P) + S_D\n\\]\nRearrange terms:\n\\[\n(E_S - E_D)(\\% \\Delta P) = S_D - S_S\n\\]\nSolve for the endogenous variable, price:\n\\[\n\\% \\Delta P = \\frac{S_D - S_S}{E_S - E_D}\n\\]"
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#intuition",
+    "href": "2025/multi_sector_model.html#intuition",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "Intuition",
+    "text": "Intuition\n\nThe denominator \\((E_S - E_D)\\) is positive since \\(E_S &gt; 0\\) and \\(E_D &lt; 0\\).\n\nIf \\(S_D &gt; 0\\) (a positive demand shock, e.g., higher incomes) and \\(S_S = 0\\), then \\(\\% \\Delta P &gt; 0\\) → price rises.\n\nIf \\(S_S &gt; 0\\) (a positive supply shock, e.g., lower production costs) and \\(S_D = 0\\), then \\(\\% \\Delta P &lt; 0\\) → price falls.\n\nTakeaway: With both curves expressed in elasticity form, we can solve for how price responds to shocks. Once \\(\\% \\Delta P\\) is known, we substitute back into either curve to find the equilibrium change in quantity."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#solving-for-the-equilibrium-quantity",
+    "href": "2025/multi_sector_model.html#solving-for-the-equilibrium-quantity",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "Solving for the Equilibrium Quantity",
+    "text": "Solving for the Equilibrium Quantity\nOnce we know the equilibrium price change \\(\\% \\Delta P\\), we can solve for the change in quantity.\n\nSubstitute \\(\\% \\Delta P\\) into the supply curve\n\nRecall the supply curve:\n\\[\n\\% \\Delta Q_S = E_S (\\% \\Delta P) + S_S\n\\]\nPlug in the solved value for \\(\\% \\Delta P\\):\n\\[\n\\% \\Delta Q_S = E_S \\left( \\frac{S_D - S_S}{E_S - E_D} \\right) + S_S\n\\]\n\nOr substitute into the demand curve\n\nRecall the demand curve:\n\\[\n\\% \\Delta Q_D = E_D (\\% \\Delta P) + S_D\n\\]\nSubstitute the same \\(\\% \\Delta P\\):\n\\[\n\\% \\Delta Q_D = E_D \\left( \\frac{S_D - S_S}{E_S - E_D} \\right) + S_D\n\\]\n\nConfirm consistency\n\nIn equilibrium, both give the same answer:\n\\[\n\\% \\Delta Q_S = \\% \\Delta Q_D = \\% \\Delta Q\n\\]\nIf they don’t match, a calculation error has been made."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#intuition-1",
+    "href": "2025/multi_sector_model.html#intuition-1",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "Intuition",
+    "text": "Intuition\n\nA positive demand shock (\\(S_D &gt; 0\\)) raises price and increases equilibrium quantity.\n\nA positive supply shock (\\(S_S &gt; 0\\)) lowers price but still increases equilibrium quantity.\n\nThe exact size of the change depends on how responsive supply and demand are (their elasticities).\n\nTakeaway: First solve for \\(\\% \\Delta P\\) using equilibrium, then plug it into either curve to get \\(\\% \\Delta Q\\). Both equations must agree at the new equilibrium."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#quick-recap",
+    "href": "2025/multi_sector_model.html#quick-recap",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "Quick Recap",
+    "text": "Quick Recap\nOnce \\(\\% \\Delta P\\) is found, substitute back into either curve:\n\nSupply:\n\\[\n\\% \\Delta Q_S = E_S(\\% \\Delta P) + S_S\n\\]\nDemand:\n\\[\n\\% \\Delta Q_D = E_D(\\% \\Delta P) + S_D\n\\]\n\nBoth give the same \\(\\% \\Delta Q\\) in equilibrium."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#general-steps-for-an-edm",
+    "href": "2025/multi_sector_model.html#general-steps-for-an-edm",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "General Steps for an EDM",
+    "text": "General Steps for an EDM\n\nIdentify shocks: Determine \\(S_S\\) and \\(S_D\\). At least one must be nonzero.\n\nSpecify supply curve:\n\\[\n\\% \\Delta Q_S = E_S (\\% \\Delta P) + S_S\n\\]\nSpecify demand curve:\n\\[\n\\% \\Delta Q_D = E_D (\\% \\Delta P) + S_D\n\\]\nSolve for price: Set \\(\\% \\Delta Q_S = \\% \\Delta Q_D\\) and solve for \\(\\% \\Delta P\\).\n\nSolve for quantity: Substitute \\(\\% \\Delta P\\) into either equation to calculate \\(\\% \\Delta Q\\)."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#example-impacts-of-manure-regulations-in-the-pork-market",
+    "href": "2025/multi_sector_model.html#example-impacts-of-manure-regulations-in-the-pork-market",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "Example: Impacts of Manure Regulations in the Pork Market",
+    "text": "Example: Impacts of Manure Regulations in the Pork Market\nPork producers are facing tougher regulations on how they manage and treat hog manure. These regulations raise production costs, which shifts the supply curve leftward, raising price and lowering quantity. We quantify these changes using elasticities and an equilibrium displacement model (EDM).\n\n\n\n\n\n\nNote\n\n\n\nThis example uses long-run elasticities (\\(E_S = 2.15\\), \\(E_D = -1.96\\)).\nTo examine the short-run impacts, simply replace these with short-run elasticities.\n\n\n\nStep 1. Express the cost increase as a percent of the current price\nSuppose the current hog price is $50/cwt, and the new regulations increase production costs by $1/cwt.\n\\[\nP = \\$50 \\ \\text{per cwt}\n\\] \\[\n\\Delta C = \\$1 \\ \\text{per cwt}\n\\]\nCalculate the cost increase as a percentage of the current price:\n\\[\n\\frac{\\Delta C}{P} = \\frac{\\$1}{\\$50} = 0.02 = 2\\%\n\\]\nInterpretation: Paying $1 more per cwt is like receiving $1 less per cwt in revenue. From the producer’s perspective, this is an effective price decrease of 2%:\n\\[\n\\% \\Delta P_{\\text{effective}} = -2\\%.\n\\]\n\n\nStep 2. Convert the effective price change into a supply shock\nThe supply elasticity tells us how responsive producers are to a change in price:\n\\[\nE_S = \\frac{\\% \\Delta Q_S}{\\% \\Delta P}.\n\\]\nRearrange to solve for the percent change in quantity supplied:\n\\[\n\\% \\Delta Q_S = E_S \\times (\\% \\Delta P).\n\\] This equation says: if the effective price producers receive changes by some percent, then quantity supplied will change by elasticity × that percent. In our case, the regulation is equivalent to a 2% fall in effective price. It is also important to know that the (long-run) supply elasticity \\(E_S = 2.15\\)\nSubstitute the effective price change from Step 1 (\\(-2\\%\\)) and the long-run supply elasticity \\(E_S = 2.15\\):\n\\[\nS_S = E_S \\times (\\% \\Delta P_{\\text{effective}})\n\\] \\[\nS_S = 2.15 \\times (-2)\n\\] \\[\nS_S = -4.3\\%\n\\]\nInterpretation: A 2% decrease in effective price leads to a 4.3% decrease in supply.\nThis is the exogenous supply shock: \\(S_S = -4.3\\%\\).\nBecause nothing changed on the demand side, \\(S_D = 0\\).\n\n\nStep 3. Write the EDM equations\nSupply:\n\\[\n\\% \\Delta Q_S = E_S (\\% \\Delta P) + S_S = 2.15(\\% \\Delta P) - 4.3\n\\]\nDemand:\n\\[\n\\% \\Delta Q_D = E_D (\\% \\Delta P) + S_D = -1.96(\\% \\Delta P) + 0\n\\]\n\n\nStep 4. Impose Equilibrium (Set supply equal to demand)\nIn equilibrium, \\(\\% \\Delta Q_S = \\% \\Delta Q_D\\):\n\\[\n2.15(\\% \\Delta P) - 4.3 = -1.96(\\% \\Delta P)\n\\]\nRearrange:\n\\[\n(2.15 + 1.96)(\\% \\Delta P) = 4.3\n\\]\nSolve for price:\n\\[\n\\% \\Delta P = \\frac{4.3}{2.15+1.96} = 1.05 \\%.\n\\]\nResult: Price rises by about 1.05%.\n\n\nStep 5. Solve for Quantity\nPlug back into supply or demand:\nUsing supply:\n\\[\n\\% \\Delta Q_S = 2.15(1.05) - 4.3\n\\] \\[\n\\% \\Delta Q_S \\approx -2.05\\%\n\\]\nCheck with demand:\n\\[\n\\% \\Delta Q_D = -1.96(1.05) \\approx -2.05\\%\n\\] Result: Quantity falls by about 2.05%."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#pork-market-supply-shift-from-manure-regulations",
+    "href": "2025/multi_sector_model.html#pork-market-supply-shift-from-manure-regulations",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "Pork Market: Supply Shift from Manure Regulations",
+    "text": "Pork Market: Supply Shift from Manure Regulations\n\n\n\n\n\n\nInterpretation\n\n\n\n\nAlthough regulations raised production costs by 2%, the market price rose by only about 1%. In other words, a 2% cost increase (relative to price) cannot be fully passed on to consumers.\nThe remainder of the adjustment occurred through reduced output: pork production fell by about 2%.\nThis reflects how elasticities distribute the burden of shocks between price changes and quantity changes."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#example-beer-industry",
+    "href": "2025/multi_sector_model.html#example-beer-industry",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Inputs (Farm Level): barley, hops, yeast, water.\n\nProcessor (Brewers): brewers transform inputs into beer.\n\nOutput (Retail): beer sold to consumers (ignoring wholesalers/retailers).\n\nThere is both:\n- A supply & demand for beer (retail).\n- A supply & demand for barley (farm).\nBut how do we connect them?"
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#assumption-1-fixed-proportions-technology",
+    "href": "2025/multi_sector_model.html#assumption-1-fixed-proportions-technology",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Each gallon of beer requires a fixed amount of barley.\nBrewers can’t substitute away from barley if its price rises.\nThis lets us say:\n\n\\[\nQ^F = \\alpha Q^R\n\\] Where: - \\(Q^F\\): farm output (bushels of barley)\n- \\(Q^R\\): retail output (gallons of beer)\n- \\(alpha\\): conversion factor (e.g., 1.5 lbs barley per gallon beer)\nIf we know retail output, we know farm output exactly."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#assumption-2-constant-marketing-bill",
+    "href": "2025/multi_sector_model.html#assumption-2-constant-marketing-bill",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "The cost of processing barley into beers is constant (fixed) per unit.\nDenote this as \\(MB\\) (per-unit marketing bill).\nRetail price is then just:\n\n\\[\nP^{Beer} = P^{Barley} + MB\n\\]\nThis assumption creates a fixed wedge between the farm price and the retail price."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#derived-demand",
+    "href": "2025/multi_sector_model.html#derived-demand",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Brewers only demand barley because they can sell beer.\nThus the derived demand for barley is just the consumer demand for beer, shifted down by \\(MB\\).\nNumerical Example:\n\nConsumers will pay $1.00 for a gallon of beer. \nMarketing bill = $0.30. \nMax brewers will pay for barley = $1.00 − $0.30 = $0.70."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#market-equilibrium",
+    "href": "2025/multi_sector_model.html#market-equilibrium",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Equilibrium in the barley market occurs where supply of barley meets derived demand for barley.\n\nAt this quantity, the consumer price of beer equals the farm price of barley plus the marketing bill."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#shocks",
+    "href": "2025/multi_sector_model.html#shocks",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Derived demand shifts down. \nBarley price falls. \nBeer price rises. \nQuantities fall.\n\n\n\n\n\n\nBoth beer demand and derived demand for barley shift out. \nPrices and quantities rise in both markets."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#cost-transmission",
+    "href": "2025/multi_sector_model.html#cost-transmission",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "New regulations raise \\(MB\\). Who bears the cost?\n\nIf demand more elastic than supply → farm price falls more. \nIf supply more elastic than demand → retail price rises more. \nGeneral rule: the side with less elasticity bears more of the burden."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#linking-farm-and-retail-markets",
+    "href": "2025/multi_sector_model.html#linking-farm-and-retail-markets",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "We need two simplifying assumptions to tie the beer and barley markets together.\n\nThese assumptions let us draw one diagram showing both markets.\nWithout them, the analysis gets messy (technology choice, variable costs, substitution across inputs, etc.)."
   }
 ]

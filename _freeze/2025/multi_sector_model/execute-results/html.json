@@ -1,0 +1,15 @@
+{
+  "hash": "7cd270cf5d6829f7555326b40e788794",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Multi-Sector Models and Marketing Margins\"\nformat: \n  # pdf: \n  #   geometry: top=1in, bottom=0.75in, left=1in, right=1in, footskip=0.5in\n  html:\n    toc: true\n    toc-depth: 2\n    code-fold: true\n    df-print: kable\nexecute:\n  echo: true\n  warning: false\n  message: false\neditor: visual\n---\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
