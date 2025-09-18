@@ -126,7 +126,7 @@ $$
 
 ## Solving for the Equilibrium Price
 
-Now we combine supply and demand.
+**Goal:** Solved for the endogenous price change. 
 
 1. In equilibrium, quantity supplied equals quantity demanded:
 
@@ -164,6 +164,70 @@ Now we combine supply and demand.
 
 ## Solving for the Equilibrium Quantity
 
+Once we know the equilibrium price change $\% \Delta P$ is found, we can solve for the change in quantity by substituting back into either curve:  
+
+- Supply:  
+  $$
+  \% \Delta Q_S = E_S(\% \Delta P) + S_S
+  $$
+- Demand:  
+  $$
+  \% \Delta Q_D = E_D(\% \Delta P) + S_D
+  $$
+
+Both give the same $\% \Delta Q$ in equilibrium.
+
+
+## Solving for the Equilibrium Quantity
+
+**Goal:** Use that price change to back out the endogenous quantity change.  
+
+To find $\% \Delta Q$, we substitute the equilibrium price change into either the supply or demand equation.
+
+1. Using the supply curve:
+
+$$
+\% \Delta Q_S = E_S (\% \Delta P) + S_S
+$$
+
+Substitute the equilibrium price solution:
+
+$$
+\% \Delta Q_S = E_S \left( \frac{S_D - S_S}{E_S - E_D} \right) + S_S
+$$
+
+
+
+2. Using the demand curve:
+
+$$
+\% \Delta Q_D = E_D (\% \Delta P) + S_D
+$$
+
+Substitute the equilibrium price solution:
+
+$$
+\% \Delta Q_D = E_D \left( \frac{S_D - S_S}{E_S - E_D} \right) + S_D
+$$
+
+
+
+3. Confirm consistency:
+
+In equilibrium,
+
+$$
+\% \Delta Q_S = \% \Delta Q_D = \% \Delta Q.
+$$
+
+If the two do not match, it signals an algebra error in your calculations.
+
+
+**Takeaway:** First solve for $\% \Delta P$ using equilibrium, then plug it into either curve to get $\% \Delta Q$. Both equations must agree at the new equilibrium.
+
+
+
+::: {.callout-note icon=false title="Proof"}
 Once we know the equilibrium price change $\% \Delta P$, we can solve for the change in quantity.  
 
 
@@ -196,9 +260,6 @@ Substitute the same $\% \Delta P$:
 $$
 \% \Delta Q_D = E_D \left( \frac{S_D - S_S}{E_S - E_D} \right) + S_D
 $$
-
-
-
 3. Confirm consistency
 
 In equilibrium, both give the same answer:
@@ -209,32 +270,13 @@ $$
 
 If they don’t match, a calculation error has been made.
 
-
-
 ## Intuition
 
 - A positive demand shock ($S_D > 0$) raises price and increases equilibrium quantity.  
 - A positive supply shock ($S_S > 0$) lowers price but still increases equilibrium quantity.  
 - The exact size of the change depends on how responsive supply and demand are (their elasticities).
+:::
 
-
-**Takeaway:** First solve for $\% \Delta P$ using equilibrium, then plug it into either curve to get $\% \Delta Q$. Both equations must agree at the new equilibrium.
-
-
-## Quick Recap
-
-Once $\% \Delta P$ is found, substitute back into either curve:  
-
-- Supply:  
-  $$
-  \% \Delta Q_S = E_S(\% \Delta P) + S_S
-  $$
-- Demand:  
-  $$
-  \% \Delta Q_D = E_D(\% \Delta P) + S_D
-  $$
-
-Both give the same $\% \Delta Q$ in equilibrium.
 
 
 ## General Steps for an EDM
@@ -256,10 +298,14 @@ Both give the same $\% \Delta Q$ in equilibrium.
 
 ## Example: Impacts of Manure Regulations in the Pork Market
 
-Pork producers are facing tougher regulations on how they manage and treat hog manure. These regulations raise production costs, which shifts the supply curve **leftward**, raising price and lowering quantity. We quantify these changes using elasticities and an equilibrium displacement model (EDM).
+Pork producers are facing tougher regulations on how they manage and treat hog manure. 
+
+These regulations raise production costs, which shifts the supply curve **leftward**, raising price and lowering quantity. 
+
+We quantify these changes using elasticities and an equilibrium displacement model (EDM).
 
 ::: {.callout-note}
-This example uses **long-run elasticities** ($E_S = 2.15$, $E_D = -1.96$).  
+This example assumes **long-run elasticities** ($E_S = 2.15$, $E_D = -1.96$).  
 To examine the short-run impacts, simply replace these with short-run elasticities.  
 :::
 
@@ -285,8 +331,11 @@ $$
 $$
 \% \Delta P_{\text{effective}} = -2\%.
 $$
+Note that this is the change in price received by the producer as a result of the regulation. This is *not* the change in the equilibrium price.
 
 ### Step 2. Convert the effective price change into a supply shock
+
+**Goal:** Calculate how much supply would shift if producers suddenly faced a 2\% lower effective price, before price adjusts in the market. 
 
 The **supply elasticity** tells us how responsive producers are to a change in price:
 
@@ -301,8 +350,6 @@ $$
 $$
 This equation says: if the effective price producers receive changes by some percent, then quantity supplied will change by elasticity × that percent. In our case, the regulation is equivalent to a **2% fall in effective price**. It is also important to know that the (long-run) supply elasticity $E_S = 2.15$
 
-\newpage
-
 Substitute the effective price change from Step 1 ($-2\%$) and the long-run supply elasticity $E_S = 2.15$:
 
 $$
@@ -314,6 +361,9 @@ $$
 $$
 S_S = -4.3\%
 $$
+::: {.callout-important}
+Note the change in notation where we replace $\% \Delta Q_S$ with $S_S$ above. Because we are only interested in the portion of the change in quantity caused directly by the regulation before the market adjusts price, we replaced $\% \Delta Q_S$ with $S_S$.
+:::
 
 **Interpretation:** A 2% decrease in effective price leads to a 4.3% decrease in supply.  
 This is the **exogenous supply shock**: $S_S = -4.3\%$.  
