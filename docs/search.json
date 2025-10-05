@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Food and Agricultural Markets",
-    "section": "",
-    "text": "The primary objective is to foster development and understanding of key agricultural marketing issues and concerns, and equip you with analytical skills that may be utilized to evaluate different marketing problems and programs from both the industry and firm perspective. This course will provide you with an understanding of economic concepts that will be employed for analyzing issues in agricultural marketing."
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Food and Agricultural Markets",
-    "section": "",
-    "text": "The primary objective is to foster development and understanding of key agricultural marketing issues and concerns, and equip you with analytical skills that may be utilized to evaluate different marketing problems and programs from both the industry and firm perspective. This course will provide you with an understanding of economic concepts that will be employed for analyzing issues in agricultural marketing."
-  },
-  {
-    "objectID": "index.html#prerequisite-arececon-202-principles-of-microeconomics",
-    "href": "index.html#prerequisite-arececon-202-principles-of-microeconomics",
-    "title": "Food and Agricultural Markets",
-    "section": "Prerequisite: AREC/ECON 202 (Principles of Microeconomics)",
-    "text": "Prerequisite: AREC/ECON 202 (Principles of Microeconomics)\n👉 Access Syllabus Here"
-  },
-  {
-    "objectID": "index.html#why-this-course-matters",
-    "href": "index.html#why-this-course-matters",
-    "title": "Food and Agricultural Markets",
-    "section": "Why This Course Matters",
-    "text": "Why This Course Matters\nIn this course, you build a foundation for understanding how food moves from farms to consumers, how prices form, and how the parts of the supply chain connect. We work with real-world data to see how value is added across the food system, measure market concentration, and explore the role of forecasting and risk management tools like futures and options.\nThese skills help you analyze market conditions, interpret trends, and connect day-to-day business decisions with broader patterns in food and agricultural markets.\n\nOur Learning Culture\nI want you to imagine we’re all part of the same organization—one where everyone’s success depends on how well we collaborate, share ideas, and support each other’s growth. That means:\n\nWe take initiative and hold ourselves accountable.\nWe celebrate experimentation and embrace failure as part of the process.\nWe give and receive feedback with curiosity and respect.\nWe build a culture that reflects the kind of teams we’d want to work on in the real world.\n\nMy goal is to help you connect what you’re learning to real decisions and real contexts. By the end of the course, you’ll have experience working with market data, applying economic concepts to real marketing problems, and communicating your analysis in ways that support sound decision-making."
-  },
-  {
-    "objectID": "index.html#reuse-of-material",
-    "href": "index.html#reuse-of-material",
-    "title": "Food and Agricultural Markets",
-    "section": "Reuse of material",
-    "text": "Reuse of material\nPlease link my site and this course site to use any organized material. Copyrights belong to cited authors/creators."
-  },
-  {
-    "objectID": "index.html#how-to-help",
-    "href": "index.html#how-to-help",
-    "title": "Food and Agricultural Markets",
-    "section": "How to help",
-    "text": "How to help\nIf you like this course, you can Star the course repository to help more people to see it. If you find any issue, please use the “Report an issue” on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome."
-  },
-  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
@@ -168,18 +126,11 @@
     "text": "About Our Mentors\nOur mentor cohort represents a diverse range of industries, business models, and entrepreneurial experiences—all grounded in agriculture and food. Each mentor was selected for their ability to share real-world insights, support student growth, and model the complexities of entrepreneurial decision-making.\nMentors were recruited through a multi-step process that included:\n\nA public call for interest shared via the Department of Agricultural and Resource Economics (DARE) and Institute for Entrepreneurship (I4E) email lists\nCampus flyers and outreach\nReferrals and word of mouth\n\nEvery mentor is generously volunteering their time to support student learning, and we’re deeply grateful for their engagement.\nWe’re actively working to expand our mentor network in future cohorts. If you’re an entrepreneur or business leader and are interested in mentoring for the Fall 2026 cohort, we’d love to hear from you. Please reach out to Lauren.Chenarides@colostate.edu to learn more."
   },
   {
-    "objectID": "lectures/lecture8.html",
-    "href": "lectures/lecture8.html",
-    "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "",
-    "text": "If energy efficiency is a good thing, why is not everybody doing it?\n\nHow to design incentive programs to change people’s behavior?\n\nHow big is rebound, and what to do with rebound?\n\nWhat policies to push for sustainable energy consumption?"
-  },
-  {
     "objectID": "lectures/lecture8.html#sample-analytic-questions",
     "href": "lectures/lecture8.html#sample-analytic-questions",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
-    "section": "",
-    "text": "If energy efficiency is a good thing, why is not everybody doing it?\n\nHow to design incentive programs to change people’s behavior?\n\nHow big is rebound, and what to do with rebound?\n\nWhat policies to push for sustainable energy consumption?"
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nIf energy efficiency is a good thing, why is not everybody doing it?\n\nHow to design incentive programs to change people’s behavior?\n\nHow big is rebound, and what to do with rebound?\n\nWhat policies to push for sustainable energy consumption?"
   },
   {
     "objectID": "lectures/lecture8.html#energy-efficiency",
@@ -193,28 +144,28 @@
     "href": "lectures/lecture8.html#energy-intensity",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Energy intensity",
-    "text": "Energy intensity\n\n\n\n\n\n\nSource: OurWorldinData"
+    "text": "Energy intensity\n\n\nSource: OurWorldinData"
   },
   {
     "objectID": "lectures/lecture8.html#abatement-cost-curve",
     "href": "lectures/lecture8.html#abatement-cost-curve",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Abatement cost curve",
-    "text": "Abatement cost curve\n\n\n\n\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
+    "text": "Abatement cost curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
   },
   {
     "objectID": "lectures/lecture8.html#energy-efficiency-gap",
     "href": "lectures/lecture8.html#energy-efficiency-gap",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Energy efficiency gap",
-    "text": "Energy efficiency gap\n\n\n\n\n\n\nSource: (gillingham2009energy?)"
+    "text": "Energy efficiency gap\n\n\nSource: (gillingham2009energy?)"
   },
   {
     "objectID": "lectures/lecture8.html#information",
     "href": "lectures/lecture8.html#information",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Information",
-    "text": "Information\n\n\n\n\n\n\nSource: FTC"
+    "text": "Information\n\n\nSource: FTC"
   },
   {
     "objectID": "lectures/lecture8.html#standards",
@@ -228,42 +179,42 @@
     "href": "lectures/lecture8.html#behavior-change-in-nze",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Behavior change in NZE",
-    "text": "Behavior change in NZE\n\n\n\n\n\n\nSource: (iea_net_2021?)"
+    "text": "Behavior change in NZE\n\n\nSource: (iea_net_2021?)"
   },
   {
     "objectID": "lectures/lecture8.html#key-behavior-change-for-nze",
     "href": "lectures/lecture8.html#key-behavior-change-for-nze",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Key behavior change for NZE",
-    "text": "Key behavior change for NZE\n\n\n\n\n\n\nSource: (iea_net_2021?)"
+    "text": "Key behavior change for NZE\n\n\nSource: (iea_net_2021?)"
   },
   {
     "objectID": "lectures/lecture8.html#complexity-of-human-behavior",
     "href": "lectures/lecture8.html#complexity-of-human-behavior",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Complexity of human behavior",
-    "text": "Complexity of human behavior\n\n\n\n\n\n\nRead more: Human Behavior Research"
+    "text": "Complexity of human behavior\n\n\nRead more: Human Behavior Research"
   },
   {
     "objectID": "lectures/lecture8.html#maslows-hierarchy-of-needs",
     "href": "lectures/lecture8.html#maslows-hierarchy-of-needs",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Maslow’s hierarchy of needs",
-    "text": "Maslow’s hierarchy of needs\n\n\n\n\n\n\nRead more: Wikipedia"
+    "text": "Maslow’s hierarchy of needs\n\n\nRead more: Wikipedia"
   },
   {
     "objectID": "lectures/lecture8.html#stage-of-change-theory",
     "href": "lectures/lecture8.html#stage-of-change-theory",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Stage of change theory",
-    "text": "Stage of change theory\n\n\n\n\n\n\nRead more: Behavior change models"
+    "text": "Stage of change theory\n\n\nRead more: Behavior change models"
   },
   {
     "objectID": "lectures/lecture8.html#nudge",
     "href": "lectures/lecture8.html#nudge",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Nudge",
-    "text": "Nudge\n\n\n\n\n\n\n\n\n\nIncentives\nUnderstand mapping\nDefaults\nGive feedback\nExpect error\nStructure complex choices\n\n\n\n\nRead more: Richard H. Thaler and Cass R. Sunstein"
+    "text": "Nudge\n\n\n\n\n\n\n\n\n\nIncentives\nUnderstand mapping\nDefaults\nGive feedback\nExpect error\nStructure complex choices\n\n\n\nRead more: Richard H. Thaler and Cass R. Sunstein"
   },
   {
     "objectID": "lectures/lecture8.html#rebound",
@@ -284,7 +235,7 @@
     "href": "lectures/lecture8.html#rebound-might-be-overplayed",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Rebound might be overplayed",
-    "text": "Rebound might be overplayed\n\n\n\n\n\n\nSource: (gillingham2013energy?)"
+    "text": "Rebound might be overplayed\n\n\nSource: (gillingham2013energy?)"
   },
   {
     "objectID": "lectures/lecture8.html#focus-on-welfare",
@@ -298,49 +249,49 @@
     "href": "lectures/lecture8.html#sustainable-energy-consumption",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Sustainable energy consumption",
-    "text": "Sustainable energy consumption\n\n\n\n\n\n\n\n\n\nAbsolute reductions in the material goods and energy we consume;\n\nFrom material wealth and consumerism toward new measures of progress and well-being;\n\nTechnological innovation and efficiency gains that help us to refine production processes;\n\nRecognition that consumption will need to increase for those individuals and communities whose needs are not being met, and\n\nA transformation of our economy from continuous growth to within the limits of a finite planet.\n\n\n\n\n\nRead more: UN, USDN"
+    "text": "Sustainable energy consumption\n\n\n\n\n\n\n\n\n\nAbsolute reductions in the material goods and energy we consume;\n\nFrom material wealth and consumerism toward new measures of progress and well-being;\n\nTechnological innovation and efficiency gains that help us to refine production processes;\n\nRecognition that consumption will need to increase for those individuals and communities whose needs are not being met, and\n\nA transformation of our economy from continuous growth to within the limits of a finite planet.\n\n\n\n\nRead more: UN, USDN"
   },
   {
     "objectID": "lectures/lecture8.html#summary",
     "href": "lectures/lecture8.html#summary",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Summary",
-    "text": "Summary\n\nThere are barriers for energy efficiency and inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "Summary\n\nThere are barriers for energy efficiency and inforamtion and standards can help address the energy efficiency gap\n\nHuman behavior is complicated, and understanding it will help us to design policy\n\nRebound is real but might be overplayed, rebound could be good if improve welfare\n\nSustainable consumption and production within the limit"
   },
   {
-    "objectID": "lectures/lecture6.html",
-    "href": "lectures/lecture6.html",
-    "title": "Lecture 6 Energy Demand",
+    "objectID": "lectures/lecture8.html#references",
+    "href": "lectures/lecture8.html#references",
+    "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "",
-    "text": "What will be the load in the NYISO service area in 2030?\n\nHow EV will change the load?\n\nWhat drives energy demand growth?\n\nHow climate change affects energy demand?\n\nHow to make reasonal assumptions about appliances stock turn over?"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture6.html#sample-analytic-questions",
     "href": "lectures/lecture6.html#sample-analytic-questions",
     "title": "Lecture 6 Energy Demand",
-    "section": "",
-    "text": "What will be the load in the NYISO service area in 2030?\n\nHow EV will change the load?\n\nWhat drives energy demand growth?\n\nHow climate change affects energy demand?\n\nHow to make reasonal assumptions about appliances stock turn over?"
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat will be the load in the NYISO service area in 2030?\n\nHow EV will change the load?\n\nWhat drives energy demand growth?\n\nHow climate change affects energy demand?\n\nHow to make reasonal assumptions about appliances stock turn over?"
   },
   {
     "objectID": "lectures/lecture6.html#germany-energy-demand",
     "href": "lectures/lecture6.html#germany-energy-demand",
     "title": "Lecture 6 Energy Demand",
     "section": "Germany energy demand",
-    "text": "Germany energy demand\n\n\n\n\n\n\nRead more: Clean Energy Wire"
+    "text": "Germany energy demand\n\n\nRead more: Clean Energy Wire"
   },
   {
     "objectID": "lectures/lecture6.html#decouping-gdp-and-emissions",
     "href": "lectures/lecture6.html#decouping-gdp-and-emissions",
     "title": "Lecture 6 Energy Demand",
     "section": "Decouping GDP and emissions",
-    "text": "Decouping GDP and emissions\n\n\n\n\n\n\nRead more: IEA"
+    "text": "Decouping GDP and emissions\n\n\nRead more: IEA"
   },
   {
     "objectID": "lectures/lecture6.html#top-down-vs-bottom-up",
     "href": "lectures/lecture6.html#top-down-vs-bottom-up",
     "title": "Lecture 6 Energy Demand",
     "section": "Top-down vs bottom-up",
-    "text": "Top-down vs bottom-up\n\n\n\n\n\n\nSource: (swan2009modeling?)"
+    "text": "Top-down vs bottom-up\n\n\nSource: (swan2009modeling?)"
   },
   {
     "objectID": "lectures/lecture6.html#ipat",
@@ -354,35 +305,35 @@
     "href": "lectures/lecture6.html#population",
     "title": "Lecture 6 Energy Demand",
     "section": "Population",
-    "text": "Population\n\n\n\n\n\n\nSource: UN World Population Prospects"
+    "text": "Population\n\n\nSource: UN World Population Prospects"
   },
   {
     "objectID": "lectures/lecture6.html#economy-gdp",
     "href": "lectures/lecture6.html#economy-gdp",
     "title": "Lecture 6 Energy Demand",
     "section": "Economy (GDP)",
-    "text": "Economy (GDP)\n\n\n\n\n\n\nRead more: (lin2016economic?)"
+    "text": "Economy (GDP)\n\n\nRead more: (lin2016economic?)"
   },
   {
     "objectID": "lectures/lecture6.html#energy-intensity",
     "href": "lectures/lecture6.html#energy-intensity",
     "title": "Lecture 6 Energy Demand",
     "section": "Energy intensity",
-    "text": "Energy intensity\n\n\n\n\n\n\nSource: Our World in Data"
+    "text": "Energy intensity\n\n\nSource: Our World in Data"
   },
   {
     "objectID": "lectures/lecture6.html#electrification",
     "href": "lectures/lecture6.html#electrification",
     "title": "Lecture 6 Energy Demand",
     "section": "Electrification",
-    "text": "Electrification\n\n\n\n\n\n\nSource: EnerData"
+    "text": "Electrification\n\n\nSource: EnerData"
   },
   {
     "objectID": "lectures/lecture6.html#ev-and-load",
     "href": "lectures/lecture6.html#ev-and-load",
     "title": "Lecture 6 Energy Demand",
     "section": "EV and load",
-    "text": "EV and load\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: McKinsey"
+    "text": "EV and load\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: McKinsey"
   },
   {
     "objectID": "lectures/lecture6.html#energy-efficiency---first-fuel",
@@ -396,133 +347,133 @@
     "href": "lectures/lecture6.html#adoption-curve",
     "title": "Lecture 6 Energy Demand",
     "section": "Adoption curve",
-    "text": "Adoption curve\n\n\n\n\n\n\nRead more: Diffusion of innovations"
+    "text": "Adoption curve\n\n\nRead more: Diffusion of innovations"
   },
   {
     "objectID": "lectures/lecture6.html#rebound",
     "href": "lectures/lecture6.html#rebound",
     "title": "Lecture 6 Energy Demand",
     "section": "Rebound",
-    "text": "Rebound\n\n\n\n\n\n\nRead more: CarbonBrief, (borenstein2015microeconomic?), (brockway2021energy?)"
+    "text": "Rebound\n\n\nRead more: CarbonBrief, (borenstein2015microeconomic?), (brockway2021energy?)"
   },
   {
     "objectID": "lectures/lecture6.html#limit-to-growth-degrowth-green-growth",
     "href": "lectures/lecture6.html#limit-to-growth-degrowth-green-growth",
     "title": "Lecture 6 Energy Demand",
     "section": "Limit to growth, degrowth, green growth",
-    "text": "Limit to growth, degrowth, green growth\n\n\n\n\n\n\nRead more: (meadows2018limits?), 50-year argument"
+    "text": "Limit to growth, degrowth, green growth\n\n\nRead more: (meadows2018limits?), 50-year argument"
   },
   {
     "objectID": "lectures/lecture6.html#decent-living",
     "href": "lectures/lecture6.html#decent-living",
     "title": "Lecture 6 Energy Demand",
     "section": "Decent living",
-    "text": "Decent living\n\n\n\n\n\n\nRead more: (rao2018decent?)"
+    "text": "Decent living\n\n\nRead more: (rao2018decent?)"
   },
   {
     "objectID": "lectures/lecture6.html#human-behavior---demand-response",
     "href": "lectures/lecture6.html#human-behavior---demand-response",
     "title": "Lecture 6 Energy Demand",
     "section": "Human behavior - demand response",
-    "text": "Human behavior - demand response\n\n\n\n\n\n\nSource: CAIOS"
+    "text": "Human behavior - demand response\n\n\nSource: CAIOS"
   },
   {
     "objectID": "lectures/lecture6.html#energy-savings-across-behavioural-interventions-implemented-in-the-united-states",
     "href": "lectures/lecture6.html#energy-savings-across-behavioural-interventions-implemented-in-the-united-states",
     "title": "Lecture 6 Energy Demand",
     "section": "Energy savings across behavioural interventions implemented in the United States",
-    "text": "Energy savings across behavioural interventions implemented in the United States\n\n\n\n\n\n\nHigh evaluation quality (light blue); Medium evaluation quality (dark blue). Read more: IEA"
+    "text": "Energy savings across behavioural interventions implemented in the United States\n\n\nHigh evaluation quality (light blue); Medium evaluation quality (dark blue). Read more: IEA"
   },
   {
     "objectID": "lectures/lecture6.html#load-forecasting",
     "href": "lectures/lecture6.html#load-forecasting",
     "title": "Lecture 6 Energy Demand",
     "section": "Load forecasting",
-    "text": "Load forecasting\n\n\n\n\n\n\nSource: (hong2016probabilistic?)"
+    "text": "Load forecasting\n\n\nSource: (hong2016probabilistic?)"
   },
   {
     "objectID": "lectures/lecture6.html#load-forecast",
     "href": "lectures/lecture6.html#load-forecast",
     "title": "Lecture 6 Energy Demand",
     "section": "Load forecast",
-    "text": "Load forecast\n\n\n\n\n\n\nRead more: PJM, ISO New England"
+    "text": "Load forecast\n\n\nRead more: PJM, ISO New England"
   },
   {
     "objectID": "lectures/lecture6.html#summary",
     "href": "lectures/lecture6.html#summary",
     "title": "Lecture 6 Energy Demand",
     "section": "Summary",
-    "text": "Summary\n\nEnergy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior\n\nUnderstanding those drivers will help us learn the magnitude and profile of our demand\n\nLoad forecast integrates all insights to the show\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "Summary\n\nEnergy demand is shaped by dynamic factors: populations, GDP, technology, regulation, and human behavior\n\nUnderstanding those drivers will help us learn the magnitude and profile of our demand\n\nLoad forecast integrates all insights to the show"
   },
   {
-    "objectID": "lectures/lecture4.html",
-    "href": "lectures/lecture4.html",
-    "title": "Lecture 4 Energy Systems Overview",
+    "objectID": "lectures/lecture6.html#references",
+    "href": "lectures/lecture6.html#references",
+    "title": "Lecture 6 Energy Demand",
     "section": "",
-    "text": "Source: IIASA, Energy Primier"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture4.html#energy-systems",
     "href": "lectures/lecture4.html#energy-systems",
     "title": "Lecture 4 Energy Systems Overview",
-    "section": "",
-    "text": "Source: IIASA, Energy Primier"
+    "section": "Energy systems",
+    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture4.html#resources-vs-reserves",
     "href": "lectures/lecture4.html#resources-vs-reserves",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Resources vs reserves",
-    "text": "Resources vs reserves\n\n\n\n\n\n\nSource: IIASA, Energy Primier"
+    "text": "Resources vs reserves\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture4.html#energy-and-their-conversions",
     "href": "lectures/lecture4.html#energy-and-their-conversions",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Energy and their conversions",
-    "text": "Energy and their conversions\n\n\n\n\n\n\nSource: (smil2017energy?)"
+    "text": "Energy and their conversions\n\n\nSource: (smil2017energy?)"
   },
   {
     "objectID": "lectures/lecture4.html#global-energy-flow",
     "href": "lectures/lecture4.html#global-energy-flow",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Global energy flow",
-    "text": "Global energy flow\n\n\n\n\n\n\nSource: IEA"
+    "text": "Global energy flow\n\n\nSource: IEA"
   },
   {
     "objectID": "lectures/lecture4.html#u.s.-energy-flow",
     "href": "lectures/lecture4.html#u.s.-energy-flow",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "U.S. energy flow",
-    "text": "U.S. energy flow\n\n\n\n\n\n\nSource: LLNL"
+    "text": "U.S. energy flow\n\n\nSource: LLNL"
   },
   {
     "objectID": "lectures/lecture4.html#energy-by-supply",
     "href": "lectures/lecture4.html#energy-by-supply",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Energy by supply",
-    "text": "Energy by supply\n\n\n\n\n\n\nSource: IIASA, Energy Primier"
+    "text": "Energy by supply\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture4.html#energy-by-source-updated-to-2023",
     "href": "lectures/lecture4.html#energy-by-source-updated-to-2023",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Energy by source updated to 2023",
-    "text": "Energy by source updated to 2023\n\n\n\n\n\n\nSource: Our Wold in Data"
+    "text": "Energy by source updated to 2023\n\n\nSource: Our Wold in Data"
   },
   {
     "objectID": "lectures/lecture4.html#energy-by-source---two-worlds",
     "href": "lectures/lecture4.html#energy-by-source---two-worlds",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Energy by source - two worlds",
-    "text": "Energy by source - two worlds\n\n\n\n\n\n\nSource: Our Wold in Data"
+    "text": "Energy by source - two worlds\n\n\nSource: Our Wold in Data"
   },
   {
     "objectID": "lectures/lecture4.html#energy-end-use-by-sector",
     "href": "lectures/lecture4.html#energy-end-use-by-sector",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Energy end-use by sector",
-    "text": "Energy end-use by sector\n\n\n\n\n\n\nSource: IIASA, Energy Primier"
+    "text": "Energy end-use by sector\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture4.html#matching-supply-and-demand",
@@ -536,7 +487,7 @@
     "href": "lectures/lecture4.html#electrify-eveything-where-are-we-now",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Electrify eveything, where are we now",
-    "text": "Electrify eveything, where are we now\n\n\n\n\n\n\nSource: IEA"
+    "text": "Electrify eveything, where are we now\n\n\nSource: IEA"
   },
   {
     "objectID": "lectures/lecture4.html#electrify-eveything-net-zero",
@@ -550,49 +501,49 @@
     "href": "lectures/lecture4.html#energy-efficiency",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Energy efficiency",
-    "text": "Energy efficiency\n\n\n\n\n\n\nSource: IIASA, Energy Primier"
+    "text": "Energy efficiency\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture4.html#electric-efficiency-vs-fossil-efficiency",
     "href": "lectures/lecture4.html#electric-efficiency-vs-fossil-efficiency",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Electric efficiency vs fossil efficiency",
-    "text": "Electric efficiency vs fossil efficiency\n\n\n\n\n\n\nSource: (bmwi_electricity_2015?)"
+    "text": "Electric efficiency vs fossil efficiency\n\n\nSource: (bmwi_electricity_2015?)"
   },
   {
     "objectID": "lectures/lecture4.html#milestones-for-long-term-energy-transition",
     "href": "lectures/lecture4.html#milestones-for-long-term-energy-transition",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Milestones for long-term energy transition",
-    "text": "Milestones for long-term energy transition\n\n\n\n\n\n\nSource: (iea_net_2021?)"
+    "text": "Milestones for long-term energy transition\n\n\nSource: (iea_net_2021?)"
   },
   {
     "objectID": "lectures/lecture4.html#nys-climate-leadership-and-community-protection-act",
     "href": "lectures/lecture4.html#nys-climate-leadership-and-community-protection-act",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "NYS Climate Leadership and Community Protection Act",
-    "text": "NYS Climate Leadership and Community Protection Act\n\n\n\n\n\n\nSource: Climate Action Council Draft Scoping Plan\n\n35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities"
+    "text": "NYS Climate Leadership and Community Protection Act\n\n\nSource: Climate Action Council Draft Scoping Plan\n\n35%-40% of the benefits of NY CLCPA investments must flow to disadvantaged communities"
   },
   {
     "objectID": "lectures/lecture4.html#u.s.-shale-gas-revolution",
     "href": "lectures/lecture4.html#u.s.-shale-gas-revolution",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "U.S. shale gas revolution",
-    "text": "U.S. shale gas revolution\n\n\n\n\n\n\nSource: EIA"
+    "text": "U.S. shale gas revolution\n\n\nSource: EIA"
   },
   {
     "objectID": "lectures/lecture4.html#renewable-revolution-achieving-grid-parity",
     "href": "lectures/lecture4.html#renewable-revolution-achieving-grid-parity",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Renewable revolution: achieving grid parity",
-    "text": "Renewable revolution: achieving grid parity\n\n\n\n\n\n\nSource: Our World in Data"
+    "text": "Renewable revolution: achieving grid parity\n\n\nSource: Our World in Data"
   },
   {
     "objectID": "lectures/lecture4.html#renewable-revolution-solar-and-wind-taking-off",
     "href": "lectures/lecture4.html#renewable-revolution-solar-and-wind-taking-off",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Renewable revolution: solar and wind taking off",
-    "text": "Renewable revolution: solar and wind taking off\n\n\n\n\n\n\nSource: Our World in Data"
+    "text": "Renewable revolution: solar and wind taking off\n\n\nSource: Our World in Data"
   },
   {
     "objectID": "lectures/lecture4.html#energy-systems-modeling",
@@ -606,14 +557,14 @@
     "href": "lectures/lecture4.html#how-modelers-think-about-an-energy-system",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "How modelers think about an energy system",
-    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nInterpretation and communication\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "How modelers think about an energy system\n\nSystem components, structure, and relations\n\nNetworks (transmission, transport)\n\nObjectives and constraints (if do optimization)\n\nValidation and calibration\n\nInterpretation and communication"
   },
   {
-    "objectID": "lectures/lecture2.html",
-    "href": "lectures/lecture2.html",
-    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
+    "objectID": "lectures/lecture4.html#references",
+    "href": "lectures/lecture4.html#references",
+    "title": "Lecture 4 Energy Systems Overview",
     "section": "",
-    "text": "Photo by Gang He on the train to UNFCCC CoP15 conference, Dec 6, 2009."
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture2.html#section",
@@ -627,35 +578,35 @@
     "href": "lectures/lecture2.html#nycs-daily-carbon-dioxide-emissions-as-one-tonne-spheres",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "NYC’s daily carbon dioxide emissions as one-tonne spheres",
-    "text": "NYC’s daily carbon dioxide emissions as one-tonne spheres\n\n\n\n\n\n\nSource: Carbon Visuals"
+    "text": "NYC’s daily carbon dioxide emissions as one-tonne spheres\n\n\nSource: Carbon Visuals"
   },
   {
     "objectID": "lectures/lecture2.html#climate-stripes",
     "href": "lectures/lecture2.html#climate-stripes",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Climate stripes",
-    "text": "Climate stripes\n\n\n\n\n\n\nSource: Ed Hawkins"
+    "text": "Climate stripes\n\n\nSource: Ed Hawkins"
   },
   {
     "objectID": "lectures/lecture2.html#carbon-budget",
     "href": "lectures/lecture2.html#carbon-budget",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Carbon budget",
-    "text": "Carbon budget\n\n\n\n\n\n\nSource: Global Carbon Project"
+    "text": "Carbon budget\n\n\nSource: Global Carbon Project"
   },
   {
     "objectID": "lectures/lecture2.html#emission-and-concentration",
     "href": "lectures/lecture2.html#emission-and-concentration",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Emission and concentration",
-    "text": "Emission and concentration\n\n\n\n\n\n\nSource:Rebecca Lindsey, climate.gov"
+    "text": "Emission and concentration\n\n\nSource:Rebecca Lindsey, climate.gov"
   },
   {
     "objectID": "lectures/lecture2.html#get-comfortable-with-units",
     "href": "lectures/lecture2.html#get-comfortable-with-units",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Get comfortable with units",
-    "text": "Get comfortable with units\n\n\n\n\n\n\nSource: MetricMethods"
+    "text": "Get comfortable with units\n\n\nSource: MetricMethods"
   },
   {
     "objectID": "lectures/lecture2.html#foundamental-energy-units",
@@ -669,56 +620,56 @@
     "href": "lectures/lecture2.html#scale-of-numbers",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Scale of numbers",
-    "text": "Scale of numbers\n\n\n\n\n\n\nSource: IIASA, Energy Primier"
+    "text": "Scale of numbers\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture2.html#comparing-the-worlds-energy-resources",
     "href": "lectures/lecture2.html#comparing-the-worlds-energy-resources",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Comparing the world’s energy resources",
-    "text": "Comparing the world’s energy resources\n\n\n\n\n\n\nSource: Richard Perez"
+    "text": "Comparing the world’s energy resources\n\n\nSource: Richard Perez"
   },
   {
     "objectID": "lectures/lecture2.html#energy-stock-and-flow",
     "href": "lectures/lecture2.html#energy-stock-and-flow",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Energy stock and flow",
-    "text": "Energy stock and flow\n\n\n\n\n\n\nSource: (hermann2006quantifying?)"
+    "text": "Energy stock and flow\n\n\nSource: (hermann2006quantifying?)"
   },
   {
     "objectID": "lectures/lecture2.html#energy-vs.-power",
     "href": "lectures/lecture2.html#energy-vs.-power",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Energy vs. power",
-    "text": "Energy vs. power\n\n\n\n\n\n\nSource: ODP"
+    "text": "Energy vs. power\n\n\nSource: ODP"
   },
   {
     "objectID": "lectures/lecture2.html#energy-vs-power",
     "href": "lectures/lecture2.html#energy-vs-power",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Energy vs power",
-    "text": "Energy vs power\n\n\n\nEnergy is the ability to do work. Energy is power integrated over time.\nBasic unit: joule = watt·second\n\n\n\nPower is the rate at which work is done, or energy is transmitted.\nBasic unit: watt = jourle/second\n\n\n\nWe need to know what we are talking about!"
+    "text": "Energy vs power\n\n\n\nEnergy is the ability to do work. Energy is power integrated over time.\nBasic unit: joule = watt·second\n\n\n\nPower is the rate at which work is done, or energy is transmitted.\nBasic unit: watt = jourle/second\n\n\nWe need to know what we are talking about!"
   },
   {
     "objectID": "lectures/lecture2.html#back-of-the-envelope-estimation",
     "href": "lectures/lecture2.html#back-of-the-envelope-estimation",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Back-of-the-envelope estimation",
-    "text": "Back-of-the-envelope estimation\n\n\n\n\n\n\nSource: Gang He"
+    "text": "Back-of-the-envelope estimation\n\n\nSource: Gang He"
   },
   {
     "objectID": "lectures/lecture2.html#art-rosenfeld",
     "href": "lectures/lecture2.html#art-rosenfeld",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Art Rosenfeld",
-    "text": "Art Rosenfeld\n\n\n\n\n\n\nSource: LBL"
+    "text": "Art Rosenfeld\n\n\nSource: LBL"
   },
   {
     "objectID": "lectures/lecture2.html#rosenfeld-effect",
     "href": "lectures/lecture2.html#rosenfeld-effect",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Rosenfeld Effect",
-    "text": "Rosenfeld Effect\n\n\n\n\n\n\nSource: LBL"
+    "text": "Rosenfeld Effect\n\n\nSource: LBL"
   },
   {
     "objectID": "lectures/lecture2.html#defining-a-rosenfeld-plant",
@@ -732,14 +683,14 @@
     "href": "lectures/lecture2.html#comparing-with-the-three-gorges-dam",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Comparing with the Three Gorges Dam",
-    "text": "Comparing with the Three Gorges Dam\n\n\n\n\n\n\nSource: (fridley2016impacts?)"
+    "text": "Comparing with the Three Gorges Dam\n\n\nSource: (fridley2016impacts?)"
   },
   {
     "objectID": "lectures/lecture2.html#common-sources-of-energy-and-climate-data",
     "href": "lectures/lecture2.html#common-sources-of-energy-and-climate-data",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Common sources of energy and climate data",
-    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\n\nSource: (macknick_energy_2011?)"
+    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\nSource: (macknick_energy_2011?)"
   },
   {
     "objectID": "lectures/lecture2.html#data-quality",
@@ -767,7 +718,7 @@
     "href": "lectures/lecture2.html#ghg-effect",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "GHG effect",
-    "text": "GHG effect\n\n\n\n\n\n\nSource: IPCC"
+    "text": "GHG effect\n\n\nSource: IPCC"
   },
   {
     "objectID": "lectures/lecture2.html#greenhouse-gasesghg",
@@ -781,63 +732,63 @@
     "href": "lectures/lecture2.html#from-emissions-to-warming",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "From emissions to warming",
-    "text": "From emissions to warming\n\n\n\n\n\n\nSource: IPCC AR6"
+    "text": "From emissions to warming\n\n\nSource: IPCC AR6"
   },
   {
     "objectID": "lectures/lecture2.html#warming-since-measurement",
     "href": "lectures/lecture2.html#warming-since-measurement",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Warming since measurement",
-    "text": "Warming since measurement\n\n\n\n\n\n\nSource: NASA"
+    "text": "Warming since measurement\n\n\nSource: NASA"
   },
   {
     "objectID": "lectures/lecture2.html#warming-in-context-of-geological-history",
     "href": "lectures/lecture2.html#warming-in-context-of-geological-history",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Warming in context of geological history",
-    "text": "Warming in context of geological history\n\n\n\n\n\n\nSource: NASA"
+    "text": "Warming in context of geological history\n\n\nSource: NASA"
   },
   {
     "objectID": "lectures/lecture2.html#warmer-and-warmer",
     "href": "lectures/lecture2.html#warmer-and-warmer",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Warmer and Warmer",
-    "text": "Warmer and Warmer\n\n\n\n\n\n\nSource: (koomey_solving_2022?)"
+    "text": "Warmer and Warmer\n\n\nSource: (koomey_solving_2022?)"
   },
   {
     "objectID": "lectures/lecture2.html#climate-spireal",
     "href": "lectures/lecture2.html#climate-spireal",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Climate spireal",
-    "text": "Climate spireal\n\n\n\n\n\n\nSource: NASA Scientific Visulization Studio"
+    "text": "Climate spireal\n\n\nSource: NASA Scientific Visulization Studio"
   },
   {
     "objectID": "lectures/lecture2.html#temprature-anomaly-distribution",
     "href": "lectures/lecture2.html#temprature-anomaly-distribution",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Temprature anomaly distribution",
-    "text": "Temprature anomaly distribution\n\n\n\n\n\n\nSource: (hansen_perception_2012?)"
+    "text": "Temprature anomaly distribution\n\n\nSource: (hansen_perception_2012?)"
   },
   {
     "objectID": "lectures/lecture2.html#human-vs-nature",
     "href": "lectures/lecture2.html#human-vs-nature",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Human vs nature",
-    "text": "Human vs nature\n\n\n\n\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
+    "text": "Human vs nature\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
   },
   {
     "objectID": "lectures/lecture2.html#human-component-is-the-major-driver-of-warming",
     "href": "lectures/lecture2.html#human-component-is-the-major-driver-of-warming",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Human component is the major driver of warming",
-    "text": "Human component is the major driver of warming\n\n\n\n\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
+    "text": "Human component is the major driver of warming\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
   },
   {
     "objectID": "lectures/lecture2.html#scientific-understanding-climate-systems",
     "href": "lectures/lecture2.html#scientific-understanding-climate-systems",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Scientific understanding: climate systems",
-    "text": "Scientific understanding: climate systems\n\n\n\n\n\n\nSource: Figure 2.2 of the Fourth National Climate Assessment (NCA4)"
+    "text": "Scientific understanding: climate systems\n\n\nSource: Figure 2.2 of the Fourth National Climate Assessment (NCA4)"
   },
   {
     "objectID": "lectures/lecture2.html#scientific-community-and-process",
@@ -858,21 +809,21 @@
     "href": "lectures/lecture2.html#a-five-points-climate-haiku",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "A five points “climate haiku”",
-    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
   },
   {
-    "objectID": "lectures/lecture12.html",
-    "href": "lectures/lecture12.html",
-    "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
+    "objectID": "lectures/lecture2.html#references",
+    "href": "lectures/lecture2.html#references",
+    "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "",
-    "text": "What are the new advancements in AI and big data?\n\nHow AI and big data could be used in facilitating clean energy transition and addressing climate change?\n\nAny good examples or success stories of AI for energy/climate change?\n\nWhat skills are need to work in this field?"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture12.html#sample-analytic-questions",
     "href": "lectures/lecture12.html#sample-analytic-questions",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
-    "section": "",
-    "text": "What are the new advancements in AI and big data?\n\nHow AI and big data could be used in facilitating clean energy transition and addressing climate change?\n\nAny good examples or success stories of AI for energy/climate change?\n\nWhat skills are need to work in this field?"
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat are the new advancements in AI and big data?\n\nHow AI and big data could be used in facilitating clean energy transition and addressing climate change?\n\nAny good examples or success stories of AI for energy/climate change?\n\nWhat skills are need to work in this field?"
   },
   {
     "objectID": "lectures/lecture12.html#offshore-wind-turbine-inspection-using-drones-and-ai",
@@ -886,98 +837,98 @@
     "href": "lectures/lecture12.html#ai-is-the-new-electricity",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "“AI is the new electricity”",
-    "text": "“AI is the new electricity”\n\n\n\n\n\n\n\n\n\nJust as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years.\n\n–Andrew Ng\n\n\n\nRead more: Andrew Ng: Why AI Is the New Electricity"
+    "text": "“AI is the new electricity”\n\n\n\n\n\n\n\n\n\nJust as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years.\n\n–Andrew Ng\n\n\nRead more: Andrew Ng: Why AI Is the New Electricity"
   },
   {
     "objectID": "lectures/lecture12.html#milestones-in-ai",
     "href": "lectures/lecture12.html#milestones-in-ai",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Milestones in AI",
-    "text": "Milestones in AI\n\n\n\n\n\n\n\n\n\nPerspective:\n\nUniverse created:\n\n13.8 billion years ago\n\nEarth created:\n\n4.54 billion years ago\n\nModern human:\n\n300,000 years ago\n\nCivilization:\n\n12,000 years ago\n\nWritten record:\n\n5,000 years ago\n\n\n\n\n\n\n1943: Neural networks\n1957: Perceptron\n1974-86: Backpropagation, RBM, RNN\n1989-98: CNN, MNIST, LSTM, Bidirectional RNN\n2006: “Deep Learning”, DBN\n2009: ImageNet\n2012: AlexNet, Dropout\n2014: GANs\n2014: DeepFace\n2016: AlphaGo\n2017: AlphaZero, Capsule Networks\n2018: AlphaFold 1, BERT\n2021: AlphaFold 2\n2023: ChatGPT\n\n\n\n\n\nPhoto: NASA; Read more: Wikipedia"
+    "text": "Milestones in AI\n\n\n\n\n\n\n\n\n\nPerspective:\n\nUniverse created:\n\n13.8 billion years ago\n\nEarth created:\n\n4.54 billion years ago\n\nModern human:\n\n300,000 years ago\n\nCivilization:\n\n12,000 years ago\n\nWritten record:\n\n5,000 years ago\n\n\n\n\n\n\n1943: Neural networks\n1957: Perceptron\n1974-86: Backpropagation, RBM, RNN\n1989-98: CNN, MNIST, LSTM, Bidirectional RNN\n2006: “Deep Learning”, DBN\n2009: ImageNet\n2012: AlexNet, Dropout\n2014: GANs\n2014: DeepFace\n2016: AlphaGo\n2017: AlphaZero, Capsule Networks\n2018: AlphaFold 1, BERT\n2021: AlphaFold 2\n2023: ChatGPT\n\n\n\n\nPhoto: NASA; Read more: Wikipedia"
   },
   {
     "objectID": "lectures/lecture12.html#aartifitial-intelligence-machine-learning-and-deep-learning",
     "href": "lectures/lecture12.html#aartifitial-intelligence-machine-learning-and-deep-learning",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Aartifitial intelligence, machine learning, and deep learning",
-    "text": "Aartifitial intelligence, machine learning, and deep learning\n\n\n\n\n\n\nRead more: (lee2021empirical?)"
+    "text": "Aartifitial intelligence, machine learning, and deep learning\n\n\nRead more: (lee2021empirical?)"
   },
   {
     "objectID": "lectures/lecture12.html#ai-algorithms",
     "href": "lectures/lecture12.html#ai-algorithms",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "AI Algorithms",
-    "text": "AI Algorithms\n\n\n\n\n\n\nRead more: (lee2021empirical?)"
+    "text": "AI Algorithms\n\n\nRead more: (lee2021empirical?)"
   },
   {
     "objectID": "lectures/lecture12.html#how-ai-has-transformed-our-society",
     "href": "lectures/lecture12.html#how-ai-has-transformed-our-society",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "How AI has transformed our society",
-    "text": "How AI has transformed our society\n\n\n\n\n\n\nFigure source, read more: GAO"
+    "text": "How AI has transformed our society\n\n\nFigure source, read more: GAO"
   },
   {
     "objectID": "lectures/lecture12.html#key-enabling-factors",
     "href": "lectures/lecture12.html#key-enabling-factors",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Key enabling factors",
-    "text": "Key enabling factors\n\n\n\nTechnological maturity\n\nAvailability and quality of data\n\nGrowing importance of cybersecurity\n\nTraining and re-skilling of energy sector professionals\n\n\n\n\n\n\n\n\n\n\n\nRead more: IRENA"
+    "text": "Key enabling factors\n\n\n\nTechnological maturity\n\nAvailability and quality of data\n\nGrowing importance of cybersecurity\n\nTraining and re-skilling of energy sector professionals\n\n\n\n\n\n\n\n\n\n\nRead more: IRENA"
   },
   {
     "objectID": "lectures/lecture12.html#deep-solar",
     "href": "lectures/lecture12.html#deep-solar",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Deep solar",
-    "text": "Deep solar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: (yu2018deepsolar?)"
+    "text": "Deep solar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: (yu2018deepsolar?)"
   },
   {
     "objectID": "lectures/lecture12.html#ai-to-improve-wind-perfomance",
     "href": "lectures/lecture12.html#ai-to-improve-wind-perfomance",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "AI to improve wind perfomance",
-    "text": "AI to improve wind perfomance\n\n\n\n\n\n\nRead more: Deepmind"
+    "text": "AI to improve wind perfomance\n\n\nRead more: Deepmind"
   },
   {
     "objectID": "lectures/lecture12.html#ai-saves-data-center-cooling-energy",
     "href": "lectures/lecture12.html#ai-saves-data-center-cooling-energy",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "AI saves data center cooling energy",
-    "text": "AI saves data center cooling energy\n\n\n\n\n\n\nRead more: Deepmind"
+    "text": "AI saves data center cooling energy\n\n\nRead more: Deepmind"
   },
   {
     "objectID": "lectures/lecture12.html#global-inventory-of-solar-pv",
     "href": "lectures/lecture12.html#global-inventory-of-solar-pv",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Global inventory of solar PV",
-    "text": "Global inventory of solar PV\n\n\n\n\n\n\nSource: (kruitwagen2021global?)"
+    "text": "Global inventory of solar PV\n\n\nSource: (kruitwagen2021global?)"
   },
   {
     "objectID": "lectures/lecture12.html#machine-learning-for-electricity-access",
     "href": "lectures/lecture12.html#machine-learning-for-electricity-access",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Machine learning for electricity access",
-    "text": "Machine learning for electricity access\n\n\n\n\n\n\nSource: (ratledge2022using?)"
+    "text": "Machine learning for electricity access\n\n\nSource: (ratledge2022using?)"
   },
   {
     "objectID": "lectures/lecture12.html#ai-for-climate-solutions",
     "href": "lectures/lecture12.html#ai-for-climate-solutions",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "AI for climate solutions",
-    "text": "AI for climate solutions\n\n\n\n\n\n\nSource: (rolnick2022tackling?)"
+    "text": "AI for climate solutions\n\n\nSource: (rolnick2022tackling?)"
   },
   {
     "objectID": "lectures/lecture12.html#ai-for-ghg-mitigation",
     "href": "lectures/lecture12.html#ai-for-ghg-mitigation",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "AI for GHG mitigation",
-    "text": "AI for GHG mitigation\n\n\n\n\n\n\nSource: (kaack2022aligning?)"
+    "text": "AI for GHG mitigation\n\n\nSource: (kaack2022aligning?)"
   },
   {
     "objectID": "lectures/lecture12.html#ai-and-data-center-power-consumption",
     "href": "lectures/lecture12.html#ai-and-data-center-power-consumption",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "AI and data center power consumption",
-    "text": "AI and data center power consumption\n\n\n\n\n\n\nSource: EPRI, Powering Intelligence"
+    "text": "AI and data center power consumption\n\n\nSource: EPRI, Powering Intelligence"
   },
   {
     "objectID": "lectures/lecture12.html#ai-ethics-why",
@@ -1040,14 +991,14 @@
     "href": "lectures/lecture12.html#u.s.-electricity-flow",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "U.S. electricity flow",
-    "text": "U.S. electricity flow\n\n\n\n\n\n\nSource: EIA"
+    "text": "U.S. electricity flow\n\n\nSource: EIA"
   },
   {
     "objectID": "lectures/lecture12.html#u.s.-transmission-grid",
     "href": "lectures/lecture12.html#u.s.-transmission-grid",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "U.S. transmission grid",
-    "text": "U.S. transmission grid\n\n\n\n\n\n\nSource: ArcGIS"
+    "text": "U.S. transmission grid\n\n\nSource: ArcGIS"
   },
   {
     "objectID": "lectures/lecture12.html#refresh-the-basics",
@@ -1061,14 +1012,14 @@
     "href": "lectures/lecture12.html#load-factor-and-load-curves",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Load factor and load curves",
-    "text": "Load factor and load curves\n\\(LF=\\frac{Energy\\ consumed}{Energy\\ at\\ peak\\ demand}=\\frac{Average\\ power}{Peak\\ power\\ demand}\\)\nA low load factor means a “peaky” load shape\n\n\n\n\n\n\nSource: (masters2013renewable?)"
+    "text": "Load factor and load curves\n\\(LF=\\frac{Energy\\ consumed}{Energy\\ at\\ peak\\ demand}=\\frac{Average\\ power}{Peak\\ power\\ demand}\\)\nA low load factor means a “peaky” load shape\n\n\nSource: (masters2013renewable?)"
   },
   {
     "objectID": "lectures/lecture12.html#supply-curve-and-dispatch",
     "href": "lectures/lecture12.html#supply-curve-and-dispatch",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Supply curve and dispatch",
-    "text": "Supply curve and dispatch\n\n\n\n\n\n\nRead more: EIA"
+    "text": "Supply curve and dispatch\n\n\nRead more: EIA"
   },
   {
     "objectID": "lectures/lecture12.html#power-system-modeling-family",
@@ -1096,14 +1047,14 @@
     "href": "lectures/lecture12.html#model-comparison",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Model comparison",
-    "text": "Model comparison\n\n\n\n\n\n\nSource: (johnston2019switch?)"
+    "text": "Model comparison\n\n\nSource: (johnston2019switch?)"
   },
   {
     "objectID": "lectures/lecture12.html#switch-model-as-an-example",
     "href": "lectures/lecture12.html#switch-model-as-an-example",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "SWITCH Model as an example",
-    "text": "SWITCH Model as an example\n\n\n\n\n\n\nSource: (johnston2019switch?)"
+    "text": "SWITCH Model as an example\n\n\nSource: (johnston2019switch?)"
   },
   {
     "objectID": "lectures/lecture12.html#key-questions-in-model-selection",
@@ -1117,14 +1068,14 @@
     "href": "lectures/lecture12.html#typical-output-capacitygeneration-mix",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Typical output: capacity/generation mix",
-    "text": "Typical output: capacity/generation mix\n\n\n\n\n\n\nSource: (he_rapid_2020?)"
+    "text": "Typical output: capacity/generation mix\n\n\nSource: (he_rapid_2020?)"
   },
   {
     "objectID": "lectures/lecture12.html#typical-output-transmission-expansions",
     "href": "lectures/lecture12.html#typical-output-transmission-expansions",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Typical output: transmission expansions",
-    "text": "Typical output: transmission expansions\n\n\n\n\n\n\nRead more: PyPSA"
+    "text": "Typical output: transmission expansions\n\n\nRead more: PyPSA"
   },
   {
     "objectID": "lectures/lecture12.html#unit-committment-and-network-reliability",
@@ -1145,98 +1096,98 @@
     "href": "lectures/lecture12.html#summary-1",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Summary",
-    "text": "Summary\n\nPower sector’s central role in decarbonization\n\nCapacity expansion model to analyze the optimized investment decisions\n\nDecisions in the real world is much more complicated\n\nEmerging trends in the power sector\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "Summary\n\nPower sector’s central role in decarbonization\n\nCapacity expansion model to analyze the optimized investment decisions\n\nDecisions in the real world is much more complicated\n\nEmerging trends in the power sector"
   },
   {
-    "objectID": "lectures/lecture10.html",
-    "href": "lectures/lecture10.html",
-    "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
+    "objectID": "lectures/lecture12.html#references",
+    "href": "lectures/lecture12.html#references",
+    "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "",
-    "text": "What are the environmental impacts of a fossil power plant?\n\nHow much water could you save if you replace all water cooling plants with air cooling?\n\nWhat are the human health impacts of energy?\n\nHow climate change affect human health?\n\nWhat are the co-benefits of energy transitions?"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture10.html#sample-analytic-questions",
     "href": "lectures/lecture10.html#sample-analytic-questions",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
-    "section": "",
-    "text": "What are the environmental impacts of a fossil power plant?\n\nHow much water could you save if you replace all water cooling plants with air cooling?\n\nWhat are the human health impacts of energy?\n\nHow climate change affect human health?\n\nWhat are the co-benefits of energy transitions?"
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat are the environmental impacts of a fossil power plant?\n\nHow much water could you save if you replace all water cooling plants with air cooling?\n\nWhat are the human health impacts of energy?\n\nHow climate change affect human health?\n\nWhat are the co-benefits of energy transitions?"
   },
   {
     "objectID": "lectures/lecture10.html#energy-system-environmental-and-health-impacts",
     "href": "lectures/lecture10.html#energy-system-environmental-and-health-impacts",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Energy system environmental and health impacts",
-    "text": "Energy system environmental and health impacts\n\n\n\n\n\n\n\n\nSystem impacts\n- Climate change\n- Air pollution\n- Health\n- Water\n- Land use\n- Ecosystem\n\n\n\n\nSource: IIASA, Energy Primier"
+    "text": "Energy system environmental and health impacts\n\n\n\n\n\n\n\n\nSystem impacts\n- Climate change\n- Air pollution\n- Health\n- Water\n- Land use\n- Ecosystem\n\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture10.html#example-sources-of-energy-related-air-pollution",
     "href": "lectures/lecture10.html#example-sources-of-energy-related-air-pollution",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Example sources of energy related air pollution",
-    "text": "Example sources of energy related air pollution\n\n\n\n\n\n\nSource: (iea2016airpollution?)"
+    "text": "Example sources of energy related air pollution\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "lectures/lecture10.html#pollution-by-energy-sector",
     "href": "lectures/lecture10.html#pollution-by-energy-sector",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Pollution by energy sector",
-    "text": "Pollution by energy sector\n\n\n\n\n\n\nSource: (iea2016airpollution?)"
+    "text": "Pollution by energy sector\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "lectures/lecture10.html#air-pollution-and-human-health-analytic-framework",
     "href": "lectures/lecture10.html#air-pollution-and-human-health-analytic-framework",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Air pollution and human health analytic framework",
-    "text": "Air pollution and human health analytic framework\n\n\n\n\n\n\nSource: (iea2016airpollution?)"
+    "text": "Air pollution and human health analytic framework\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "lectures/lecture10.html#energy-related-pm-emissions-by-sector-and-region",
     "href": "lectures/lecture10.html#energy-related-pm-emissions-by-sector-and-region",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Energy related PM emissions by sector and region",
-    "text": "Energy related PM emissions by sector and region\n\n\n\n\n\n\nSource: (iea2016airpollution?)"
+    "text": "Energy related PM emissions by sector and region\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "lectures/lecture10.html#air-pollution-standards-aqi",
     "href": "lectures/lecture10.html#air-pollution-standards-aqi",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Air pollution standards (AQI)",
-    "text": "Air pollution standards (AQI)\n\n\n\n\n\n\nSource: (iea2016airpollution?)"
+    "text": "Air pollution standards (AQI)\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "lectures/lecture10.html#typical-power-plant-emission-control-system",
     "href": "lectures/lecture10.html#typical-power-plant-emission-control-system",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Typical power plant emission control system",
-    "text": "Typical power plant emission control system\n\n\n\n\n\n\nSource: (iea2016airpollution?)"
+    "text": "Typical power plant emission control system\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "lectures/lecture10.html#pollution-mitigation-technologies-and-efficiencies",
     "href": "lectures/lecture10.html#pollution-mitigation-technologies-and-efficiencies",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Pollution mitigation technologies and efficiencies",
-    "text": "Pollution mitigation technologies and efficiencies\n\n\n\n\n\n\nSource: (iea2016airpollution?)"
+    "text": "Pollution mitigation technologies and efficiencies\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "lectures/lecture10.html#outdoor-air-pollution-and-premature-mortality",
     "href": "lectures/lecture10.html#outdoor-air-pollution-and-premature-mortality",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Outdoor air pollution and premature mortality",
-    "text": "Outdoor air pollution and premature mortality\n\n\n\n\n\n\nSource: (lelieveld2015contribution?)"
+    "text": "Outdoor air pollution and premature mortality\n\n\nSource: (lelieveld2015contribution?)"
   },
   {
     "objectID": "lectures/lecture10.html#trade-air-pollution-and-premature-mortality",
     "href": "lectures/lecture10.html#trade-air-pollution-and-premature-mortality",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Trade, air pollution, and premature mortality",
-    "text": "Trade, air pollution, and premature mortality\n\n\n\n\n\n\nSource: (zhang2017transboundary?)"
+    "text": "Trade, air pollution, and premature mortality\n\n\nSource: (zhang2017transboundary?)"
   },
   {
     "objectID": "lectures/lecture10.html#energy-sector-accounts-18-global-water-withdrawal",
     "href": "lectures/lecture10.html#energy-sector-accounts-18-global-water-withdrawal",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Energy sector accounts ~1/8 global water withdrawal",
-    "text": "Energy sector accounts ~1/8 global water withdrawal\n\n\n\n\n\n\nSource: (iea2016energywater?)"
+    "text": "Energy sector accounts ~1/8 global water withdrawal\n\n\nSource: (iea2016energywater?)"
   },
   {
     "objectID": "lectures/lecture10.html#water-withdrawal-vs.-water-consumption",
@@ -1250,7 +1201,7 @@
     "href": "lectures/lecture10.html#renewables-save-water",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Renewables save water",
-    "text": "Renewables save water\n\n\n\n\n\n\nSource: (iea2016energywater?)"
+    "text": "Renewables save water\n\n\nSource: (iea2016energywater?)"
   },
   {
     "objectID": "lectures/lecture10.html#dry-cooling-makes-a-big-difference",
@@ -1264,49 +1215,56 @@
     "href": "lectures/lecture10.html#water-energy-carbon-nexus",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Water-energy-carbon nexus",
-    "text": "Water-energy-carbon nexus\n\n\n\n\n\n\nSource: (zhang2021long?)"
+    "text": "Water-energy-carbon nexus\n\n\nSource: (zhang2021long?)"
   },
   {
     "objectID": "lectures/lecture10.html#land-use-intensity",
     "href": "lectures/lecture10.html#land-use-intensity",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Land use intensity",
-    "text": "Land use intensity\n\n\n\n\n\n\nSource: (loveringa2022land?)"
+    "text": "Land use intensity\n\n\nSource: (loveringa2022land?)"
   },
   {
     "objectID": "lectures/lecture10.html#multiple-uses-of-land-co-benefits",
     "href": "lectures/lecture10.html#multiple-uses-of-land-co-benefits",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Multiple uses of land, co-benefits!",
-    "text": "Multiple uses of land, co-benefits!\n\n\n\n\n\n\nSource: American Society of Civil Engineers"
+    "text": "Multiple uses of land, co-benefits!\n\n\nSource: American Society of Civil Engineers"
   },
   {
     "objectID": "lectures/lecture10.html#nyc-climate-and-health",
     "href": "lectures/lecture10.html#nyc-climate-and-health",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "NYC climate and health",
-    "text": "NYC climate and health\n\n\n\n\n\n\nSource: (matteNPCC4ClimateChange2024?)"
+    "text": "NYC climate and health\n\n\nSource: (matteNPCC4ClimateChange2024?)"
   },
   {
     "objectID": "lectures/lecture10.html#lancet-countdown-climate-and-health",
     "href": "lectures/lecture10.html#lancet-countdown-climate-and-health",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Lancet countdown climate and health",
-    "text": "Lancet countdown climate and health\n\n\n\n\n\n\nSource: (romanello2024ReportLancet2024?)"
+    "text": "Lancet countdown climate and health\n\n\nSource: (romanello2024ReportLancet2024?)"
   },
   {
     "objectID": "lectures/lecture10.html#aging-climate-and-health",
     "href": "lectures/lecture10.html#aging-climate-and-health",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Aging, climate, and health",
-    "text": "Aging, climate, and health\n\n\n\n\n\n\nSource: (tipaldoFrameworkAgeingHealth2024?)"
+    "text": "Aging, climate, and health\n\n\nSource: (tipaldoFrameworkAgeingHealth2024?)"
   },
   {
     "objectID": "lectures/lecture10.html#summary",
     "href": "lectures/lecture10.html#summary",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Summary",
-    "text": "Summary\n\nEnvironmental, climate, and health impacts are the externalities of energy systems\n\nEnergy-air pollution/climate change-human health framework of analysis\n\nEnergy-water-carbon nexus\n\nSystem impacts show the constraint in systems modeling\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "Summary\n\nEnvironmental, climate, and health impacts are the externalities of energy systems\n\nEnergy-air pollution/climate change-human health framework of analysis\n\nEnergy-water-carbon nexus\n\nSystem impacts show the constraint in systems modeling"
+  },
+  {
+    "objectID": "lectures/lecture10.html#references",
+    "href": "lectures/lecture10.html#references",
+    "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
+    "section": "",
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/bios/mentor9.html",
@@ -1407,27 +1365,6 @@
     "text": "Additional Resources\n\n\n  \n    Artemis Flower Farm\n  \n\n  \n    Treehouse Farm Collective\n  \n\n  \n    Check Out the Farm (YouTube)\n  \n\n\n\n\nNavigate to: All Mentors or Course Home."
   },
   {
-    "objectID": "2025/students.html",
-    "href": "2025/students.html",
-    "title": "Student Stories & Projects",
-    "section": "",
-    "text": "Jacob Fain, Sea Cliff’s clean energy intern, pitched the Community Solar initiative, which enables residents, small businesses, and even municipal buildings to sign up for…\n\n\n\nFeb 7, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "2025/students.html#student-stories",
-    "href": "2025/students.html#student-stories",
-    "title": "Student Stories & Projects",
-    "section": "",
-    "text": "Jacob Fain, Sea Cliff’s clean energy intern, pitched the Community Solar initiative, which enables residents, small businesses, and even municipal buildings to sign up for…\n\n\n\nFeb 7, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "2025/students.html#student-projects",
-    "href": "2025/students.html#student-projects",
-    "title": "Student Stories & Projects",
-    "section": "Student Projects",
-    "text": "Student Projects\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Name\n      \n      \n        Project\n      \n      \n        Semester\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nProject\n\n\n\nSemester\n\n\n\n\n\n\n\n\nAnthony A.\n\n\nThe State of Connecticut’s Waste Crisis\n\n\nFall 2024\n\n\n\n\n\n\nJacob F.\n\n\nStrategies to Overcome Barriers and Expand Solar Deployment in New York\n\n\nFall 2024\n\n\n\n\n\n\nLauren B.\n\n\nHow to Sell a Congestion Charge to Citizens of New York City\n\n\nFall 2024\n\n\n\n\n\n\nOhemah A.\n\n\nEconomic Benefits of Ghana’s Transition to Renewable Energy\n\n\nFall 2024\n\n\n\n\n\n\nSidiqullah H.\n\n\nDecarbonizing Transportation: Steps to Accelerate Electric Vehicle (EV) Adoption Across New York State\n\n\nFall 2024\n\n\n\n\n\n\nTamara M.\n\n\nSolar Panel Adoption in All Affordable Housing Projects\n\n\nFall 2024\n\n\n\n\n\n\nTanvia S.\n\n\nAddressing the Climate and Environmental Impacts of Warfare\n\n\nFall 2024\n\n\n\n\n\n\nVanesa L.\n\n\nEnhancing Affordable Housing for Climate Resilience\n\n\nFall 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "2025/readings.html",
     "href": "2025/readings.html",
     "title": "Readings",
@@ -1491,6 +1428,118 @@
     "text": "Module 8\n\nKohls and Uhl Marketing of Agricultural Products. (Chapter 20)\nNorwood et al. Agricultural Marketing and Price Analysis. (Chapter 9)"
   },
   {
+    "objectID": "2025/excel-lab.html",
+    "href": "2025/excel-lab.html",
+    "title": "In-Class Lab - Market Analysis Project",
+    "section": "",
+    "text": "This lab gives you hands-on practice with the tools and steps you’ll use in your Market Analysis Project. By the end of class, you’ll have had more time to spend on the project, and a clearer idea of how to each part of the analysis is connected.\nTime: 50 minutes"
+  },
+  {
+    "objectID": "2025/excel-lab.html#objectives",
+    "href": "2025/excel-lab.html#objectives",
+    "title": "In-Class Lab - Market Analysis Project",
+    "section": "Objectives",
+    "text": "Objectives\nBy the end of this lab, you will:\n\nManipulate raw data and create new variables.\nConstruct basic descriptive statistics and visualizations.\nIdentify preliminary patterns in market structure and pricing.\nConnect your findings to the larger questions of the project."
+  },
+  {
+    "objectID": "2025/excel-lab.html#notes-for-students",
+    "href": "2025/excel-lab.html#notes-for-students",
+    "title": "In-Class Lab - Market Analysis Project",
+    "section": "Notes for Students",
+    "text": "Notes for Students\n\nThis lab is not graded; the goal is to practice, not to perfect.\nBring your questions—the project builds on these same steps.\nCollaboration is encouraged, but each student should be engaged with the lab independently."
+  },
+  {
+    "objectID": "2025/excel-course.html",
+    "href": "2025/excel-course.html",
+    "title": "Spreadsheet Modeling Activity",
+    "section": "",
+    "text": "This activity introduces you to spreadsheet modeling as a tool for analyzing food and agricultural markets. Spreadsheets are widely used across agribusiness, government, and research to manage data, run scenarios, and support decision-making. Developing comfort with Excel will help you complete assignments in this course and prepare you for future coursework and internships.\n👉 Access Coursepack Here"
+  },
+  {
+    "objectID": "2025/excel-course.html#what-youll-do",
+    "href": "2025/excel-course.html#what-youll-do",
+    "title": "Spreadsheet Modeling Activity",
+    "section": "What You’ll Do",
+    "text": "What You’ll Do\nYou’ll work through the Spreadsheet Modeling Online Course (Excel 2013). This section provides a hands-on tour of Excel’s features and functions, with practical examples and exercises.\nTopics include:\n\nNavigating the Excel environment (workbooks, worksheets, ribbons, toolbars)\nWorking with data (cells, ranges, copying/moving entries, formatting)\nUsing formulas and functions (pointing, copying, absolute addressing, order of operations)\nEnhancing readability and preparing worksheets for printing\nCreating and customizing charts"
+  },
+  {
+    "objectID": "2025/excel-course.html#time-commitment",
+    "href": "2025/excel-course.html#time-commitment",
+    "title": "Spreadsheet Modeling Activity",
+    "section": "Time Commitment",
+    "text": "Time Commitment\nExpect to spend 4–6 hours on this section, depending on your prior experience with Excel."
+  },
+  {
+    "objectID": "2025/excel-course.html#why-it-matters",
+    "href": "2025/excel-course.html#why-it-matters",
+    "title": "Spreadsheet Modeling Activity",
+    "section": "Why It Matters",
+    "text": "Why It Matters\nSpreadsheets are one of the most common tools for data analysis in agribusiness and applied economics. This activity builds a foundation you’ll use throughout the semester—whether you’re calculating price margins, analyzing cost structures, or visualizing trends in food markets."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html",
+    "href": "2025/multi_sector_model.html",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "The basic supply & demand model focuses on one sector of the marketing channel:\n\nCould be the farm level (price & quantity of raw inputs like barley).\nCould be the retail level (price & quantity of final goods like beer).\n\nBut food systems have multiple linked sectors.\n\nWhat happens at the farm affects processors and consumers.\nWhat happens at retail feeds back to processors and farmers.\n\nTo capture these linkages, we need a multi-sector model.\n\n\n\nInputs (Farm Level): barley, hops, yeast, water.\n\nProcessor (Brewers): brewers transform inputs into beer.\n\nOutput (Retail): beer sold to consumers (ignoring wholesalers/retailers).\n\nThere is both:\n- A supply & demand for beer (retail).\n- A supply & demand for barley (farm).\nBut how do we connect them?\n\n\n\nWe need two simplifying assumptions to tie the beer and barley markets together.\n\nThese assumptions let us draw one diagram showing both markets.\nWithout them, the analysis gets messy (technology choice, variable costs, substitution across inputs, etc.).\n\n\n\n\n\nEach gallon of beer requires a fixed amount of barley.\nBrewers can’t substitute away from barley if its price rises.\nThis lets us say:\n\n\\[\nQ^F = \\alpha Q^R\n\\] Where: - \\(Q^F\\): farm output (bushels of barley)\n- \\(Q^R\\): retail output (gallons of beer)\n- \\(alpha\\): conversion factor (e.g., 1.5 lbs barley per gallon beer)\nIf we know retail output, we know farm output exactly.\n\n\n\n\nThe cost of processing barley into beers is constant (fixed) per unit.\nDenote this as \\(MB\\) (per-unit marketing bill).\nRetail price is then just:\n\n\\[\nP^{Beer} = P^{Barley} + MB\n\\]\nThis assumption creates a fixed wedge between the farm price and the retail price.\n\n\n\nBrewers only demand barley because they can sell beer.\nThus the derived demand for barley is just the consumer demand for beer, shifted down by \\(MB\\).\nNumerical Example:\n\nConsumers will pay $1.00 for a gallon of beer.\nMarketing bill = $0.30.\nMax brewers will pay for barley = $1.00 − $0.30 = $0.70.\n\n\n\n\n\n\nEquilibrium in the barley market occurs where supply of barley meets derived demand for barley.\n\nAt this quantity, the consumer price of beer equals the farm price of barley plus the marketing bill.\n\n\n\n\n\n\n\nDerived demand shifts down.\nBarley price falls.\nBeer price rises.\nQuantities fall.\n\n\n\n\n\n\nBoth beer demand and derived demand for barley shift out.\nPrices and quantities rise in both markets.\n\n\n\n\n\n\nNew regulations raise \\(MB\\). Who bears the cost?\n\nIf demand more elastic than supply → farm price falls more.\nIf supply more elastic than demand → retail price rises more.\nGeneral rule: the side with less elasticity bears more of the burden."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#example-beer-industry",
+    "href": "2025/multi_sector_model.html#example-beer-industry",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Inputs (Farm Level): barley, hops, yeast, water.\n\nProcessor (Brewers): brewers transform inputs into beer.\n\nOutput (Retail): beer sold to consumers (ignoring wholesalers/retailers).\n\nThere is both:\n- A supply & demand for beer (retail).\n- A supply & demand for barley (farm).\nBut how do we connect them?"
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#linking-farm-and-retail-markets",
+    "href": "2025/multi_sector_model.html#linking-farm-and-retail-markets",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "We need two simplifying assumptions to tie the beer and barley markets together.\n\nThese assumptions let us draw one diagram showing both markets.\nWithout them, the analysis gets messy (technology choice, variable costs, substitution across inputs, etc.)."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#assumption-1-fixed-proportions-technology",
+    "href": "2025/multi_sector_model.html#assumption-1-fixed-proportions-technology",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Each gallon of beer requires a fixed amount of barley.\nBrewers can’t substitute away from barley if its price rises.\nThis lets us say:\n\n\\[\nQ^F = \\alpha Q^R\n\\] Where: - \\(Q^F\\): farm output (bushels of barley)\n- \\(Q^R\\): retail output (gallons of beer)\n- \\(alpha\\): conversion factor (e.g., 1.5 lbs barley per gallon beer)\nIf we know retail output, we know farm output exactly."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#assumption-2-constant-marketing-bill",
+    "href": "2025/multi_sector_model.html#assumption-2-constant-marketing-bill",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "The cost of processing barley into beers is constant (fixed) per unit.\nDenote this as \\(MB\\) (per-unit marketing bill).\nRetail price is then just:\n\n\\[\nP^{Beer} = P^{Barley} + MB\n\\]\nThis assumption creates a fixed wedge between the farm price and the retail price."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#derived-demand",
+    "href": "2025/multi_sector_model.html#derived-demand",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Brewers only demand barley because they can sell beer.\nThus the derived demand for barley is just the consumer demand for beer, shifted down by \\(MB\\).\nNumerical Example:\n\nConsumers will pay $1.00 for a gallon of beer.\nMarketing bill = $0.30.\nMax brewers will pay for barley = $1.00 − $0.30 = $0.70."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#market-equilibrium",
+    "href": "2025/multi_sector_model.html#market-equilibrium",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Equilibrium in the barley market occurs where supply of barley meets derived demand for barley.\n\nAt this quantity, the consumer price of beer equals the farm price of barley plus the marketing bill."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#shocks",
+    "href": "2025/multi_sector_model.html#shocks",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "Derived demand shifts down.\nBarley price falls.\nBeer price rises.\nQuantities fall.\n\n\n\n\n\n\nBoth beer demand and derived demand for barley shift out.\nPrices and quantities rise in both markets."
+  },
+  {
+    "objectID": "2025/multi_sector_model.html#cost-transmission",
+    "href": "2025/multi_sector_model.html#cost-transmission",
+    "title": "Multi-Sector Models and Marketing Margins",
+    "section": "",
+    "text": "New regulations raise \\(MB\\). Who bears the cost?\n\nIf demand more elastic than supply → farm price falls more.\nIf supply more elastic than demand → retail price rises more.\nGeneral rule: the side with less elasticity bears more of the burden."
+  },
+  {
     "objectID": "2025/schedule.html",
     "href": "2025/schedule.html",
     "title": "Fall 2025 Course Schedule",
@@ -1503,6 +1552,69 @@
     "title": "Fall 2025 Course Schedule",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nFirst number indicates Module, Second number indicates Lecture↩︎\nHomework assignments are due the corresponding Fridays at 11:59 PM↩︎"
+  },
+  {
+    "objectID": "2025/students.html",
+    "href": "2025/students.html",
+    "title": "Student Stories & Projects",
+    "section": "",
+    "text": "Jacob Fain, Sea Cliff’s clean energy intern, pitched the Community Solar initiative, which enables residents, small businesses, and even municipal buildings to sign up for…\n\n\n\nFeb 7, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "2025/students.html#student-stories",
+    "href": "2025/students.html#student-stories",
+    "title": "Student Stories & Projects",
+    "section": "",
+    "text": "Jacob Fain, Sea Cliff’s clean energy intern, pitched the Community Solar initiative, which enables residents, small businesses, and even municipal buildings to sign up for…\n\n\n\nFeb 7, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "2025/students.html#student-projects",
+    "href": "2025/students.html#student-projects",
+    "title": "Student Stories & Projects",
+    "section": "Student Projects",
+    "text": "Student Projects\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Name\n      \n      \n        Project\n      \n      \n        Semester\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nProject\n\n\n\nSemester\n\n\n\n\n\n\n\n\nAnthony A.\n\n\nThe State of Connecticut’s Waste Crisis\n\n\nFall 2024\n\n\n\n\n\n\nJacob F.\n\n\nStrategies to Overcome Barriers and Expand Solar Deployment in New York\n\n\nFall 2024\n\n\n\n\n\n\nLauren B.\n\n\nHow to Sell a Congestion Charge to Citizens of New York City\n\n\nFall 2024\n\n\n\n\n\n\nOhemah A.\n\n\nEconomic Benefits of Ghana’s Transition to Renewable Energy\n\n\nFall 2024\n\n\n\n\n\n\nSidiqullah H.\n\n\nDecarbonizing Transportation: Steps to Accelerate Electric Vehicle (EV) Adoption Across New York State\n\n\nFall 2024\n\n\n\n\n\n\nTamara M.\n\n\nSolar Panel Adoption in All Affordable Housing Projects\n\n\nFall 2024\n\n\n\n\n\n\nTanvia S.\n\n\nAddressing the Climate and Environmental Impacts of Warfare\n\n\nFall 2024\n\n\n\n\n\n\nVanesa L.\n\n\nEnhancing Affordable Housing for Climate Resilience\n\n\nFall 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Food and Agricultural Markets",
+    "section": "",
+    "text": "The primary objective is to foster development and understanding of key agricultural marketing issues and concerns, and equip you with analytical skills that may be utilized to evaluate different marketing problems and programs from both the industry and firm perspective. This course will provide you with an understanding of economic concepts that will be employed for analyzing issues in agricultural marketing."
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Food and Agricultural Markets",
+    "section": "",
+    "text": "The primary objective is to foster development and understanding of key agricultural marketing issues and concerns, and equip you with analytical skills that may be utilized to evaluate different marketing problems and programs from both the industry and firm perspective. This course will provide you with an understanding of economic concepts that will be employed for analyzing issues in agricultural marketing."
+  },
+  {
+    "objectID": "index.html#prerequisite-arececon-202-principles-of-microeconomics",
+    "href": "index.html#prerequisite-arececon-202-principles-of-microeconomics",
+    "title": "Food and Agricultural Markets",
+    "section": "Prerequisite: AREC/ECON 202 (Principles of Microeconomics)",
+    "text": "Prerequisite: AREC/ECON 202 (Principles of Microeconomics)\n👉 Access Syllabus Here"
+  },
+  {
+    "objectID": "index.html#why-this-course-matters",
+    "href": "index.html#why-this-course-matters",
+    "title": "Food and Agricultural Markets",
+    "section": "Why This Course Matters",
+    "text": "Why This Course Matters\nIn this course, you build a foundation for understanding how food moves from farms to consumers, how prices form, and how the parts of the supply chain connect. We work with real-world data to see how value is added across the food system, measure market concentration, and explore the role of forecasting and risk management tools like futures and options.\nThese skills help you analyze market conditions, interpret trends, and connect day-to-day business decisions with broader patterns in food and agricultural markets.\n\nOur Learning Culture\nI want you to imagine we’re all part of the same organization—one where everyone’s success depends on how well we collaborate, share ideas, and support each other’s growth. That means:\n\nWe take initiative and hold ourselves accountable.\nWe celebrate experimentation and embrace failure as part of the process.\nWe give and receive feedback with curiosity and respect.\nWe build a culture that reflects the kind of teams we’d want to work on in the real world.\n\nMy goal is to help you connect what you’re learning to real decisions and real contexts. By the end of the course, you’ll have experience working with market data, applying economic concepts to real marketing problems, and communicating your analysis in ways that support sound decision-making."
+  },
+  {
+    "objectID": "index.html#reuse-of-material",
+    "href": "index.html#reuse-of-material",
+    "title": "Food and Agricultural Markets",
+    "section": "Reuse of material",
+    "text": "Reuse of material\nPlease link my site and this course site to use any organized material. Copyrights belong to cited authors/creators."
+  },
+  {
+    "objectID": "index.html#how-to-help",
+    "href": "index.html#how-to-help",
+    "title": "Food and Agricultural Markets",
+    "section": "How to help",
+    "text": "How to help\nIf you like this course, you can Star the course repository to help more people to see it. If you find any issue, please use the “Report an issue” on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome."
   },
   {
     "objectID": "lectures/bios/mentor10.html",
@@ -1607,7 +1719,7 @@
     "href": "lectures/lecture1.html#not-fast-enough",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "Not fast enough",
-    "text": "Not fast enough\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow the exponential growth of solar will change the energy sector and the economy?\n\nSource: The Economist, Green Power Gap"
+    "text": "Not fast enough\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow the exponential growth of solar will change the energy sector and the economy?\n\nSource: The Economist, Green Power Gap"
   },
   {
     "objectID": "lectures/lecture1.html#why-paf9199",
@@ -1642,7 +1754,7 @@
     "href": "lectures/lecture1.html#a-five-points-climate-haiku",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "A five points “climate haiku”",
-    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
   },
   {
     "objectID": "lectures/lecture1.html#an-analytical-approach",
@@ -1684,42 +1796,42 @@
     "href": "lectures/lecture1.html#why-climate-and-energy-systems-are-both-complicated",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "Why: climate and energy systems are both complicated",
-    "text": "Why: climate and energy systems are both complicated\n\n\n\n\n\n\nSource: EIA"
+    "text": "Why: climate and energy systems are both complicated\n\n\nSource: EIA"
   },
   {
     "objectID": "lectures/lecture1.html#the-energy-trillemma-balancing-trade-offs",
     "href": "lectures/lecture1.html#the-energy-trillemma-balancing-trade-offs",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "The Energy Trillemma: Balancing trade-offs",
-    "text": "The Energy Trillemma: Balancing trade-offs\n\n\n\n\n\n\n\n\n\nEnergy security: Ensure reliable energy supply\nEnergy equity: Provide universal access to reliable, affordable, and abundant energy\nEnvironmental Sustainability: Avoid environmental harm or climate impact\nThose goals sometimes conflict with each other, and decisions has to make trade-offs between them\n\n\n\n\nSource: World Energy Council"
+    "text": "The Energy Trillemma: Balancing trade-offs\n\n\n\n\n\n\n\n\n\nEnergy security: Ensure reliable energy supply\nEnergy equity: Provide universal access to reliable, affordable, and abundant energy\nEnvironmental Sustainability: Avoid environmental harm or climate impact\nThose goals sometimes conflict with each other, and decisions has to make trade-offs between them\n\n\n\nSource: World Energy Council"
   },
   {
     "objectID": "lectures/lecture1.html#energy-economy-and-environment",
     "href": "lectures/lecture1.html#energy-economy-and-environment",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "Energy, economy, and environment",
-    "text": "Energy, economy, and environment\n\n\n\n\n\n\n\n\nEconomy: Decent living? Growth? Degrowth?\nEnvironment: Emissions, ecosystems constraints/goals\nEnergy: Work within constraints\n\n\n\nSource: ICMA"
+    "text": "Energy, economy, and environment\n\n\n\n\n\n\n\n\nEconomy: Decent living? Growth? Degrowth?\nEnvironment: Emissions, ecosystems constraints/goals\nEnergy: Work within constraints\n\n\nSource: ICMA"
   },
   {
     "objectID": "lectures/lecture1.html#energy-great-achievement",
     "href": "lectures/lecture1.html#energy-great-achievement",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "Energy great achievement",
-    "text": "Energy great achievement\n\n\n\n\n\n\nSource: National Academies"
+    "text": "Energy great achievement\n\n\nSource: National Academies"
   },
   {
     "objectID": "lectures/lecture1.html#energy-grand-challenges-sdgs",
     "href": "lectures/lecture1.html#energy-grand-challenges-sdgs",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "Energy grand challenges: SDGs",
-    "text": "Energy grand challenges: SDGs\n\n\n\n\n\n\nSource: UN"
+    "text": "Energy grand challenges: SDGs\n\n\nSource: UN"
   },
   {
     "objectID": "lectures/lecture1.html#energy-grand-challenges-net-zero",
     "href": "lectures/lecture1.html#energy-grand-challenges-net-zero",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "Energy grand challenges: net-zero",
-    "text": "Energy grand challenges: net-zero\n\n\n\n\n\n\nSource: (iea_net_2021?)"
+    "text": "Energy grand challenges: net-zero\n\n\nSource: (iea_net_2021?)"
   },
   {
     "objectID": "lectures/lecture1.html#modeling-can-be-usefulinsightful-an-example",
@@ -1733,35 +1845,35 @@
     "href": "lectures/lecture1.html#renewables-are-achieving-grid-parity-a-structural-change",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "Renewables are achieving grid parity: a structural change",
-    "text": "Renewables are achieving grid parity: a structural change\n\n\n\n\n\n\nSource: (irena_renewable_2021?)"
+    "text": "Renewables are achieving grid parity: a structural change\n\n\nSource: (irena_renewable_2021?)"
   },
   {
     "objectID": "lectures/lecture1.html#implications-are-profound",
     "href": "lectures/lecture1.html#implications-are-profound",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "Implications are profound",
-    "text": "Implications are profound\n\n\n \n\n\n\n\n\n\n\n\n\nSource: (he_rapid_2020?), (grant_cost_2021?)"
+    "text": "Implications are profound\n\n\n \n\n\n\n\n\n\n\n\nSource: (he_rapid_2020?), (grant_cost_2021?)"
   },
   {
     "objectID": "lectures/lecture1.html#end-with-two-quotes",
     "href": "lectures/lecture1.html#end-with-two-quotes",
     "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "End with two quotes",
-    "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.\n\n\n\n\nSource: (hogan_energy_2002?), (huntington_modeling_1982?)\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.\n\n\n\nSource: (hogan_energy_2002?), (huntington_modeling_1982?)"
   },
   {
-    "objectID": "lectures/lecture11.html",
-    "href": "lectures/lecture11.html",
-    "title": "Lecture 11 Climate Policy Responses",
+    "objectID": "lectures/lecture1.html#references",
+    "href": "lectures/lecture1.html#references",
+    "title": "Lecture 1 Introduction: Grand Challenges",
     "section": "",
-    "text": "What are the rationale under the evolution of climate discussion and negotiation?\n\nWhat are the typic/classic policy instruments to address climate change?\n\nWhat are the pros and cons of those instruments?\n\nWhat further reserach is needed to show the cost-effectiveness of those instruments?"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture11.html#sample-analytic-questions",
     "href": "lectures/lecture11.html#sample-analytic-questions",
     "title": "Lecture 11 Climate Policy Responses",
-    "section": "",
-    "text": "What are the rationale under the evolution of climate discussion and negotiation?\n\nWhat are the typic/classic policy instruments to address climate change?\n\nWhat are the pros and cons of those instruments?\n\nWhat further reserach is needed to show the cost-effectiveness of those instruments?"
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat are the rationale under the evolution of climate discussion and negotiation?\n\nWhat are the typic/classic policy instruments to address climate change?\n\nWhat are the pros and cons of those instruments?\n\nWhat further reserach is needed to show the cost-effectiveness of those instruments?"
   },
   {
     "objectID": "lectures/lecture11.html#update-from-cop29",
@@ -1796,21 +1908,21 @@
     "href": "lectures/lecture11.html#kaya-identify",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "Kaya identify",
-    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\n\nSource: (kaya_environment_1997?), Kaya Identity: drivers of CO₂ emissions in the World"
+    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\nSource: (kaya_environment_1997?), Kaya Identity: drivers of CO₂ emissions in the World"
   },
   {
     "objectID": "lectures/lecture11.html#climate-wedges",
     "href": "lectures/lecture11.html#climate-wedges",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "Climate wedges",
-    "text": "Climate wedges\n\n\n\n\n\n\nSource: (pacala2004stabilization?)"
+    "text": "Climate wedges\n\n\nSource: (pacala2004stabilization?)"
   },
   {
     "objectID": "lectures/lecture11.html#the-mckinsey-cost-curve",
     "href": "lectures/lecture11.html#the-mckinsey-cost-curve",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "The Mckinsey cost curve",
-    "text": "The Mckinsey cost curve\n\n\n\n\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
+    "text": "The Mckinsey cost curve\n\n\nSource: Mckinsey, GHG Abatement Cost Curves"
   },
   {
     "objectID": "lectures/lecture11.html#social-cost-of-carbon",
@@ -1824,7 +1936,7 @@
     "href": "lectures/lecture11.html#epa-social-cost-of-carbon",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "EPA social cost of carbon",
-    "text": "EPA social cost of carbon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: EPA"
+    "text": "EPA social cost of carbon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: EPA"
   },
   {
     "objectID": "lectures/lecture11.html#nydec-value-of-carbon-guidance",
@@ -1838,14 +1950,14 @@
     "href": "lectures/lecture11.html#scc-updates",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "SCC updates",
-    "text": "SCC updates\n\n\n\n\n\n\nSource: RFF, (rennert2022comprehensive?)"
+    "text": "SCC updates\n\n\nSource: RFF, (rennert2022comprehensive?)"
   },
   {
     "objectID": "lectures/lecture11.html#tax-vs-cap-and-trade",
     "href": "lectures/lecture11.html#tax-vs-cap-and-trade",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "Tax vs Cap and Trade",
-    "text": "Tax vs Cap and Trade\n\n\nSimilarities:\n\nAchieve carbon emission reduction\n\nAbatement costs\n\nInternational competitiveness\n\nRaising revenue\n\nSocial costs\n\nDistributional impacts\n\n\nDifferences:\n\nTransaction costs\n\nPerformance under uncertainty\n\nLinkages\nPrice volatility\n\nInteraction with complementary policies\n\nMarket manipulation\n\nAdministrative requirements\n\n\n\n\nSource: Read more: (stavinsRelativeMeritsCarbon2022?)"
+    "text": "Tax vs Cap and Trade\n\n\nSimilarities:\n\nAchieve carbon emission reduction\n\nAbatement costs\n\nInternational competitiveness\n\nRaising revenue\n\nSocial costs\n\nDistributional impacts\n\n\nDifferences:\n\nTransaction costs\n\nPerformance under uncertainty\n\nLinkages\nPrice volatility\n\nInteraction with complementary policies\n\nMarket manipulation\n\nAdministrative requirements\n\n\n\nSource: Read more: (stavinsRelativeMeritsCarbon2022?)"
   },
   {
     "objectID": "lectures/lecture11.html#what-works-whats-not",
@@ -1866,7 +1978,7 @@
     "href": "lectures/lecture11.html#policy-instruments",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "Policy instruments",
-    "text": "Policy instruments\n\n\n\n\n\n\nSource: (armitage_innovation_2023?)"
+    "text": "Policy instruments\n\n\nSource: (armitage_innovation_2023?)"
   },
   {
     "objectID": "lectures/lecture11.html#type-of-instruments",
@@ -1880,42 +1992,42 @@
     "href": "lectures/lecture11.html#what-policies-work",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "What policies work",
-    "text": "What policies work\n\n\n\n\n\n\nSource: (stechemesserClimatePoliciesThat2024?)\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "What policies work\n\n\nSource: (stechemesserClimatePoliciesThat2024?)"
   },
   {
-    "objectID": "lectures/lecture13.html",
-    "href": "lectures/lecture13.html",
-    "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
+    "objectID": "lectures/lecture11.html#references",
+    "href": "lectures/lecture11.html#references",
+    "title": "Lecture 11 Climate Policy Responses",
     "section": "",
-    "text": "How do I know if I should trust modeling results?\n\nWhat are the methods to address uncertainties?\n\nWhat are the emerging topics to improve modeling analysis?\n\nHow to interpret modeling results to communicate effectively?\n\nWhere to use model? How to build your analysis?"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture13.html#sample-analytic-questions",
     "href": "lectures/lecture13.html#sample-analytic-questions",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
-    "section": "",
-    "text": "How do I know if I should trust modeling results?\n\nWhat are the methods to address uncertainties?\n\nWhat are the emerging topics to improve modeling analysis?\n\nHow to interpret modeling results to communicate effectively?\n\nWhere to use model? How to build your analysis?"
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nHow do I know if I should trust modeling results?\n\nWhat are the methods to address uncertainties?\n\nWhat are the emerging topics to improve modeling analysis?\n\nHow to interpret modeling results to communicate effectively?\n\nWhere to use model? How to build your analysis?"
   },
   {
     "objectID": "lectures/lecture13.html#projections-went-off",
     "href": "lectures/lecture13.html#projections-went-off",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Projections went off",
-    "text": "Projections went off\n\n\n\n\n\n\nSource: (craig2002what?)"
+    "text": "Projections went off\n\n\nSource: (craig2002what?)"
   },
   {
     "objectID": "lectures/lecture13.html#iea-underestimates-solar-and-wind",
     "href": "lectures/lecture13.html#iea-underestimates-solar-and-wind",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "IEA underestimates solar and wind",
-    "text": "IEA underestimates solar and wind\n\n\n\n\n\n\nSource: Ecofys"
+    "text": "IEA underestimates solar and wind\n\n\nSource: Ecofys"
   },
   {
     "objectID": "lectures/lecture13.html#science-models-are-in-better-positions",
     "href": "lectures/lecture13.html#science-models-are-in-better-positions",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Science models are in better positions",
-    "text": "Science models are in better positions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Inside Climate News, (supran_assessing_2023?), (hausfather2020evaluating?)"
+    "text": "Science models are in better positions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Inside Climate News, (supran_assessing_2023?), (hausfather2020evaluating?)"
   },
   {
     "objectID": "lectures/lecture13.html#conditions-for-model-robustness",
@@ -1936,14 +2048,14 @@
     "href": "lectures/lecture13.html#changing-landsacpe-of-new-power-generation-capacities",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Changing landsacpe of new power generation capacities",
-    "text": "Changing landsacpe of new power generation capacities\n\nShale gas revolution\n\n\n\n\n\n\n\nSource: Head Waters Economics"
+    "text": "Changing landsacpe of new power generation capacities\n\nShale gas revolution\n\n\n\nSource: Head Waters Economics"
   },
   {
     "objectID": "lectures/lecture13.html#renewable-costs",
     "href": "lectures/lecture13.html#renewable-costs",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Renewable costs",
-    "text": "Renewable costs\n\n\n\n\n\n\nSource: IPCC"
+    "text": "Renewable costs\n\n\nSource: IPCC"
   },
   {
     "objectID": "lectures/lecture13.html#mission-impossible",
@@ -1964,7 +2076,7 @@
     "href": "lectures/lecture13.html#incoporating-political-economy",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Incoporating political economy",
-    "text": "Incoporating political economy\n\n\n\nExamples\n\nRisk averse investors\n\nSubsidies or taxes\n\nCarbon lock-in\n\nUnequal costs and benefits of climate polices accrue to different groups\n\nPublic opinion\n\nConfidence in political institutions\n\nTrade and investments\n\nCompetence of goverment\n\n\n\n\n\n\n\n\n\n\n\nSource: (peng2021climate?), (peng2021surprisingly?)"
+    "text": "Incoporating political economy\n\n\n\nExamples\n\nRisk averse investors\n\nSubsidies or taxes\n\nCarbon lock-in\n\nUnequal costs and benefits of climate polices accrue to different groups\n\nPublic opinion\n\nConfidence in political institutions\n\nTrade and investments\n\nCompetence of goverment\n\n\n\n\n\n\n\n\n\n\nSource: (peng2021climate?), (peng2021surprisingly?)"
   },
   {
     "objectID": "lectures/lecture13.html#why-a-model-in-the-first-place",
@@ -1985,7 +2097,7 @@
     "href": "lectures/lecture13.html#focusing-on-structures-and-relations",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Focusing on structures and relations",
-    "text": "Focusing on structures and relations\n\n\n\n\n\n\nSource: Climate Interactive"
+    "text": "Focusing on structures and relations\n\n\nSource: Climate Interactive"
   },
   {
     "objectID": "lectures/lecture13.html#knowing-limitations",
@@ -2034,7 +2146,7 @@
     "href": "lectures/lecture13.html#energy-grand-challenges-net-zero",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Energy grand challenges: net-zero",
-    "text": "Energy grand challenges: net-zero\n\n\n\n\n\n\nSource: (iea_net_2021?)"
+    "text": "Energy grand challenges: net-zero\n\n\nSource: (iea_net_2021?)"
   },
   {
     "objectID": "lectures/lecture13.html#a-five-points-climate-haiku",
@@ -2048,21 +2160,21 @@
     "href": "lectures/lecture13.html#energy-vs-power",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Energy vs power",
-    "text": "Energy vs power\n\n\n\nEnergy is the ability to do work. Energy is power integrated over time.\nBasic unit: joule = watt·second\n\n\n\nPower is the rate at which work is done, or energy is transmitted.\nBasic unit: watt = jourle/second\n\n\n\nWe need to know what we are talking about!"
+    "text": "Energy vs power\n\n\n\nEnergy is the ability to do work. Energy is power integrated over time.\nBasic unit: joule = watt·second\n\n\n\nPower is the rate at which work is done, or energy is transmitted.\nBasic unit: watt = jourle/second\n\n\nWe need to know what we are talking about!"
   },
   {
     "objectID": "lectures/lecture13.html#common-sources-of-energy-and-climate-data",
     "href": "lectures/lecture13.html#common-sources-of-energy-and-climate-data",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Common sources of energy and climate data",
-    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\n\nSource: (macknick_energy_2011?)"
+    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\nSource: (macknick_energy_2011?)"
   },
   {
     "objectID": "lectures/lecture13.html#human-component-is-the-major-driver-of-warming",
     "href": "lectures/lecture13.html#human-component-is-the-major-driver-of-warming",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Human component is the major driver of warming",
-    "text": "Human component is the major driver of warming\n\n\n\n\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
+    "text": "Human component is the major driver of warming\n\n\nSource: Chapter 3 of the Fourth National Climate Assessment (NCA4)"
   },
   {
     "objectID": "lectures/lecture13.html#social-cost-of-carbon",
@@ -2076,21 +2188,21 @@
     "href": "lectures/lecture13.html#kaya-identify",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Kaya identify",
-    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\n\nSource: (kaya_environment_1808?), Kaya Identity: drivers of CO₂ emissions in the World"
+    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\nSource: (kaya_environment_1808?), Kaya Identity: drivers of CO₂ emissions in the World"
   },
   {
     "objectID": "lectures/lecture13.html#risks-and-resilience",
     "href": "lectures/lecture13.html#risks-and-resilience",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Risks and resilience",
-    "text": "Risks and resilience\n\n\n\n\n\n\nSource: IPCC, WG2"
+    "text": "Risks and resilience\n\n\nSource: IPCC, WG2"
   },
   {
     "objectID": "lectures/lecture13.html#energy-systems",
     "href": "lectures/lecture13.html#energy-systems",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Energy systems",
-    "text": "Energy systems\n\n\n\n\n\n\nSource: IIASA, Energy Primier"
+    "text": "Energy systems\n\n\nSource: IIASA, Energy Primier"
   },
   {
     "objectID": "lectures/lecture13.html#energy-project-economics",
@@ -2125,28 +2237,28 @@
     "href": "lectures/lecture13.html#p-n-junction",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "P-N Junction",
-    "text": "P-N Junction\n\n\n\n\n\n\nRead more: https://www.energy.gov/eere/solar/how-does-solar-work"
+    "text": "P-N Junction\n\n\nRead more: https://www.energy.gov/eere/solar/how-does-solar-work"
   },
   {
     "objectID": "lectures/lecture13.html#wind",
     "href": "lectures/lecture13.html#wind",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Wind",
-    "text": "Wind\n\n\n\n\n\n\n\n\n\\(P=\\frac{1}{2}\\rho \\pi r^2 v^3\\)\n\nWhere,\n\\(\\rho\\) = Air Density (\\(kg/m^3\\))\n\\(A\\) = Swept Area (m2) = \\(\\pi r^2\\)\n\\(v\\) = Wind Speed (m/s)\n\\(P\\) = Power (W)\n\n\n\n\nPhoto by Gang He, Block Island Offshore Wind Farm"
+    "text": "Wind\n\n\n\n\n\n\n\n\n\\(P=\\frac{1}{2}\\rho \\pi r^2 v^3\\)\n\nWhere,\n\\(\\rho\\) = Air Density (\\(kg/m^3\\))\n\\(A\\) = Swept Area (m2) = \\(\\pi r^2\\)\n\\(v\\) = Wind Speed (m/s)\n\\(P\\) = Power (W)\n\n\n\nPhoto by Gang He, Block Island Offshore Wind Farm"
   },
   {
     "objectID": "lectures/lecture13.html#nuclear",
     "href": "lectures/lecture13.html#nuclear",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Nuclear",
-    "text": "Nuclear\n\n\n\n\n\n\n\n\nNuclear fission\n\n\n\n\n\n\n\n\n\nNuclear fussion\n\n\n\n\nRead more: EIA, Nuclear explained; DOE, Nuclear fusion reactions"
+    "text": "Nuclear\n\n\n\n\n\n\n\n\nNuclear fission\n\n\n\n\n\n\n\n\n\nNuclear fussion\n\n\n\nRead more: EIA, Nuclear explained; DOE, Nuclear fusion reactions"
   },
   {
     "objectID": "lectures/lecture13.html#hydro",
     "href": "lectures/lecture13.html#hydro",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Hydro",
-    "text": "Hydro\n\n\n\n\n\n\n\n\nHydropower\n\n\n\n\n\n\n\n\nPumped storage hydropower (PSH)\n\n\n\n\n\n\\(E=\\rho mg(h_2-h_1)\\)\n\n\nSource: TVA"
+    "text": "Hydro\n\n\n\n\n\n\n\n\nHydropower\n\n\n\n\n\n\n\n\nPumped storage hydropower (PSH)\n\n\n\n\n\\(E=\\rho mg(h_2-h_1)\\)\n\n\nSource: TVA"
   },
   {
     "objectID": "lectures/lecture13.html#energy-demand",
@@ -2202,42 +2314,42 @@
     "href": "lectures/lecture13.html#uncertainies-and-limitation",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Uncertainies and limitation",
-    "text": "Uncertainies and limitation\n\nKnow the limitation of models\n\nUse model appropriately\n\nInterpret/communicate the results effectively\n\nModels for social good\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "Uncertainies and limitation\n\nKnow the limitation of models\n\nUse model appropriately\n\nInterpret/communicate the results effectively\n\nModels for social good"
   },
   {
-    "objectID": "lectures/lecture3.html",
-    "href": "lectures/lecture3.html",
-    "title": "Lecture 3 Climate Impact Assessments",
+    "objectID": "lectures/lecture13.html#references",
+    "href": "lectures/lecture13.html#references",
+    "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "",
-    "text": "It’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture3.html#a-five-points-climate-haiku",
     "href": "lectures/lecture3.html#a-five-points-climate-haiku",
     "title": "Lecture 3 Climate Impact Assessments",
-    "section": "",
-    "text": "It’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+    "section": "A five points “climate haiku”",
+    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
   },
   {
     "objectID": "lectures/lecture3.html#adverse-impacts-of-climate-change",
     "href": "lectures/lecture3.html#adverse-impacts-of-climate-change",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Adverse impacts of climate change",
-    "text": "Adverse impacts of climate change\n\n\n\n\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 1"
+    "text": "Adverse impacts of climate change\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 1"
   },
   {
     "objectID": "lectures/lecture3.html#the-impacts-are-global",
     "href": "lectures/lecture3.html#the-impacts-are-global",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "The impacts are global",
-    "text": "The impacts are global\n\n\n\n\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.1"
+    "text": "The impacts are global\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.1"
   },
   {
     "objectID": "lectures/lecture3.html#vulnerable-population-suffers-more",
     "href": "lectures/lecture3.html#vulnerable-population-suffers-more",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Vulnerable population suffers more",
-    "text": "Vulnerable population suffers more\n\n\n\n\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.2"
+    "text": "Vulnerable population suffers more\n\n\nSource: IPCC AR6 Synthesis Repoort Figure 2.3.2"
   },
   {
     "objectID": "lectures/lecture3.html#conventional-focues",
@@ -2258,7 +2370,7 @@
     "href": "lectures/lecture3.html#social-economic-impacts",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Social economic impacts",
-    "text": "Social economic impacts\n\n\n\n\n\n\nSource: (carleton2016social?)"
+    "text": "Social economic impacts\n\n\nSource: (carleton2016social?)"
   },
   {
     "objectID": "lectures/lecture3.html#climate-damage-function",
@@ -2272,63 +2384,63 @@
     "href": "lectures/lecture3.html#climate-change-and-conflicts",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Climate change and conflicts",
-    "text": "Climate change and conflicts\n\n\n\n\n\n\nRead more: (hsiang_quantifying_2013?)"
+    "text": "Climate change and conflicts\n\n\nRead more: (hsiang_quantifying_2013?)"
   },
   {
     "objectID": "lectures/lecture3.html#climate-change-affects-energy-system",
     "href": "lectures/lecture3.html#climate-change-affects-energy-system",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Climate change affects energy system",
-    "text": "Climate change affects energy system\n\n\n\n\n\n\nSource: (yalew2020impacts?)"
+    "text": "Climate change affects energy system\n\n\nSource: (yalew2020impacts?)"
   },
   {
     "objectID": "lectures/lecture3.html#climate-impact-to-renewable-supply-demand-match",
     "href": "lectures/lecture3.html#climate-impact-to-renewable-supply-demand-match",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Climate impact to renewable supply-demand match",
-    "text": "Climate impact to renewable supply-demand match\n\n\n\n\n\n\nSource: (liu_climate_2023?)"
+    "text": "Climate impact to renewable supply-demand match\n\n\nSource: (liu_climate_2023?)"
   },
   {
     "objectID": "lectures/lecture3.html#nys-climate-impacts-assessment",
     "href": "lectures/lecture3.html#nys-climate-impacts-assessment",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "NYS climate impacts assessment",
-    "text": "NYS climate impacts assessment\n\n\n\nUp-to-date projections of future climate conditions in New York State\nSector-based assessments of climate impacts based on literature\nIn-depth economic impact assessments\nAdaptation strategies and case studies\nLinks and references to primary sources for full transparency\nCommunication and outreach materials to present information from the assessment\n\n\n\n\n\n\n\n\n\n\nSource: New York State Climate Impacts Assessment"
+    "text": "NYS climate impacts assessment\n\n\n\nUp-to-date projections of future climate conditions in New York State\nSector-based assessments of climate impacts based on literature\nIn-depth economic impact assessments\nAdaptation strategies and case studies\nLinks and references to primary sources for full transparency\nCommunication and outreach materials to present information from the assessment\n\n\n\n\n\n\n\n\n\nSource: New York State Climate Impacts Assessment"
   },
   {
     "objectID": "lectures/lecture3.html#vulnerable-populations",
     "href": "lectures/lecture3.html#vulnerable-populations",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Vulnerable Populations",
-    "text": "Vulnerable Populations\n\n\n\n\n\nOther Groups:\n\nImmigrant\n\nUnhoused and housing-insecure\n\nIncarcerated\n\nPeople with disabilities\n\nChindren\n\nOlder adults (65+)\n\n\n\n\n\nSource: New York State Climate Impacts Assessment Ch1"
+    "text": "Vulnerable Populations\n\n\n\n\n\nOther Groups:\n\nImmigrant\n\nUnhoused and housing-insecure\n\nIncarcerated\n\nPeople with disabilities\n\nChindren\n\nOlder adults (65+)\n\n\n\n\nSource: New York State Climate Impacts Assessment Ch1"
   },
   {
     "objectID": "lectures/lecture3.html#the-4th-assessment-of-the-nyc-panel-on-climate-change-npcc4",
     "href": "lectures/lecture3.html#the-4th-assessment-of-the-nyc-panel-on-climate-change-npcc4",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "The 4th Assessment of the NYC Panel on Climate Change (NPCC4)",
-    "text": "The 4th Assessment of the NYC Panel on Climate Change (NPCC4)\n\nUpdates: Climate Science, Equity, and Flooding\nNew: Futures and Transitions, Energy and Energy Insecurity, and Health.\n\n\n\n\n\n\n\nSource: NPCC4"
+    "text": "The 4th Assessment of the NYC Panel on Climate Change (NPCC4)\n\nUpdates: Climate Science, Equity, and Flooding\nNew: Futures and Transitions, Energy and Energy Insecurity, and Health.\n\n\n\nSource: NPCC4"
   },
   {
     "objectID": "lectures/lecture3.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
     "href": "lectures/lecture3.html#fuel-for-thoughts-grand-challenges-huge-progress-and-grand-opportunities",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities",
-    "text": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities\n\n\n\n\n\n\nSource: Our World in Data\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "Fuel for thoughts: grand challenges, huge progress, and grand opportunities\n\n\nSource: Our World in Data"
   },
   {
-    "objectID": "lectures/lecture5.html",
-    "href": "lectures/lecture5.html",
-    "title": "Lecture 5 Energy Project Economics",
+    "objectID": "lectures/lecture3.html#references",
+    "href": "lectures/lecture3.html#references",
+    "title": "Lecture 3 Climate Impact Assessments",
     "section": "",
-    "text": "What’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture5.html#sample-analytic-questions",
     "href": "lectures/lecture5.html#sample-analytic-questions",
     "title": "Lecture 5 Energy Project Economics",
-    "section": "",
-    "text": "What’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nWhat’s the LCOE of a new technology?\n\nWhen to retire a nuclear/coal power plant?\n\nShould I install rooftop solar or buy an EV?\n\nHow long should the government subsidies heatpump?\n\nWhen can offshore wind achieve grid parity?"
   },
   {
     "objectID": "lectures/lecture5.html#project-economics",
@@ -2370,14 +2482,14 @@
     "href": "lectures/lecture5.html#the-power-of-discounting",
     "title": "Lecture 5 Energy Project Economics",
     "section": "The power of discounting",
-    "text": "The power of discounting\n\n\n\n\n\n\nSource: Gang He"
+    "text": "The power of discounting\n\n\nSource: Gang He"
   },
   {
     "objectID": "lectures/lecture5.html#declining-discounting",
     "href": "lectures/lecture5.html#declining-discounting",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Declining discounting",
-    "text": "Declining discounting\n\n\n\n\n\n\nSource: (weitzman2001gamma?), (arrow_determining_2013?)"
+    "text": "Declining discounting\n\n\nSource: (weitzman2001gamma?), (arrow_determining_2013?)"
   },
   {
     "objectID": "lectures/lecture5.html#lcoe",
@@ -2391,7 +2503,7 @@
     "href": "lectures/lecture5.html#comparing-lcoe",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Comparing LCOE",
-    "text": "Comparing LCOE\n\n\n\n\n\n\nSource: Lazard LCOE 15.0"
+    "text": "Comparing LCOE\n\n\nSource: Lazard LCOE 15.0"
   },
   {
     "objectID": "lectures/lecture5.html#limitations-of-lcoe",
@@ -2405,21 +2517,21 @@
     "href": "lectures/lecture5.html#learning-curve",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Learning curve",
-    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(Pr=2^{b}\\)\n\\(Lr=1-Pr=1-2^{b}\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slope of the learning curve\nPr: Progress ratio\nLr: Learing rate\n\n\n\n\nSource: (yelle_learning_1979?)"
+    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(Pr=2^{b}\\)\n\\(Lr=1-Pr=1-2^{b}\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slope of the learning curve\nPr: Progress ratio\nLr: Learing rate\n\n\n\nSource: (yelle_learning_1979?)"
   },
   {
     "objectID": "lectures/lecture5.html#learning-of-differrent-technologies",
     "href": "lectures/lecture5.html#learning-of-differrent-technologies",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Learning of differrent technologies",
-    "text": "Learning of differrent technologies\n\n\n\n\n\n\nSource: (grubler_dynamics_1999?)"
+    "text": "Learning of differrent technologies\n\n\nSource: (grubler_dynamics_1999?)"
   },
   {
     "objectID": "lectures/lecture5.html#drivers-of-learning",
     "href": "lectures/lecture5.html#drivers-of-learning",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Drivers of learning",
-    "text": "Drivers of learning\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (kavlak_evaluating_2018?), (Klemun2023Mechanisms?)"
+    "text": "Drivers of learning\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (kavlak_evaluating_2018?), (Klemun2023Mechanisms?)"
   },
   {
     "objectID": "lectures/lecture5.html#source-of-learning",
@@ -2433,77 +2545,77 @@
     "href": "lectures/lecture5.html#how-renewables-are-getting-cheap",
     "title": "Lecture 5 Energy Project Economics",
     "section": "How renewables are getting cheap",
-    "text": "How renewables are getting cheap\n\n\n\n\n\n\nSource: Our World in Data"
+    "text": "How renewables are getting cheap\n\n\nSource: Our World in Data"
   },
   {
     "objectID": "lectures/lecture5.html#why-nuclear-costs-are-going-up",
     "href": "lectures/lecture5.html#why-nuclear-costs-are-going-up",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Why nuclear costs are going up?",
-    "text": "Why nuclear costs are going up?\n\n\n\n\n\n\nSource: (GRUBLER20105174?)"
+    "text": "Why nuclear costs are going up?\n\n\nSource: (GRUBLER20105174?)"
   },
   {
     "objectID": "lectures/lecture5.html#role-of-global-supply-chain-in-pv",
     "href": "lectures/lecture5.html#role-of-global-supply-chain-in-pv",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Role of global supply chain in PV",
-    "text": "Role of global supply chain in PV\n\n\n\n\n\n\nSource: (helveston_he_davidson_2022?)"
+    "text": "Role of global supply chain in PV\n\n\nSource: (helveston_he_davidson_2022?)"
   },
   {
     "objectID": "lectures/lecture5.html#summary",
     "href": "lectures/lecture5.html#summary",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Summary",
-    "text": "Summary\n\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations\n\n\nRead more: (grubler_dynamics_1999?)\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "Summary\n\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations\n\n\nRead more: (grubler_dynamics_1999?)"
   },
   {
-    "objectID": "lectures/lecture7.html",
-    "href": "lectures/lecture7.html",
-    "title": "Lecture 7 Energy Conversion Technologies",
+    "objectID": "lectures/lecture5.html#references",
+    "href": "lectures/lecture5.html#references",
+    "title": "Lecture 5 Energy Project Economics",
     "section": "",
-    "text": "Source: Richard Perez"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture7.html#solar",
     "href": "lectures/lecture7.html#solar",
     "title": "Lecture 7 Energy Conversion Technologies",
-    "section": "",
-    "text": "Source: Richard Perez"
+    "section": "Solar",
+    "text": "Solar\n\n\nSource: Richard Perez"
   },
   {
     "objectID": "lectures/lecture7.html#solar-spectrum",
     "href": "lectures/lecture7.html#solar-spectrum",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Solar spectrum",
-    "text": "Solar spectrum\n\n\n\n\n\n\nSolar constant: 1.361 kW/m2\n\n\nSource: Solar Spectrum"
+    "text": "Solar spectrum\n\n\nSolar constant: 1.361 kW/m2\n\n\nSource: Solar Spectrum"
   },
   {
     "objectID": "lectures/lecture7.html#harvesting-the-sun",
     "href": "lectures/lecture7.html#harvesting-the-sun",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Harvesting the sun",
-    "text": "Harvesting the sun\n\n\n\n\n\nHeqing Solar Cooker Project in Zhangye\n\n\n\n\n\n\nYoung NaDEET students in Namibia learning to use a parabolic solar cooker\n\n\n\n\n\nPhoto credit: Bristol Energy, Fu Ting; Source: Solar Cooking"
+    "text": "Harvesting the sun\n\n\n\n\n\nHeqing Solar Cooker Project in Zhangye\n\n\n\n\n\n\nYoung NaDEET students in Namibia learning to use a parabolic solar cooker\n\n\n\n\nPhoto credit: Bristol Energy, Fu Ting; Source: Solar Cooking"
   },
   {
     "objectID": "lectures/lecture7.html#silicon",
     "href": "lectures/lecture7.html#silicon",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Silicon",
-    "text": "Silicon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Atomic Structures"
+    "text": "Silicon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Atomic Structures"
   },
   {
     "objectID": "lectures/lecture7.html#p-and-n-type",
     "href": "lectures/lecture7.html#p-and-n-type",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "P and N type",
-    "text": "P and N type\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: From sunlight to electricity"
+    "text": "P and N type\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: From sunlight to electricity"
   },
   {
     "objectID": "lectures/lecture7.html#p-n-junction",
     "href": "lectures/lecture7.html#p-n-junction",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "P-N Junction",
-    "text": "P-N Junction\n\n\n\n\n\n\nRead more: https://www.energy.gov/eere/solar/how-does-solar-work"
+    "text": "P-N Junction\n\n\nRead more: https://www.energy.gov/eere/solar/how-does-solar-work"
   },
   {
     "objectID": "lectures/lecture7.html#how-solar-works",
@@ -2517,7 +2629,7 @@
     "href": "lectures/lecture7.html#solar-irradiance",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Solar irradiance",
-    "text": "Solar irradiance\n\n\n\nDirect normal irradiance (DNI)\n\nDiffuse horizontal irradiance (DHI)\nGround reflected irradiance (GRI)\n\nGlobal horizontal irradiance (GHI)\n\nPlane-of-array irradiance (POA)\n\nGHI=DNI+DHI+GRI\nPOA = GHI \\(\\times \\cos \\theta\\)\n\n\n\n\n\n\n\n\n\nSource: Manajit Sengupta, Aron Habte, NREL"
+    "text": "Solar irradiance\n\n\n\nDirect normal irradiance (DNI)\n\nDiffuse horizontal irradiance (DHI)\nGround reflected irradiance (GRI)\n\nGlobal horizontal irradiance (GHI)\n\nPlane-of-array irradiance (POA)\n\nGHI=DNI+DHI+GRI\nPOA = GHI \\(\\times \\cos \\theta\\)\n\n\n\n\n\n\n\n\nSource: Manajit Sengupta, Aron Habte, NREL"
   },
   {
     "objectID": "lectures/lecture7.html#key-corrections",
@@ -2531,63 +2643,63 @@
     "href": "lectures/lecture7.html#the-quest-for-efficiency",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "The quest for efficiency",
-    "text": "The quest for efficiency\n\n\n\n\n\n\nRead more: NREL, Best Research-Cell Efficiency Chart"
+    "text": "The quest for efficiency\n\n\nRead more: NREL, Best Research-Cell Efficiency Chart"
   },
   {
     "objectID": "lectures/lecture7.html#global-and-u.s.-distribution",
     "href": "lectures/lecture7.html#global-and-u.s.-distribution",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Global and U.S. distribution",
-    "text": "Global and U.S. distribution\n\n\n\n\n\n\nSource: Global Solar Atlas"
+    "text": "Global and U.S. distribution\n\n\nSource: Global Solar Atlas"
   },
   {
     "objectID": "lectures/lecture7.html#air-pollution-and-dust",
     "href": "lectures/lecture7.html#air-pollution-and-dust",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Air pollution and dust",
-    "text": "Air pollution and dust\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (bergin2017large?)"
+    "text": "Air pollution and dust\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (bergin2017large?)"
   },
   {
     "objectID": "lectures/lecture7.html#prioritize-solar-installation",
     "href": "lectures/lecture7.html#prioritize-solar-installation",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Prioritize solar installation",
-    "text": "Prioritize solar installation\n\n\n\n\n\n\nSource: (chen2023deploying?)"
+    "text": "Prioritize solar installation\n\n\nSource: (chen2023deploying?)"
   },
   {
     "objectID": "lectures/lecture7.html#solar-thermal-csp",
     "href": "lectures/lecture7.html#solar-thermal-csp",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Solar thermal: CSP",
-    "text": "Solar thermal: CSP\n\n\n\n\n\n\nSource: DOE"
+    "text": "Solar thermal: CSP\n\n\nSource: DOE"
   },
   {
     "objectID": "lectures/lecture7.html#wind",
     "href": "lectures/lecture7.html#wind",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Wind",
-    "text": "Wind\n\n\n\n\n\n\n\n\n\\(P=\\frac{1}{2}\\rho \\pi r^2 v^3\\)\n\nWhere,\n\\(\\rho\\) = Air Density (\\(kg/m^3\\))\n\\(A\\) = Swept Area (\\(m^2\\)) = \\(\\pi r^2\\)\n\\(v\\) = Wind Speed (m/s)\n\\(P\\) = Power (W)\n\n\n\n\nPhoto by Gang He, Block Island Offshore Wind Farm"
+    "text": "Wind\n\n\n\n\n\n\n\n\n\\(P=\\frac{1}{2}\\rho \\pi r^2 v^3\\)\n\nWhere,\n\\(\\rho\\) = Air Density (\\(kg/m^3\\))\n\\(A\\) = Swept Area (\\(m^2\\)) = \\(\\pi r^2\\)\n\\(v\\) = Wind Speed (m/s)\n\\(P\\) = Power (W)\n\n\n\nPhoto by Gang He, Block Island Offshore Wind Farm"
   },
   {
     "objectID": "lectures/lecture7.html#betzs-law-59.3",
     "href": "lectures/lecture7.html#betzs-law-59.3",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Betz’s law: 59.3%",
-    "text": "Betz’s law: 59.3%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (masters2013renewable?)"
+    "text": "Betz’s law: 59.3%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (masters2013renewable?)"
   },
   {
     "objectID": "lectures/lecture7.html#average-power",
     "href": "lectures/lecture7.html#average-power",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Average power",
-    "text": "Average power\n\n\n\n\n\n\n\n\nRayleigh (a special type of Weibull) distribution\n\\(f(v)=\\frac{2v}{c^2}\\exp [-(\\frac{v}{c})^2]\\)\n\\(\\bar{P}=\\frac{6}{\\pi}\\cdot \\frac{1}{2}\\rho \\pi r^2 (\\bar{v})^3=1.91P\\)\nUse average power when dealing with average wind speed\n\n\n\nRead more: (masters2013renewable?)"
+    "text": "Average power\n\n\n\n\n\n\n\n\nRayleigh (a special type of Weibull) distribution\n\\(f(v)=\\frac{2v}{c^2}\\exp [-(\\frac{v}{c})^2]\\)\n\\(\\bar{P}=\\frac{6}{\\pi}\\cdot \\frac{1}{2}\\rho \\pi r^2 (\\bar{v})^3=1.91P\\)\nUse average power when dealing with average wind speed\n\n\nRead more: (masters2013renewable?)"
   },
   {
     "objectID": "lectures/lecture7.html#power-curve",
     "href": "lectures/lecture7.html#power-curve",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Power curve",
-    "text": "Power curve\n\n\n\n\n\n\nRead more: NREL, Validation of Power Output for the WIND Toolkit"
+    "text": "Power curve\n\n\nRead more: NREL, Validation of Power Output for the WIND Toolkit"
   },
   {
     "objectID": "lectures/lecture7.html#important-corrections",
@@ -2608,28 +2720,28 @@
     "href": "lectures/lecture7.html#global-wind-power-density-map",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Global wind power density map",
-    "text": "Global wind power density map\n\n\n\n\n\n\nSource: Global Wind Atlas"
+    "text": "Global wind power density map\n\n\nSource: Global Wind Atlas"
   },
   {
     "objectID": "lectures/lecture7.html#higher-and-bigger",
     "href": "lectures/lecture7.html#higher-and-bigger",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Higher and bigger",
-    "text": "Higher and bigger\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Land-Based Wind Market Report 2023"
+    "text": "Higher and bigger\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Land-Based Wind Market Report 2023"
   },
   {
     "objectID": "lectures/lecture7.html#offshore-wind",
     "href": "lectures/lecture7.html#offshore-wind",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Offshore wind",
-    "text": "Offshore wind\n\n\n\n\n\n\nSource: DOE, Offshore Wind Energy"
+    "text": "Offshore wind\n\n\nSource: DOE, Offshore Wind Energy"
   },
   {
     "objectID": "lectures/lecture7.html#challenges",
     "href": "lectures/lecture7.html#challenges",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Challenges",
-    "text": "Challenges\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: DOE, Top 10 Things You Didn’t Know About Offshore Wind Energy; NREL, Supply Chain Road Map"
+    "text": "Challenges\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: DOE, Top 10 Things You Didn’t Know About Offshore Wind Energy; NREL, Supply Chain Road Map"
   },
   {
     "objectID": "lectures/lecture7.html#low-speed-wind",
@@ -2643,14 +2755,14 @@
     "href": "lectures/lecture7.html#unexpected-benefits",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Unexpected benefits",
-    "text": "Unexpected benefits\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Reddit; New York Times"
+    "text": "Unexpected benefits\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Reddit; New York Times"
   },
   {
     "objectID": "lectures/lecture7.html#climate-change-impact",
     "href": "lectures/lecture7.html#climate-change-impact",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Climate change impact",
-    "text": "Climate change impact\n\n\n\n\n\n\nSource: (liu_climate_2023?)"
+    "text": "Climate change impact\n\n\nSource: (liu_climate_2023?)"
   },
   {
     "objectID": "lectures/lecture7.html#pros-and-cons",
@@ -2664,7 +2776,7 @@
     "href": "lectures/lecture7.html#hybrid-power-systems",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Hybrid power systems",
-    "text": "Hybrid power systems\n\n\n\n\n\n\nSource: Small Wind Guidebook"
+    "text": "Hybrid power systems\n\n\nSource: Small Wind Guidebook"
   },
   {
     "objectID": "lectures/lecture7.html#thermodynamics",
@@ -2678,7 +2790,7 @@
     "href": "lectures/lecture7.html#heat-engine",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Heat engine",
-    "text": "Heat engine\n\n\n\n\n\nHeat -&gt; Mechanical energy (work)\n\nSource: Wikipedia"
+    "text": "Heat engine\n\nHeat -&gt; Mechanical energy (work)\n\nSource: Wikipedia"
   },
   {
     "objectID": "lectures/lecture7.html#laws-of-thermodynamics",
@@ -2699,21 +2811,21 @@
     "href": "lectures/lecture7.html#a-gas-turbine-engine",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "A gas turbine engine",
-    "text": "A gas turbine engine\n\n\n\n\n\n\nSource: Wikipedia"
+    "text": "A gas turbine engine\n\n\nSource: Wikipedia"
   },
   {
     "objectID": "lectures/lecture7.html#a-steam-coal-plant",
     "href": "lectures/lecture7.html#a-steam-coal-plant",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "A steam coal plant",
-    "text": "A steam coal plant\n\n\n\n\n\n\nSource: Wikipedia"
+    "text": "A steam coal plant\n\n\nSource: Wikipedia"
   },
   {
     "objectID": "lectures/lecture7.html#brayton-cycle-vs.-rankine-cycle",
     "href": "lectures/lecture7.html#brayton-cycle-vs.-rankine-cycle",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Brayton cycle vs. Rankine cycle",
-    "text": "Brayton cycle vs. Rankine cycle\n\n\n\n\n\n\n\n\nJet engine, gas turbine\n\n\n\n\n\n\n\n\nSteam engine, steam turbine\n\n\n\n\nRead more: Wikipedia Brayton cycle and Rankine cycle"
+    "text": "Brayton cycle vs. Rankine cycle\n\n\n\n\n\n\n\n\nJet engine, gas turbine\n\n\n\n\n\n\n\n\nSteam engine, steam turbine\n\n\n\nRead more: Wikipedia Brayton cycle and Rankine cycle"
   },
   {
     "objectID": "lectures/lecture7.html#brayton-cycle-vs.-rankine-cycle-1",
@@ -2727,7 +2839,7 @@
     "href": "lectures/lecture7.html#largest-coal-plant-in-the-u.s.",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Largest coal plant in the U.S.",
-    "text": "Largest coal plant in the U.S.\n\n\n\n\n\n\n\n\nGeorgia Power plant Scherer (3,720 MW)\nCan you identify the components\n\nCoal storage\n\nGenerating unit\n\nCooling stack\n\nBottom ash landfill\n\nSub-station\n\nTransimission lines\n\nWaste/pollution management\n\n\n\n\n\nSource: Google Map, read more: Nowhere to hide"
+    "text": "Largest coal plant in the U.S.\n\n\n\n\n\n\n\n\nGeorgia Power plant Scherer (3,720 MW)\nCan you identify the components\n\nCoal storage\n\nGenerating unit\n\nCooling stack\n\nBottom ash landfill\n\nSub-station\n\nTransimission lines\n\nWaste/pollution management\n\n\n\n\nSource: Google Map, read more: Nowhere to hide"
   },
   {
     "objectID": "lectures/lecture7.html#combined-cycle",
@@ -2741,7 +2853,7 @@
     "href": "lectures/lecture7.html#ccgt-diagram",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "CCGT diagram",
-    "text": "CCGT diagram\n\n\n\n\n\n\nRead more: GE Power"
+    "text": "CCGT diagram\n\n\nRead more: GE Power"
   },
   {
     "objectID": "lectures/lecture7.html#updating-an-rosenfeld-plant",
@@ -2755,56 +2867,56 @@
     "href": "lectures/lecture7.html#nuclear",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Nuclear",
-    "text": "Nuclear\n\n\n\n\n\n\n\n\nNuclear fission\n\n\n\n\n\n\n\n\n\nNuclear fussion\n\n\n\n\nRead more: EIA, Nuclear explained; DOE, Nuclear fusion reactions"
+    "text": "Nuclear\n\n\n\n\n\n\n\n\nNuclear fission\n\n\n\n\n\n\n\n\n\nNuclear fussion\n\n\n\nRead more: EIA, Nuclear explained; DOE, Nuclear fusion reactions"
   },
   {
     "objectID": "lectures/lecture7.html#nuclear-power-plants",
     "href": "lectures/lecture7.html#nuclear-power-plants",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Nuclear power plants",
-    "text": "Nuclear power plants\n\n\n\n\n\n\nRead more: EIA, Nuclear explained"
+    "text": "Nuclear power plants\n\n\nRead more: EIA, Nuclear explained"
   },
   {
     "objectID": "lectures/lecture7.html#nuclear-plant-design",
     "href": "lectures/lecture7.html#nuclear-plant-design",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Nuclear plant design",
-    "text": "Nuclear plant design\n\n\n\n\n\n\n\n\nDiagram of a boiling-water nuclear reactor\n\n\n\n\n\n\n\n\n\nDiagram of a pressurized-water nuclear reactor\n\n\n\n\nRead more: EIA, Nuclear explained"
+    "text": "Nuclear plant design\n\n\n\n\n\n\n\n\nDiagram of a boiling-water nuclear reactor\n\n\n\n\n\n\n\n\n\nDiagram of a pressurized-water nuclear reactor\n\n\n\nRead more: EIA, Nuclear explained"
   },
   {
     "objectID": "lectures/lecture7.html#nuclear-fuel-cycle",
     "href": "lectures/lecture7.html#nuclear-fuel-cycle",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Nuclear fuel cycle",
-    "text": "Nuclear fuel cycle\n\n\n\n\n\n\nRead more: EIA, Nuclear explained"
+    "text": "Nuclear fuel cycle\n\n\nRead more: EIA, Nuclear explained"
   },
   {
     "objectID": "lectures/lecture7.html#social-technology-challenges",
     "href": "lectures/lecture7.html#social-technology-challenges",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Social > technology challenges",
-    "text": "Social &gt; technology challenges\n\n\n\n\n\n\n\n\n\nPublic engagement\n\nLower capital costs\n\nSocial and decision sciences\n\nScience and technology study\n\nNuclear waste siting\n\nBest practices\n\n\n\n\nPhoto credit: Gang He; Read more: National Academies"
+    "text": "Social &gt; technology challenges\n\n\n\n\n\n\n\n\n\nPublic engagement\n\nLower capital costs\n\nSocial and decision sciences\n\nScience and technology study\n\nNuclear waste siting\n\nBest practices\n\n\n\nPhoto credit: Gang He; Read more: National Academies"
   },
   {
     "objectID": "lectures/lecture7.html#next-generation-of-nuclear-technology",
     "href": "lectures/lecture7.html#next-generation-of-nuclear-technology",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Next generation of nuclear technology",
-    "text": "Next generation of nuclear technology\n\n\n\n\n\n\n\n\n\nModality\n\nLower capital costs\n\nSiting flexibility\n\nHigher efficiency\n\nSafe and security\n\nIndustry and manufacture\n\nEconomic\n\n\n\n\nRead more: DOE, Benefits of Small Modular Reactors, TerraPower"
+    "text": "Next generation of nuclear technology\n\n\n\n\n\n\n\n\n\nModality\n\nLower capital costs\n\nSiting flexibility\n\nHigher efficiency\n\nSafe and security\n\nIndustry and manufacture\n\nEconomic\n\n\n\nRead more: DOE, Benefits of Small Modular Reactors, TerraPower"
   },
   {
     "objectID": "lectures/lecture7.html#livermore-fusion-breakthrough",
     "href": "lectures/lecture7.html#livermore-fusion-breakthrough",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Livermore Fusion breakthrough",
-    "text": "Livermore Fusion breakthrough\n\n\n\n\n\n\nRead more: LLNL"
+    "text": "Livermore Fusion breakthrough\n\n\nRead more: LLNL"
   },
   {
     "objectID": "lectures/lecture7.html#hydro",
     "href": "lectures/lecture7.html#hydro",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Hydro",
-    "text": "Hydro\n\n\n\n\n\n\n\n\nHydropower\n\n\n\n\n\n\n\n\nPumped storage hydropower (PSH)\n\n\n\n\n\n\\(E=\\rho mg(h_2-h_1)\\)\n\n\nSource: TVA"
+    "text": "Hydro\n\n\n\n\n\n\n\n\nHydropower\n\n\n\n\n\n\n\n\nPumped storage hydropower (PSH)\n\n\n\n\n\\(E=\\rho mg(h_2-h_1)\\)\n\n\nSource: TVA"
   },
   {
     "objectID": "lectures/lecture7.html#how-a-lithium-ion-battery-works",
@@ -2818,49 +2930,49 @@
     "href": "lectures/lecture7.html#battery-management-system",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Battery management system",
-    "text": "Battery management system\n\n\n\n\n\n\n\n\n\nRated power capacity\n\nEnergy capacity\n\nStorage duration\n\nCycle life/lifetime\n\nSelf-discharge\n\nState of charge\n\nRound-trip efficiency\n\n\n\n\nRead more: NREL, Grid-scale battery storage"
+    "text": "Battery management system\n\n\n\n\n\n\n\n\n\nRated power capacity\n\nEnergy capacity\n\nStorage duration\n\nCycle life/lifetime\n\nSelf-discharge\n\nState of charge\n\nRound-trip efficiency\n\n\n\nRead more: NREL, Grid-scale battery storage"
   },
   {
     "objectID": "lectures/lecture7.html#long-duration-storage",
     "href": "lectures/lecture7.html#long-duration-storage",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Long duration storage",
-    "text": "Long duration storage\n\n\n\n\n\n\nSource: (dowling_role_2020?)"
+    "text": "Long duration storage\n\n\nSource: (dowling_role_2020?)"
   },
   {
     "objectID": "lectures/lecture7.html#summary",
     "href": "lectures/lecture7.html#summary",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Summary",
-    "text": "Summary\n\nTheory - learn and understand the physics of energy technologies:\n\nthermaldynamics (fossil)\n\nkinematics (wind)\n\nlight and semiconductor (solar)\n\ngravity (hydro, tidal)\n\natomic (nuclear)\n\n\nPractice - learn all kinds of corrections based on real-world situation\n\nThe physics doesn’t change, corrections help us to do better jobs in simulation and projections\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "Summary\n\nTheory - learn and understand the physics of energy technologies:\n\nthermaldynamics (fossil)\n\nkinematics (wind)\n\nlight and semiconductor (solar)\n\ngravity (hydro, tidal)\n\natomic (nuclear)\n\n\nPractice - learn all kinds of corrections based on real-world situation\n\nThe physics doesn’t change, corrections help us to do better jobs in simulation and projections"
   },
   {
-    "objectID": "lectures/lecture9.html",
-    "href": "lectures/lecture9.html",
-    "title": "Lecture 9 Energy access, justice, and transition",
+    "objectID": "lectures/lecture7.html#references",
+    "href": "lectures/lecture7.html#references",
+    "title": "Lecture 7 Energy Conversion Technologies",
     "section": "",
-    "text": "The barriers and policies to facilitate energy access?\n\nWhat is Justice40? And what investments are included?\n\nWhat are the typical energy injustice and how to address them?\n\nWhat are the drivers of energy transition?\n\nHow should each country think/design/implement its energy transition?\n\nHow to frame the role of different technologies in energy transition?\n\nHow geo-politics, wars, and pandemic impact the energy in transiton?"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "lectures/lecture9.html#sample-analytic-questions",
     "href": "lectures/lecture9.html#sample-analytic-questions",
     "title": "Lecture 9 Energy access, justice, and transition",
-    "section": "",
-    "text": "The barriers and policies to facilitate energy access?\n\nWhat is Justice40? And what investments are included?\n\nWhat are the typical energy injustice and how to address them?\n\nWhat are the drivers of energy transition?\n\nHow should each country think/design/implement its energy transition?\n\nHow to frame the role of different technologies in energy transition?\n\nHow geo-politics, wars, and pandemic impact the energy in transiton?"
+    "section": "Sample analytic questions",
+    "text": "Sample analytic questions\n\nThe barriers and policies to facilitate energy access?\n\nWhat is Justice40? And what investments are included?\n\nWhat are the typical energy injustice and how to address them?\n\nWhat are the drivers of energy transition?\n\nHow should each country think/design/implement its energy transition?\n\nHow to frame the role of different technologies in energy transition?\n\nHow geo-politics, wars, and pandemic impact the energy in transiton?"
   },
   {
     "objectID": "lectures/lecture9.html#energy-poverty-and-sdg",
     "href": "lectures/lecture9.html#energy-poverty-and-sdg",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Energy poverty and SDG",
-    "text": "Energy poverty and SDG\n\n\n\n\n\n\nRead more: (alstone2015decentralized?)"
+    "text": "Energy poverty and SDG\n\n\nRead more: (alstone2015decentralized?)"
   },
   {
     "objectID": "lectures/lecture9.html#energy-access-and-hdi",
     "href": "lectures/lecture9.html#energy-access-and-hdi",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Energy access and HDI",
-    "text": "Energy access and HDI\n\n\n\n\n\n\nRead more: (alstone2015decentralized?)"
+    "text": "Energy access and HDI\n\n\nRead more: (alstone2015decentralized?)"
   },
   {
     "objectID": "lectures/lecture9.html#energy-poverty-and-gender-equity",
@@ -2874,35 +2986,35 @@
     "href": "lectures/lecture9.html#energy-ladder",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Energy ladder",
-    "text": "Energy ladder\n\n\n\n\n\n\nRead more: Our World in Data"
+    "text": "Energy ladder\n\n\nRead more: Our World in Data"
   },
   {
     "objectID": "lectures/lecture9.html#sustainable-energy-for-all",
     "href": "lectures/lecture9.html#sustainable-energy-for-all",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Sustainable energy for all",
-    "text": "Sustainable energy for all\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2022, 2023, 2024"
+    "text": "Sustainable energy for all\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2022, 2023, 2024"
   },
   {
     "objectID": "lectures/lecture9.html#progress-on-universal-access-to-electricity",
     "href": "lectures/lecture9.html#progress-on-universal-access-to-electricity",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Progress on universal access to electricity",
-    "text": "Progress on universal access to electricity\n\n\n\n\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2024"
+    "text": "Progress on universal access to electricity\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2024"
   },
   {
     "objectID": "lectures/lecture9.html#share-of-population-with-clean-cooking-fuel",
     "href": "lectures/lecture9.html#share-of-population-with-clean-cooking-fuel",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Share of population with clean cooking fuel",
-    "text": "Share of population with clean cooking fuel\n\n\n\n\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2024"
+    "text": "Share of population with clean cooking fuel\n\n\nRead more: Tracking SDG7 The Energy Progress Report 2024"
   },
   {
     "objectID": "lectures/lecture9.html#chinas-electricity-for-all",
     "href": "lectures/lecture9.html#chinas-electricity-for-all",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "China’s electricity for all",
-    "text": "China’s electricity for all\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (He2017efa?)"
+    "text": "China’s electricity for all\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (He2017efa?)"
   },
   {
     "objectID": "lectures/lecture9.html#energy-justice",
@@ -2916,35 +3028,35 @@
     "href": "lectures/lecture9.html#ej-conceptual-questions",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "EJ conceptual questions",
-    "text": "EJ conceptual questions\n\n\n\n\n\n\nSource: (jenkins2016energy?)"
+    "text": "EJ conceptual questions\n\n\nSource: (jenkins2016energy?)"
   },
   {
     "objectID": "lectures/lecture9.html#rooftop-solar-by-race-and-ethnicity",
     "href": "lectures/lecture9.html#rooftop-solar-by-race-and-ethnicity",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Rooftop solar by race and ethnicity",
-    "text": "Rooftop solar by race and ethnicity\n\n\n\n\n\n\nSource: (sunter2019disparities?)"
+    "text": "Rooftop solar by race and ethnicity\n\n\nSource: (sunter2019disparities?)"
   },
   {
     "objectID": "lectures/lecture9.html#the-energy-equity-gap",
     "href": "lectures/lecture9.html#the-energy-equity-gap",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "The energy equity gap",
-    "text": "The energy equity gap\n\n\n\n\n\n\nSource: (cong2022unveiling?)"
+    "text": "The energy equity gap\n\n\nSource: (cong2022unveiling?)"
   },
   {
     "objectID": "lectures/lecture9.html#justice-40",
     "href": "lectures/lecture9.html#justice-40",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Justice 40",
-    "text": "Justice 40\n\n\n\n\n\n\nSource: White House"
+    "text": "Justice 40\n\n\nSource: White House"
   },
   {
     "objectID": "lectures/lecture9.html#just-transition-framework",
     "href": "lectures/lecture9.html#just-transition-framework",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Just transition framework",
-    "text": "Just transition framework\n\n\n\n\n\n\nSource: Climate Justice Alliance"
+    "text": "Just transition framework\n\n\nSource: Climate Justice Alliance"
   },
   {
     "objectID": "lectures/lecture9.html#energy-environmental-climate-justice",
@@ -2958,35 +3070,35 @@
     "href": "lectures/lecture9.html#nys-clcpa-disadvantaged-communities-dacs",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "NYS CLCPA disadvantaged communities (DACs)",
-    "text": "NYS CLCPA disadvantaged communities (DACs)\n\n\n\n\n\n\nRead more: Draft Disadvantaged Communities Criteria"
+    "text": "NYS CLCPA disadvantaged communities (DACs)\n\n\nRead more: Draft Disadvantaged Communities Criteria"
   },
   {
     "objectID": "lectures/lecture9.html#how-has-energy-use-changed-in-the-u.s.",
     "href": "lectures/lecture9.html#how-has-energy-use-changed-in-the-u.s.",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "How has energy use changed in the U.S.",
-    "text": "How has energy use changed in the U.S.\n\n\n\n\n\n\nSource: EIA"
+    "text": "How has energy use changed in the U.S.\n\n\nSource: EIA"
   },
   {
     "objectID": "lectures/lecture9.html#re-coal-a-milestone",
     "href": "lectures/lecture9.html#re-coal-a-milestone",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "RE > coal: a milestone",
-    "text": "RE &gt; coal: a milestone\n\n\n\n\n\n\nSource: EIA"
+    "text": "RE &gt; coal: a milestone\n\n\nSource: EIA"
   },
   {
     "objectID": "lectures/lecture9.html#u.s.-power-sector-half-way-to-zero",
     "href": "lectures/lecture9.html#u.s.-power-sector-half-way-to-zero",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "U.S. power-sector half-way to zero",
-    "text": "U.S. power-sector half-way to zero\n\n\n\n\n\n\nSource: LBL"
+    "text": "U.S. power-sector half-way to zero\n\n\nSource: LBL"
   },
   {
     "objectID": "lectures/lecture9.html#soft-path-vs.-hard-path",
     "href": "lectures/lecture9.html#soft-path-vs.-hard-path",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Soft path vs. hard path",
-    "text": "Soft path vs. hard path\n\n\n\n\n\n\n\nCentral, large scale, incresing supply/demand\nFossil, nuclear\n\nFlexible, resilient, sustainable, and benign\nRenewable energy, energy efficiency, matching in scale and quality to the end use need\n\n\n\nSource: (lovins_energy_1976?)"
+    "text": "Soft path vs. hard path\n\n\n\nCentral, large scale, incresing supply/demand\nFossil, nuclear\n\nFlexible, resilient, sustainable, and benign\nRenewable energy, energy efficiency, matching in scale and quality to the end use need\n\n\nSource: (lovins_energy_1976?)"
   },
   {
     "objectID": "lectures/lecture9.html#drivers-of-energy-transition",
@@ -3000,14 +3112,14 @@
     "href": "lectures/lecture9.html#reneables-a-debate",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "100% reneables: a debate",
-    "text": "100% reneables: a debate\n\n\n100% renewables (wind, water, solar) for all purposes?\n\nResources, technology, economic ready\n\nHuge benefits\n\n\n100% renewable not viable/necesssary?\n\nModeling errors\n\nImplausible assumptions\n\nNeed better modeling\n\nEnergy transition is difficult, broad technology portfolio is needed\n\n\n\nSource: (jacobson_low-cost_2015?), (clack_evaluation_2017?)"
+    "text": "100% reneables: a debate\n\n\n100% renewables (wind, water, solar) for all purposes?\n\nResources, technology, economic ready\n\nHuge benefits\n\n\n100% renewable not viable/necesssary?\n\nModeling errors\n\nImplausible assumptions\n\nNeed better modeling\n\nEnergy transition is difficult, broad technology portfolio is needed\n\n\nSource: (jacobson_low-cost_2015?), (clack_evaluation_2017?)"
   },
   {
     "objectID": "lectures/lecture9.html#changing-perspectives-of-renewables",
     "href": "lectures/lecture9.html#changing-perspectives-of-renewables",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Changing perspectives of renewables",
-    "text": "Changing perspectives of renewables\n\n\n\n\n\n\nSource: IPCC"
+    "text": "Changing perspectives of renewables\n\n\nSource: IPCC"
   },
   {
     "objectID": "lectures/lecture9.html#energy-transition-the-german-energiewende",
@@ -3021,98 +3133,105 @@
     "href": "lectures/lecture9.html#germany-end-of-nuclear",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Germany: end of nuclear",
-    "text": "Germany: end of nuclear\n\n\n\n\n\nThe last three nuclear power plants in Germany were shut down on April 15, 2023\n\nSource: World Nuclear Association"
+    "text": "Germany: end of nuclear\n\nThe last three nuclear power plants in Germany were shut down on April 15, 2023\n\nSource: World Nuclear Association"
   },
   {
     "objectID": "lectures/lecture9.html#uk-end-of-coal",
     "href": "lectures/lecture9.html#uk-end-of-coal",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "UK: end of coal",
-    "text": "UK: end of coal\n\n\n\n\n\nThe last coal power plants in UK, Ratcliffe-on-Soar in Nottinghamshire, were shut down on September 30, 2024\n\nSource: Carbon Brief"
+    "text": "UK: end of coal\n\nThe last coal power plants in UK, Ratcliffe-on-Soar in Nottinghamshire, were shut down on September 30, 2024\n\nSource: Carbon Brief"
   },
   {
     "objectID": "lectures/lecture9.html#the-u.s.-net-zero-america",
     "href": "lectures/lecture9.html#the-u.s.-net-zero-america",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "The U.S.: net zero America",
-    "text": "The U.S.: net zero America\n\n\n\n\n\n\nSource: ZERO Lab"
+    "text": "The U.S.: net zero America\n\n\nSource: ZERO Lab"
   },
   {
     "objectID": "lectures/lecture9.html#u.s.-ndc-ira-and-beyond",
     "href": "lectures/lecture9.html#u.s.-ndc-ira-and-beyond",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "U.S.: NDC, IRA, and beyond",
-    "text": "U.S.: NDC, IRA, and beyond\n\n\n\n\n\n\nSource: United States of America. Biennial Reports (BR). BR5. Additional information"
+    "text": "U.S.: NDC, IRA, and beyond\n\n\nSource: United States of America. Biennial Reports (BR). BR5. Additional information"
   },
   {
     "objectID": "lectures/lecture9.html#denmark-power-to-x",
     "href": "lectures/lecture9.html#denmark-power-to-x",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Denmark: power to X",
-    "text": "Denmark: power to X\n\n\n\n\n\n\nSource: Power-to-X strategy"
+    "text": "Denmark: power to X\n\n\nSource: Power-to-X strategy"
   },
   {
     "objectID": "lectures/lecture9.html#china-the-scale-and-scope",
     "href": "lectures/lecture9.html#china-the-scale-and-scope",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "China: the scale and scope",
-    "text": "China: the scale and scope\n\n\n\n\n\n\nSource: The Economist"
+    "text": "China: the scale and scope\n\n\nSource: The Economist"
   },
   {
     "objectID": "lectures/lecture9.html#china-renewable-expansion",
     "href": "lectures/lecture9.html#china-renewable-expansion",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "China: renewable expansion",
-    "text": "China: renewable expansion\n\n\n\n\n\n\nSource: Global Energy Monitor"
+    "text": "China: renewable expansion\n\n\nSource: Global Energy Monitor"
   },
   {
     "objectID": "lectures/lecture9.html#china-phasing-out-coal",
     "href": "lectures/lecture9.html#china-phasing-out-coal",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "China: phasing out coal",
-    "text": "China: phasing out coal\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhasing out coal yields huge (water savings, avoided pre-matual death, and health) co-benefits, however, need to address employment impact and welfare redistribution\n\n\n\nSource: (cui2021plant?), (he2020enabling?)"
+    "text": "China: phasing out coal\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhasing out coal yields huge (water savings, avoided pre-matual death, and health) co-benefits, however, need to address employment impact and welfare redistribution\n\n\nSource: (cui2021plant?), (he2020enabling?)"
   },
   {
     "objectID": "lectures/lecture9.html#china-fewer-than-15-of-coal-power-workers-transition-to-green-jobs",
     "href": "lectures/lecture9.html#china-fewer-than-15-of-coal-power-workers-transition-to-green-jobs",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "China: Fewer than 15% of coal power workers transition to green jobs",
-    "text": "China: Fewer than 15% of coal power workers transition to green jobs\n\n\n\n\n\n\n\nA coal power worker needs to travel 194 (178–242) km on average to access a green job.\n\nOnly 11%–14% of existing coal power workers will transition to green jobs by 2060.\n\n\n\nSource: (wuFewer15Coal2024?)"
+    "text": "China: Fewer than 15% of coal power workers transition to green jobs\n\n\n\nA coal power worker needs to travel 194 (178–242) km on average to access a green job.\n\nOnly 11%–14% of existing coal power workers will transition to green jobs by 2060.\n\n\n\nSource: (wuFewer15Coal2024?)"
   },
   {
     "objectID": "lectures/lecture9.html#bazil-role-of-hydro-and-biofuel",
     "href": "lectures/lecture9.html#bazil-role-of-hydro-and-biofuel",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Bazil: role of hydro and biofuel",
-    "text": "Bazil: role of hydro and biofuel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: EIA"
+    "text": "Bazil: role of hydro and biofuel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: EIA"
   },
   {
     "objectID": "lectures/lecture9.html#africa-the-fogotten-billion",
     "href": "lectures/lecture9.html#africa-the-fogotten-billion",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Africa: the fogotten billion",
-    "text": "Africa: the fogotten billion\n\n\n\n\n\n\nSource: (mulugetta2022africa?)"
+    "text": "Africa: the fogotten billion\n\n\nSource: (mulugetta2022africa?)"
   },
   {
     "objectID": "lectures/lecture9.html#ukraine-crisis-an-accerlerator",
     "href": "lectures/lecture9.html#ukraine-crisis-an-accerlerator",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Ukraine crisis: an accerlerator?",
-    "text": "Ukraine crisis: an accerlerator?\n\n\n\n\n\n\nSource: IEA, World Energy Outlook 2022"
+    "text": "Ukraine crisis: an accerlerator?\n\n\nSource: IEA, World Energy Outlook 2022"
   },
   {
     "objectID": "lectures/lecture9.html#impact-to-emissions",
     "href": "lectures/lecture9.html#impact-to-emissions",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Impact to emissions",
-    "text": "Impact to emissions\n\n\n\n\n\n\nSource: IEA, World Energy Outlook 2022"
+    "text": "Impact to emissions\n\n\nSource: IEA, World Energy Outlook 2022"
   },
   {
     "objectID": "lectures/lecture9.html#summary",
     "href": "lectures/lecture9.html#summary",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Summary",
-    "text": "Summary\n\nElectricity/energy access is fundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approaches to energy justice\n\nDiverse factors that drive energy transition\n\nCommon and differentiated solutions to energy\n\nLeverage the advantages\n\nAddressing uncertainties: geopolitics, wars, pandemic, and more\n\n\n\nReferences\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "Summary\n\nElectricity/energy access is fundamental to other modern services: education, health, and information\n\nEnergy access also has gender equity, health cobenefits, and other implications\n\nEnergy justice is important to achieve just transition\n\nAn reflection on our approaches to energy justice\n\nDiverse factors that drive energy transition\n\nCommon and differentiated solutions to energy\n\nLeverage the advantages\n\nAddressing uncertainties: geopolitics, wars, pandemic, and more"
+  },
+  {
+    "objectID": "lectures/lecture9.html#references",
+    "href": "lectures/lecture9.html#references",
+    "title": "Lecture 9 Energy access, justice, and transition",
+    "section": "",
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "project/hw4.html",
@@ -3218,145 +3337,5 @@
     "title": "Analyzing Market Forces in Colorado Retail Milk",
     "section": "COVER PAGE TEMPLATE",
     "text": "COVER PAGE TEMPLATE\nCousins Supermarket Data Analytics Project: Final Submission\nTeam Name: [Insert Team Name]\nProject Title: Market Data Analysis and Strategic Recommendations for Cousins Supermarket\nDate of Submission: [Insert Date]\nInstructor: Dr. Chenarides\nCourse: [Insert Course Name]\nTeam Members:\n\n[Insert Full Name]\n[Insert Full Name]\n[Insert Full Name]\n[Insert Full Name]\n\nSummary of Project:\nThis project analyzes the retail milk market in Colorado for Cousins Supermarket from June 2014 to February 2019, using sales data to assess market trends, pricing strategies, competition, and the potential for mergers.\nContents:\nEmail 1: Market Analysis and Predictions  Email 2: Data Visualization  Email 3: Market Structure Analysis  Email 4: Price Analysis  Email 5: Margin Analysis  Email 6: Merger Analysis"
-  },
-  {
-    "objectID": "2025/multi_sector_model.html",
-    "href": "2025/multi_sector_model.html",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "",
-    "text": "The basic supply & demand model focuses on one sector of the marketing channel:\n\nCould be the farm level (price & quantity of raw inputs like barley).\nCould be the retail level (price & quantity of final goods like beer).\n\nBut food systems have multiple linked sectors.\n\nWhat happens at the farm affects processors and consumers.\nWhat happens at retail feeds back to processors and farmers.\n\nTo capture these linkages, we need a multi-sector model.\n\n\n\nInputs (Farm Level): barley, hops, yeast, water.\n\nProcessor (Brewers): brewers transform inputs into beer.\n\nOutput (Retail): beer sold to consumers (ignoring wholesalers/retailers).\n\nThere is both:\n- A supply & demand for beer (retail).\n- A supply & demand for barley (farm).\nBut how do we connect them?\n\n\n\nWe need two simplifying assumptions to tie the beer and barley markets together.\n\nThese assumptions let us draw one diagram showing both markets.\nWithout them, the analysis gets messy (technology choice, variable costs, substitution across inputs, etc.).\n\n\n\n\n\nEach gallon of beer requires a fixed amount of barley.\nBrewers can’t substitute away from barley if its price rises.\nThis lets us say:\n\n\\[\nQ^F = \\alpha Q^R\n\\] Where: - \\(Q^F\\): farm output (bushels of barley)\n- \\(Q^R\\): retail output (gallons of beer)\n- \\(alpha\\): conversion factor (e.g., 1.5 lbs barley per gallon beer)\nIf we know retail output, we know farm output exactly.\n\n\n\n\nThe cost of processing barley into beers is constant (fixed) per unit.\nDenote this as \\(MB\\) (per-unit marketing bill).\nRetail price is then just:\n\n\\[\nP^{Beer} = P^{Barley} + MB\n\\]\nThis assumption creates a fixed wedge between the farm price and the retail price.\n\n\n\nBrewers only demand barley because they can sell beer.\nThus the derived demand for barley is just the consumer demand for beer, shifted down by \\(MB\\).\nNumerical Example:\n\nConsumers will pay $1.00 for a gallon of beer.\nMarketing bill = $0.30.\nMax brewers will pay for barley = $1.00 − $0.30 = $0.70.\n\n\n\n\n\n\nEquilibrium in the barley market occurs where supply of barley meets derived demand for barley.\n\nAt this quantity, the consumer price of beer equals the farm price of barley plus the marketing bill.\n\n\n\n\n\n\n\nDerived demand shifts down.\nBarley price falls.\nBeer price rises.\nQuantities fall.\n\n\n\n\n\n\nBoth beer demand and derived demand for barley shift out.\nPrices and quantities rise in both markets.\n\n\n\n\n\n\nNew regulations raise \\(MB\\). Who bears the cost?\n\nIf demand more elastic than supply → farm price falls more.\nIf supply more elastic than demand → retail price rises more.\nGeneral rule: the side with less elasticity bears more of the burden."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#elasticities-and-forecasting",
-    "href": "2025/multi_sector_model.html#elasticities-and-forecasting",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "",
-    "text": "Elasticities are useful tools in applied economics. They tell us:\n\nwhether a tax on a specific good will raise large or small revenues,\n\nwhich goods are the greatest competitors, and\n\nhow prices and quantities may change in response to shocks.\n\nFor example:\n\nHow does the supply of pork decreases due to tougher regulations on manure treatment and disposal?\n\nHow much will the demand for pork increase due to an increase in the price of beef?\n\nWe do not need to know the exact supply and demand curves. Estimates of elasticities are usually sufficient.\nBy incorporating elasticities into an equilibrium displacement model (EDM), we can calculate price and quantity changes resulting from outside shocks."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#endogenous-and-exogenous-variables",
-    "href": "2025/multi_sector_model.html#endogenous-and-exogenous-variables",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "Endogenous and Exogenous Variables",
-    "text": "Endogenous and Exogenous Variables\nEquilibrium displacement models are used to assess how endogenous variables respond to changes in exogenous variables.\nIn an EDM, all variables are grouped as either endogenous or exogenous.\n\nEndogenous variables: Determined within the model (price and quantity).\n\nExogenous variables: Determined outside the model and taken as given.\n\nExamples: input prices, technology, consumer income, population, tastes, and prices of related goods.\n\n\nShocks to exogenous variables shift supply and/or demand curves. The market then finds a new equilibrium where supply equals demand."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#formalizing-the-model",
-    "href": "2025/multi_sector_model.html#formalizing-the-model",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "Formalizing the Model",
-    "text": "Formalizing the Model\n\nDemand Curve\n\nStep 1. Start with the elasticity definition\nFor demand, the own-price elasticity is defined as:\n\\[\nE_D = \\frac{\\% \\Delta Q_D}{\\% \\Delta P}\n\\]\nThis formula says: “a 1% change in price leads to \\(E_D\\) percent change in quantity demanded.”\nRemember that \\(E_D\\) is typically negative because price and quantity demanded move in opposite directions.\n\n\nStep 2. Rearrange to express quantity changes\nMultiply both sides by \\(\\% \\Delta P\\) to solve for the percent change in quantity demanded:\n\\[\n\\% \\Delta Q_D = E_D \\cdot (\\% \\Delta P)\n\\]\nThis equation tells us how much quantity demanded changes in response to a given price change, holding everything else constant.\n\n\nStep 3. Add in demand shocks\nMarkets can also shift for reasons other than price (income, tastes, population, etc.).\nWe capture these exogenous demand shifts with a new term, \\(S_D\\):\n\\[\n\\% \\Delta Q_D = E_D (\\% \\Delta P) + S_D\n\\]\n\n\\(\\% \\Delta Q_D\\): percent change in quantity demanded\n\n\\(\\% \\Delta P\\): percent change in price\n\n\\(E_D\\): own-price elasticity of demand (negative)\n\n\\(S_D\\): demand shock (e.g., if incomes rise and demand increases by 7%, then \\(S_D = 7\\))\n\nTakeaway: This step-by-step process shows how we move from the basic elasticity definition to an equation that includes both price effects and shifts in demand.\n\n\n\nSupply Curve\n\nStep 1. Start with the elasticity definition\nFor supply, the own-price elasticity is defined as:\n\\[\nE_S = \\frac{\\% \\Delta Q_S}{\\% \\Delta P}\n\\]\nThis formula says: “a 1% change in price leads to \\(E_S\\) percent change in quantity supplied.”\nUnlike demand, \\(E_S\\) is typically positive because price and quantity supplied move in the same direction.\n\n\nStep 2. Rearrange to express quantity changes\nMultiply both sides by \\(\\% \\Delta P\\) to solve for the percent change in quantity supplied:\n\\[\n\\% \\Delta Q_S = E_S \\cdot (\\% \\Delta P)\n\\]\nThis equation captures how much quantity supplied changes in response to a price change, holding everything else constant.\n\n\nStep 3. Add in supply shocks\nSupply can also shift due to exogenous factors (e.g., technology, input costs, regulations).\nWe capture these exogenous supply shifts with a new term, \\(S_S\\):\n\\[\n\\% \\Delta Q_S = E_S (\\% \\Delta P) + S_S\n\\]\n\n\\(\\% \\Delta Q_S\\): percent change in quantity supplied\n\n\\(\\% \\Delta P\\): percent change in price\n\n\\(E_S\\): own-price elasticity of supply (positive)\n\n\\(S_S\\): supply shock (e.g., if new technology lowers costs and supply increases 5%, then \\(S_S = 5\\))"
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#solving-for-the-equilibrium-price",
-    "href": "2025/multi_sector_model.html#solving-for-the-equilibrium-price",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "Solving for the Equilibrium Price",
-    "text": "Solving for the Equilibrium Price\nNow we combine supply and demand.\n\nIn equilibrium, quantity supplied equals quantity demanded:\n\\[\n\\% \\Delta Q_S = \\% \\Delta Q_D\n\\]\nSubstitute in the supply and demand equations:\n\\[\nE_S(\\% \\Delta P) + S_S = E_D(\\% \\Delta P) + S_D\n\\]\nRearrange terms:\n\\[\n(E_S - E_D)(\\% \\Delta P) = S_D - S_S\n\\]\nSolve for the endogenous variable, price:\n\\[\n\\% \\Delta P = \\frac{S_D - S_S}{E_S - E_D}\n\\]"
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#intuition",
-    "href": "2025/multi_sector_model.html#intuition",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "Intuition",
-    "text": "Intuition\n\nThe denominator \\((E_S - E_D)\\) is positive since \\(E_S &gt; 0\\) and \\(E_D &lt; 0\\).\n\nIf \\(S_D &gt; 0\\) (a positive demand shock, e.g., higher incomes) and \\(S_S = 0\\), then \\(\\% \\Delta P &gt; 0\\) → price rises.\n\nIf \\(S_S &gt; 0\\) (a positive supply shock, e.g., lower production costs) and \\(S_D = 0\\), then \\(\\% \\Delta P &lt; 0\\) → price falls.\n\nTakeaway: With both curves expressed in elasticity form, we can solve for how price responds to shocks. Once \\(\\% \\Delta P\\) is known, we substitute back into either curve to find the equilibrium change in quantity."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#solving-for-the-equilibrium-quantity",
-    "href": "2025/multi_sector_model.html#solving-for-the-equilibrium-quantity",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "Solving for the Equilibrium Quantity",
-    "text": "Solving for the Equilibrium Quantity\nOnce we know the equilibrium price change \\(\\% \\Delta P\\), we can solve for the change in quantity.\n\nSubstitute \\(\\% \\Delta P\\) into the supply curve\n\nRecall the supply curve:\n\\[\n\\% \\Delta Q_S = E_S (\\% \\Delta P) + S_S\n\\]\nPlug in the solved value for \\(\\% \\Delta P\\):\n\\[\n\\% \\Delta Q_S = E_S \\left( \\frac{S_D - S_S}{E_S - E_D} \\right) + S_S\n\\]\n\nOr substitute into the demand curve\n\nRecall the demand curve:\n\\[\n\\% \\Delta Q_D = E_D (\\% \\Delta P) + S_D\n\\]\nSubstitute the same \\(\\% \\Delta P\\):\n\\[\n\\% \\Delta Q_D = E_D \\left( \\frac{S_D - S_S}{E_S - E_D} \\right) + S_D\n\\]\n\nConfirm consistency\n\nIn equilibrium, both give the same answer:\n\\[\n\\% \\Delta Q_S = \\% \\Delta Q_D = \\% \\Delta Q\n\\]\nIf they don’t match, a calculation error has been made."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#intuition-1",
-    "href": "2025/multi_sector_model.html#intuition-1",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "Intuition",
-    "text": "Intuition\n\nA positive demand shock (\\(S_D &gt; 0\\)) raises price and increases equilibrium quantity.\n\nA positive supply shock (\\(S_S &gt; 0\\)) lowers price but still increases equilibrium quantity.\n\nThe exact size of the change depends on how responsive supply and demand are (their elasticities).\n\nTakeaway: First solve for \\(\\% \\Delta P\\) using equilibrium, then plug it into either curve to get \\(\\% \\Delta Q\\). Both equations must agree at the new equilibrium."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#quick-recap",
-    "href": "2025/multi_sector_model.html#quick-recap",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "Quick Recap",
-    "text": "Quick Recap\nOnce \\(\\% \\Delta P\\) is found, substitute back into either curve:\n\nSupply:\n\\[\n\\% \\Delta Q_S = E_S(\\% \\Delta P) + S_S\n\\]\nDemand:\n\\[\n\\% \\Delta Q_D = E_D(\\% \\Delta P) + S_D\n\\]\n\nBoth give the same \\(\\% \\Delta Q\\) in equilibrium."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#general-steps-for-an-edm",
-    "href": "2025/multi_sector_model.html#general-steps-for-an-edm",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "General Steps for an EDM",
-    "text": "General Steps for an EDM\n\nIdentify shocks: Determine \\(S_S\\) and \\(S_D\\). At least one must be nonzero.\n\nSpecify supply curve:\n\\[\n\\% \\Delta Q_S = E_S (\\% \\Delta P) + S_S\n\\]\nSpecify demand curve:\n\\[\n\\% \\Delta Q_D = E_D (\\% \\Delta P) + S_D\n\\]\nSolve for price: Set \\(\\% \\Delta Q_S = \\% \\Delta Q_D\\) and solve for \\(\\% \\Delta P\\).\n\nSolve for quantity: Substitute \\(\\% \\Delta P\\) into either equation to calculate \\(\\% \\Delta Q\\)."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#example-impacts-of-manure-regulations-in-the-pork-market",
-    "href": "2025/multi_sector_model.html#example-impacts-of-manure-regulations-in-the-pork-market",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "Example: Impacts of Manure Regulations in the Pork Market",
-    "text": "Example: Impacts of Manure Regulations in the Pork Market\nPork producers are facing tougher regulations on how they manage and treat hog manure. These regulations raise production costs, which shifts the supply curve leftward, raising price and lowering quantity. We quantify these changes using elasticities and an equilibrium displacement model (EDM).\n\n\n\n\n\n\nNote\n\n\n\nThis example uses long-run elasticities (\\(E_S = 2.15\\), \\(E_D = -1.96\\)).\nTo examine the short-run impacts, simply replace these with short-run elasticities.\n\n\n\nStep 1. Express the cost increase as a percent of the current price\nSuppose the current hog price is $50/cwt, and the new regulations increase production costs by $1/cwt.\n\\[\nP = \\$50 \\ \\text{per cwt}\n\\] \\[\n\\Delta C = \\$1 \\ \\text{per cwt}\n\\]\nCalculate the cost increase as a percentage of the current price:\n\\[\n\\frac{\\Delta C}{P} = \\frac{\\$1}{\\$50} = 0.02 = 2\\%\n\\]\nInterpretation: Paying $1 more per cwt is like receiving $1 less per cwt in revenue. From the producer’s perspective, this is an effective price decrease of 2%:\n\\[\n\\% \\Delta P_{\\text{effective}} = -2\\%.\n\\]\n\n\nStep 2. Convert the effective price change into a supply shock\nThe supply elasticity tells us how responsive producers are to a change in price:\n\\[\nE_S = \\frac{\\% \\Delta Q_S}{\\% \\Delta P}.\n\\]\nRearrange to solve for the percent change in quantity supplied:\n\\[\n\\% \\Delta Q_S = E_S \\times (\\% \\Delta P).\n\\] This equation says: if the effective price producers receive changes by some percent, then quantity supplied will change by elasticity × that percent. In our case, the regulation is equivalent to a 2% fall in effective price. It is also important to know that the (long-run) supply elasticity \\(E_S = 2.15\\)\nSubstitute the effective price change from Step 1 (\\(-2\\%\\)) and the long-run supply elasticity \\(E_S = 2.15\\):\n\\[\nS_S = E_S \\times (\\% \\Delta P_{\\text{effective}})\n\\] \\[\nS_S = 2.15 \\times (-2)\n\\] \\[\nS_S = -4.3\\%\n\\]\nInterpretation: A 2% decrease in effective price leads to a 4.3% decrease in supply.\nThis is the exogenous supply shock: \\(S_S = -4.3\\%\\).\nBecause nothing changed on the demand side, \\(S_D = 0\\).\n\n\nStep 3. Write the EDM equations\nSupply:\n\\[\n\\% \\Delta Q_S = E_S (\\% \\Delta P) + S_S = 2.15(\\% \\Delta P) - 4.3\n\\]\nDemand:\n\\[\n\\% \\Delta Q_D = E_D (\\% \\Delta P) + S_D = -1.96(\\% \\Delta P) + 0\n\\]\n\n\nStep 4. Impose Equilibrium (Set supply equal to demand)\nIn equilibrium, \\(\\% \\Delta Q_S = \\% \\Delta Q_D\\):\n\\[\n2.15(\\% \\Delta P) - 4.3 = -1.96(\\% \\Delta P)\n\\]\nRearrange:\n\\[\n(2.15 + 1.96)(\\% \\Delta P) = 4.3\n\\]\nSolve for price:\n\\[\n\\% \\Delta P = \\frac{4.3}{2.15+1.96} = 1.05 \\%.\n\\]\nResult: Price rises by about 1.05%.\n\n\nStep 5. Solve for Quantity\nPlug back into supply or demand:\nUsing supply:\n\\[\n\\% \\Delta Q_S = 2.15(1.05) - 4.3\n\\] \\[\n\\% \\Delta Q_S \\approx -2.05\\%\n\\]\nCheck with demand:\n\\[\n\\% \\Delta Q_D = -1.96(1.05) \\approx -2.05\\%\n\\] Result: Quantity falls by about 2.05%."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#pork-market-supply-shift-from-manure-regulations",
-    "href": "2025/multi_sector_model.html#pork-market-supply-shift-from-manure-regulations",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "Pork Market: Supply Shift from Manure Regulations",
-    "text": "Pork Market: Supply Shift from Manure Regulations\n\n\n\n\n\n\nInterpretation\n\n\n\n\nAlthough regulations raised production costs by 2%, the market price rose by only about 1%. In other words, a 2% cost increase (relative to price) cannot be fully passed on to consumers.\nThe remainder of the adjustment occurred through reduced output: pork production fell by about 2%.\nThis reflects how elasticities distribute the burden of shocks between price changes and quantity changes."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#example-beer-industry",
-    "href": "2025/multi_sector_model.html#example-beer-industry",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "",
-    "text": "Inputs (Farm Level): barley, hops, yeast, water.\n\nProcessor (Brewers): brewers transform inputs into beer.\n\nOutput (Retail): beer sold to consumers (ignoring wholesalers/retailers).\n\nThere is both:\n- A supply & demand for beer (retail).\n- A supply & demand for barley (farm).\nBut how do we connect them?"
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#assumption-1-fixed-proportions-technology",
-    "href": "2025/multi_sector_model.html#assumption-1-fixed-proportions-technology",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "",
-    "text": "Each gallon of beer requires a fixed amount of barley.\nBrewers can’t substitute away from barley if its price rises.\nThis lets us say:\n\n\\[\nQ^F = \\alpha Q^R\n\\] Where: - \\(Q^F\\): farm output (bushels of barley)\n- \\(Q^R\\): retail output (gallons of beer)\n- \\(alpha\\): conversion factor (e.g., 1.5 lbs barley per gallon beer)\nIf we know retail output, we know farm output exactly."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#assumption-2-constant-marketing-bill",
-    "href": "2025/multi_sector_model.html#assumption-2-constant-marketing-bill",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "",
-    "text": "The cost of processing barley into beers is constant (fixed) per unit.\nDenote this as \\(MB\\) (per-unit marketing bill).\nRetail price is then just:\n\n\\[\nP^{Beer} = P^{Barley} + MB\n\\]\nThis assumption creates a fixed wedge between the farm price and the retail price."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#derived-demand",
-    "href": "2025/multi_sector_model.html#derived-demand",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "",
-    "text": "Brewers only demand barley because they can sell beer.\nThus the derived demand for barley is just the consumer demand for beer, shifted down by \\(MB\\).\nNumerical Example:\n\nConsumers will pay $1.00 for a gallon of beer.\nMarketing bill = $0.30.\nMax brewers will pay for barley = $1.00 − $0.30 = $0.70."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#market-equilibrium",
-    "href": "2025/multi_sector_model.html#market-equilibrium",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "",
-    "text": "Equilibrium in the barley market occurs where supply of barley meets derived demand for barley.\n\nAt this quantity, the consumer price of beer equals the farm price of barley plus the marketing bill."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#shocks",
-    "href": "2025/multi_sector_model.html#shocks",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "",
-    "text": "Derived demand shifts down.\nBarley price falls.\nBeer price rises.\nQuantities fall.\n\n\n\n\n\n\nBoth beer demand and derived demand for barley shift out.\nPrices and quantities rise in both markets."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#cost-transmission",
-    "href": "2025/multi_sector_model.html#cost-transmission",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "",
-    "text": "New regulations raise \\(MB\\). Who bears the cost?\n\nIf demand more elastic than supply → farm price falls more.\nIf supply more elastic than demand → retail price rises more.\nGeneral rule: the side with less elasticity bears more of the burden."
-  },
-  {
-    "objectID": "2025/multi_sector_model.html#linking-farm-and-retail-markets",
-    "href": "2025/multi_sector_model.html#linking-farm-and-retail-markets",
-    "title": "Multi-Sector Models and Marketing Margins",
-    "section": "",
-    "text": "We need two simplifying assumptions to tie the beer and barley markets together.\n\nThese assumptions let us draw one diagram showing both markets.\nWithout them, the analysis gets messy (technology choice, variable costs, substitution across inputs, etc.)."
   }
 ]

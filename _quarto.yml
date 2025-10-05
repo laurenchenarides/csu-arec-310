@@ -40,6 +40,8 @@ website:
           href: 2025/edm.qmd
         - text: "Multi-Sector Model"
           href: 2025/multi_sector_model.qmd
+        - text: "SSNIP Test for Market Definition"
+          href: 2025/ssnip.qmd
       # - text: Lectures
       #   href: lectures/lectures.qmd
       # - text: Archive
