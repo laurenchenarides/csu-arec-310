@@ -9,7 +9,7 @@
 <meta name="author" content="Lauren Chenarides">
 <meta name="description" content="Course on Food and Agricultural Markets developed by Dr.&nbsp;Lauren Chenarides.">
 
-<title>In-Class Lab - Market Analysis Project – Food &amp; Ag Markets</title>
+<title>In-Class Lab: Getting Started with the Market Analysis Project – Food &amp; Ag Markets</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,7 +80,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
 
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="In-Class Lab - Market Analysis Project – Food &amp; Ag Markets">
+<meta property="og:title" content="In-Class Lab: Getting Started with the Market Analysis Project – Food &amp; Ag Markets">
 <meta property="og:description" content="Course on Food and Agricultural Markets developed by Dr.&nbsp;Lauren Chenarides">
 <meta property="og:site_name" content="Food &amp; Ag Markets">
 </head>
@@ -200,7 +200,13 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
    
   <ul>
   <li><a href="#objectives" id="toc-objectives" class="nav-link active" data-scroll-target="#objectives">Objectives</a></li>
-  <li><a href="#notes-for-students" id="toc-notes-for-students" class="nav-link" data-scroll-target="#notes-for-students">Notes for Students</a></li>
+  <li><a href="#step-1-explore-the-data" id="toc-step-1-explore-the-data" class="nav-link" data-scroll-target="#step-1-explore-the-data">Step 1: Explore the Data</a></li>
+  <li><a href="#step-2-rename-variables-to-align-with-retailer-names" id="toc-step-2-rename-variables-to-align-with-retailer-names" class="nav-link" data-scroll-target="#step-2-rename-variables-to-align-with-retailer-names">Step 2: Rename Variables to Align with Retailer Names</a></li>
+  <li><a href="#step-3-create-a-date-variable" id="toc-step-3-create-a-date-variable" class="nav-link" data-scroll-target="#step-3-create-a-date-variable">Step 3: Create a Date Variable</a></li>
+  <li><a href="#step-4-plot-prices-over-time" id="toc-step-4-plot-prices-over-time" class="nav-link" data-scroll-target="#step-4-plot-prices-over-time">Step 4: Plot Prices Over Time</a></li>
+  <li><a href="#step-5-compare-retailers" id="toc-step-5-compare-retailers" class="nav-link" data-scroll-target="#step-5-compare-retailers">Step 5: Compare Retailers</a></li>
+  <li><a href="#step-6-preview-next-steps" id="toc-step-6-preview-next-steps" class="nav-link" data-scroll-target="#step-6-preview-next-steps">Step 6: Preview Next Steps</a></li>
+  <li><a href="#step-7-save-and-organize" id="toc-step-7-save-and-organize" class="nav-link" data-scroll-target="#step-7-save-and-organize">Step 7: Save and Organize</a></li>
   </ul>
 </nav>
     </div>
@@ -209,7 +215,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">In-Class Lab - Market Analysis Project</h1>
+<h1 class="title">In-Class Lab: Getting Started with the Market Analysis Project</h1>
 </div>
 
 
@@ -226,25 +232,198 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
 </header>
 
 
-<p>This lab gives you hands-on practice with the tools and steps you’ll use in your <a href="../project/project-instructions.html">Market Analysis Project</a>. By the end of class, you’ll have had more time to spend on the project, and a clearer idea of how to each part of the analysis is connected.</p>
-<p><strong>Time:</strong> 50 minutes</p>
+<p>This lab gives you hands-on practice with the tools and steps you’ll use in your <a href="../project/project-instructions.html">Market Analysis Project</a>.<br>
+By the end of class, you’ll have time to explore the dataset, practice building visualizations, and connect these early steps to the questions you’ll address in your final submission.</p>
+<p><strong>Time:</strong> 50 minutes<br>
+<strong>Files needed:</strong> <a href="../project/milkmarketfmmocwt.xlsx">milkmarketfmmocwt.xlsx</a></p>
+<hr>
 <section id="objectives" class="level2">
 <h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
 <p>By the end of this lab, you will:</p>
 <ul>
-<li><p>Manipulate raw data and create new variables.</p></li>
-<li><p>Construct basic descriptive statistics and visualizations.</p></li>
-<li><p>Identify preliminary patterns in market structure and pricing.</p></li>
-<li><p>Connect your findings to the larger questions of the project.</p></li>
+<li>Understand the structure and variables in the dataset.<br>
+</li>
+<li>Create new variables (e.g., a date variable combining year and month).<br>
+</li>
+<li>Generate and label clear Excel graphs of milk prices.<br>
+</li>
+<li>Interpret trends and patterns in your visualizations.<br>
+</li>
+<li>See how these tasks connect to the first two project emails.</li>
+</ul>
+<hr>
+</section>
+<section id="step-1-explore-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-explore-the-data">Step 1: Explore the Data</h2>
+<ol type="1">
+<li><p>Open the Excel file <strong>milkmarketfmmocwt.xlsx</strong>.<br>
+</p></li>
+<li><p>Review the variable list in the “Project Data” section of the project instructions.<br>
+</p></li>
+<li><p>Answer the following in your notes (you’ll need this for Email 1):</p>
+<ul>
+<li>What variables represent <strong>quantities</strong> sold by each retailer?<br>
+</li>
+<li>What variables represent <strong>prices</strong>?<br>
+</li>
+<li>What variables represent <strong>market totals</strong>?<br>
+</li>
+<li>What is the unit for <code>fmmocwt</code>? How does it differ from the retail price variables?</li>
+</ul></li>
+</ol>
+<p>Understanding these distinctions is key for interpreting supply, demand, and margins later.</p>
+</section>
+<section id="step-2-rename-variables-to-align-with-retailer-names" class="level2">
+<h2 class="anchored" data-anchor-id="step-2-rename-variables-to-align-with-retailer-names">Step 2: Rename Variables to Align with Retailer Names</h2>
+<p>To make your analysis easier to follow, rename the quantity and price variables to match each retailer’s name. This will help you keep track of which series belongs to which firm when creating graphs later.</p>
+<ol type="1">
+<li><p>In your Excel file, rename each variable as follows:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Original Variable</th>
+<th>New Name</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>q1</td>
+<td>Jeminy_Q</td>
+</tr>
+<tr class="even">
+<td>q2</td>
+<td>Cousins_Q</td>
+</tr>
+<tr class="odd">
+<td>q3</td>
+<td>Legals_Q</td>
+</tr>
+<tr class="even">
+<td>q4</td>
+<td>FreshBetter_Q</td>
+</tr>
+<tr class="odd">
+<td>q5</td>
+<td>Greens_Q</td>
+</tr>
+<tr class="even">
+<td>p1</td>
+<td>Jeminy_P</td>
+</tr>
+<tr class="odd">
+<td>p2</td>
+<td>Cousins_P</td>
+</tr>
+<tr class="even">
+<td>p3</td>
+<td>Legals_P</td>
+</tr>
+<tr class="odd">
+<td>p4</td>
+<td>FreshBetter_P</td>
+</tr>
+<tr class="even">
+<td>p5</td>
+<td>Greens_P</td>
+</tr>
+</tbody>
+</table></li>
+<li><p>Check that your variable names are consistent (e.g., use underscores instead of spaces) so formulas and charts reference them correctly.<br>
+</p></li>
+<li><p>Save your workbook before moving on.</p></li>
+</ol>
+<p><strong>Question to consider:</strong></p>
+<p>Why is it useful to rename variables before starting your analysis? How might inconsistent naming create problems later?</p>
+</section>
+<section id="step-3-create-a-date-variable" class="level2">
+<h2 class="anchored" data-anchor-id="step-3-create-a-date-variable">Step 3: Create a Date Variable</h2>
+<ol type="1">
+<li>Insert a new column to the left of <code>Year</code>.<br>
+</li>
+<li>In this column, create a <strong>Date</strong> variable using Excel’s <code>DATE()</code> function: <code>=DATE([Year cell], [Month cell], 1)</code>
+<ul>
+<li>This gives you a continuous date value for plotting time series.<br>
+</li>
+</ul></li>
+<li>Format the column as <strong>Date (MMM-YYYY)</strong> for readability.<br>
+</li>
+<li>Name the column <code>Date</code>.</li>
+</ol>
+<p><strong>Answer the following questions:</strong></p>
+<ul>
+<li>What is the period covered by the data?</li>
+<li>What is the frequency of the data (e.g., monthly, quarterly, annually)?</li>
+<li>Are there any missing months or irregular gaps in the data? If so, how might that affect your analysis?</li>
 </ul>
 </section>
-<section id="notes-for-students" class="level2">
-<h2 class="anchored" data-anchor-id="notes-for-students">Notes for Students</h2>
+<section id="step-4-plot-prices-over-time" class="level2">
+<h2 class="anchored" data-anchor-id="step-4-plot-prices-over-time">Step 4: Plot Prices Over Time</h2>
+<ol type="1">
+<li>Highlight your new <code>Date</code> column and the price variable for <strong>Cousins</strong> (<code>Cousins_P</code>).<br>
+</li>
+<li>Insert a <strong>Line Chart</strong> showing Cousins’ average price of milk over time.<br>
+</li>
+</ol>
 <ul>
-<li><p>This lab is <em>not graded</em>; the goal is to practice, not to perfect.</p></li>
-<li><p>Bring your questions—the project builds on these same steps.</p></li>
-<li><p>Collaboration is encouraged, but each student should be engaged with the lab independently.</p></li>
+<li>Add axis titles:
+<ul>
+<li><em>X-axis:</em> Date<br>
+</li>
+<li><em>Y-axis:</em> Price per gallon ($)<br>
+</li>
+</ul></li>
+<li>Title your chart clearly: <em>“Cousins Average Retail Milk Price, 2014–2019”</em><br>
+</li>
 </ul>
+<ol start="3" type="1">
+<li>Move this chart to a <strong>new worksheet</strong> named <code>Cousins_Price_Trend</code>.<br>
+</li>
+</ol>
+<ul>
+<li>To do this: Right-click → “Move Chart” → “New Sheet.”</li>
+</ul>
+</section>
+<section id="step-5-compare-retailers" class="level2">
+<h2 class="anchored" data-anchor-id="step-5-compare-retailers">Step 5: Compare Retailers</h2>
+<ol type="1">
+<li>Create a new worksheet named <code>Retailer_Prices_Comparison</code>.<br>
+</li>
+<li>Using the same <code>Date</code> variable, add all five price series (<code>Jeminy_P</code>, <code>Cousins_P</code>, <code>Legals_P</code>, <code>FreshBetter_P</code>, <code>Greens_P</code>).<br>
+</li>
+<li>Insert a <strong>multi-line chart</strong> with each retailer as a different color line.<br>
+</li>
+<li>Make sure all lines share the same axis range for fair comparison.<br>
+</li>
+<li>Add a legend and clear labeling.</li>
+</ol>
+<p><strong>Questions to discuss or jot down:</strong> - Which retailer tends to have the highest and lowest prices?<br>
+- Are there visible seasonal or cyclical trends?<br>
+- Does Cousins follow, lead, or lag other retailers in price changes?</p>
+</section>
+<section id="step-6-preview-next-steps" class="level2">
+<h2 class="anchored" data-anchor-id="step-6-preview-next-steps">Step 6: Preview Next Steps</h2>
+<p>Before the end of class, discuss with your group or reflect individually:</p>
+<ul>
+<li>How could these graphs help you write <strong>Email 2: Data Visualization</strong>?<br>
+</li>
+<li>What additional information might you need to explain the trends (e.g., input costs, competition, or seasonality)?<br>
+</li>
+<li>How might you connect these patterns to market structure or supply-demand dynamics for <strong>Email 3</strong>?</li>
+</ul>
+</section>
+<section id="step-7-save-and-organize" class="level2">
+<h2 class="anchored" data-anchor-id="step-7-save-and-organize">Step 7: Save and Organize</h2>
+<p>Before leaving class:</p>
+<ul>
+<li>Save your Excel file as <strong>teamname_lab1.xlsx</strong>.<br>
+</li>
+<li>Make sure your graphs appear on <strong>separate worksheets</strong> with descriptive names.<br>
+</li>
+<li>Label each worksheet clearly (e.g., <code>Cousins_Price_Trend</code>, <code>Retailer_Prices_Comparison</code>).<br>
+</li>
+<li>Keep this file—you can build directly from it for your project.</li>
+</ul>
+<p><strong>End of Lab</strong></p>
 
 
 </section>

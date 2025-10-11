@@ -1430,16 +1430,16 @@
   {
     "objectID": "2025/excel-lab.html",
     "href": "2025/excel-lab.html",
-    "title": "In-Class Lab - Market Analysis Project",
+    "title": "In-Class Lab: Getting Started with the Market Analysis Project",
     "section": "",
-    "text": "This lab gives you hands-on practice with the tools and steps you’ll use in your Market Analysis Project. By the end of class, you’ll have had more time to spend on the project, and a clearer idea of how to each part of the analysis is connected.\nTime: 50 minutes"
+    "text": "This lab gives you hands-on practice with the tools and steps you’ll use in your Market Analysis Project.\nBy the end of class, you’ll have time to explore the dataset, practice building visualizations, and connect these early steps to the questions you’ll address in your final submission.\nTime: 50 minutes\nFiles needed: milkmarketfmmocwt.xlsx"
   },
   {
     "objectID": "2025/excel-lab.html#objectives",
     "href": "2025/excel-lab.html#objectives",
-    "title": "In-Class Lab - Market Analysis Project",
+    "title": "In-Class Lab: Getting Started with the Market Analysis Project",
     "section": "Objectives",
-    "text": "Objectives\nBy the end of this lab, you will:\n\nManipulate raw data and create new variables.\nConstruct basic descriptive statistics and visualizations.\nIdentify preliminary patterns in market structure and pricing.\nConnect your findings to the larger questions of the project."
+    "text": "Objectives\nBy the end of this lab, you will:\n\nUnderstand the structure and variables in the dataset.\n\nCreate new variables (e.g., a date variable combining year and month).\n\nGenerate and label clear Excel graphs of milk prices.\n\nInterpret trends and patterns in your visualizations.\n\nSee how these tasks connect to the first two project emails."
   },
   {
     "objectID": "2025/excel-lab.html#notes-for-students",
@@ -3337,5 +3337,54 @@
     "title": "Analyzing Market Forces in Colorado Retail Milk",
     "section": "COVER PAGE TEMPLATE",
     "text": "COVER PAGE TEMPLATE\nCousins Supermarket Data Analytics Project: Final Submission\nTeam Name: [Insert Team Name]\nProject Title: Market Data Analysis and Strategic Recommendations for Cousins Supermarket\nDate of Submission: [Insert Date]\nInstructor: Dr. Chenarides\nCourse: [Insert Course Name]\nTeam Members:\n\n[Insert Full Name]\n[Insert Full Name]\n[Insert Full Name]\n[Insert Full Name]\n\nSummary of Project:\nThis project analyzes the retail milk market in Colorado for Cousins Supermarket from June 2014 to February 2019, using sales data to assess market trends, pricing strategies, competition, and the potential for mergers.\nContents:\nEmail 1: Market Analysis and Predictions  Email 2: Data Visualization  Email 3: Market Structure Analysis  Email 4: Price Analysis  Email 5: Margin Analysis  Email 6: Merger Analysis"
+  },
+  {
+    "objectID": "2025/excel-lab.html#step-1-explore-the-data",
+    "href": "2025/excel-lab.html#step-1-explore-the-data",
+    "title": "In-Class Lab: Getting Started with the Market Analysis Project",
+    "section": "Step 1: Explore the Data",
+    "text": "Step 1: Explore the Data\n\nOpen the Excel file milkmarketfmmocwt.xlsx.\n\nReview the variable list in the “Project Data” section of the project instructions.\n\nAnswer the following in your notes (you’ll need this for Email 1):\n\nWhat variables represent quantities sold by each retailer?\n\nWhat variables represent prices?\n\nWhat variables represent market totals?\n\nWhat is the unit for fmmocwt? How does it differ from the retail price variables?\n\n\nUnderstanding these distinctions is key for interpreting supply, demand, and margins later."
+  },
+  {
+    "objectID": "2025/excel-lab.html#step-2-rename-variables-to-align-with-retailer-names",
+    "href": "2025/excel-lab.html#step-2-rename-variables-to-align-with-retailer-names",
+    "title": "In-Class Lab: Getting Started with the Market Analysis Project",
+    "section": "Step 2: Rename Variables to Align with Retailer Names",
+    "text": "Step 2: Rename Variables to Align with Retailer Names\nTo make your analysis easier to follow, rename the quantity and price variables to match each retailer’s name. This will help you keep track of which series belongs to which firm when creating graphs later.\n\nIn your Excel file, rename each variable as follows:\n\n\n\nOriginal Variable\nNew Name\n\n\n\n\nq1\nJeminy_Q\n\n\nq2\nCousins_Q\n\n\nq3\nLegals_Q\n\n\nq4\nFreshBetter_Q\n\n\nq5\nGreens_Q\n\n\np1\nJeminy_P\n\n\np2\nCousins_P\n\n\np3\nLegals_P\n\n\np4\nFreshBetter_P\n\n\np5\nGreens_P\n\n\n\nCheck that your variable names are consistent (e.g., use underscores instead of spaces) so formulas and charts reference them correctly.\n\nSave your workbook before moving on.\n\nQuestion to consider:\nWhy is it useful to rename variables before starting your analysis? How might inconsistent naming create problems later?"
+  },
+  {
+    "objectID": "2025/excel-lab.html#step-3-create-a-date-variable",
+    "href": "2025/excel-lab.html#step-3-create-a-date-variable",
+    "title": "In-Class Lab: Getting Started with the Market Analysis Project",
+    "section": "Step 3: Create a Date Variable",
+    "text": "Step 3: Create a Date Variable\n\nInsert a new column to the left of Year.\n\nIn this column, create a Date variable using Excel’s DATE() function: =DATE([Year cell], [Month cell], 1)\n\nThis gives you a continuous date value for plotting time series.\n\n\nFormat the column as Date (MMM-YYYY) for readability.\n\nName the column Date.\n\nAnswer the following questions:\n\nWhat is the period covered by the data?\nWhat is the frequency of the data (e.g., monthly, quarterly, annually)?\nAre there any missing months or irregular gaps in the data? If so, how might that affect your analysis?"
+  },
+  {
+    "objectID": "2025/excel-lab.html#step-4-plot-prices-over-time",
+    "href": "2025/excel-lab.html#step-4-plot-prices-over-time",
+    "title": "In-Class Lab: Getting Started with the Market Analysis Project",
+    "section": "Step 4: Plot Prices Over Time",
+    "text": "Step 4: Plot Prices Over Time\n\nHighlight your new Date column and the price variable for Cousins (Cousins_P).\n\nInsert a Line Chart showing Cousins’ average price of milk over time.\n\n\n\nAdd axis titles:\n\nX-axis: Date\n\nY-axis: Price per gallon ($)\n\n\nTitle your chart clearly: “Cousins Average Retail Milk Price, 2014–2019”\n\n\n\nMove this chart to a new worksheet named Cousins_Price_Trend.\n\n\n\nTo do this: Right-click → “Move Chart” → “New Sheet.”"
+  },
+  {
+    "objectID": "2025/excel-lab.html#step-5-compare-retailers",
+    "href": "2025/excel-lab.html#step-5-compare-retailers",
+    "title": "In-Class Lab: Getting Started with the Market Analysis Project",
+    "section": "Step 5: Compare Retailers",
+    "text": "Step 5: Compare Retailers\n\nCreate a new worksheet named Retailer_Prices_Comparison.\n\nUsing the same Date variable, add all five price series (Jeminy_P, Cousins_P, Legals_P, FreshBetter_P, Greens_P).\n\nInsert a multi-line chart with each retailer as a different color line.\n\nMake sure all lines share the same axis range for fair comparison.\n\nAdd a legend and clear labeling.\n\nQuestions to discuss or jot down: - Which retailer tends to have the highest and lowest prices?\n- Are there visible seasonal or cyclical trends?\n- Does Cousins follow, lead, or lag other retailers in price changes?"
+  },
+  {
+    "objectID": "2025/excel-lab.html#step-6-preview-next-steps",
+    "href": "2025/excel-lab.html#step-6-preview-next-steps",
+    "title": "In-Class Lab: Getting Started with the Market Analysis Project",
+    "section": "Step 6: Preview Next Steps",
+    "text": "Step 6: Preview Next Steps\nBefore the end of class, discuss with your group or reflect individually:\n\nHow could these graphs help you write Email 2: Data Visualization?\n\nWhat additional information might you need to explain the trends (e.g., input costs, competition, or seasonality)?\n\nHow might you connect these patterns to market structure or supply-demand dynamics for Email 3?"
+  },
+  {
+    "objectID": "2025/excel-lab.html#step-7-save-and-organize",
+    "href": "2025/excel-lab.html#step-7-save-and-organize",
+    "title": "In-Class Lab: Getting Started with the Market Analysis Project",
+    "section": "Step 7: Save and Organize",
+    "text": "Step 7: Save and Organize\nBefore leaving class:\n\nSave your Excel file as teamname_lab1.xlsx.\n\nMake sure your graphs appear on separate worksheets with descriptive names.\n\nLabel each worksheet clearly (e.g., Cousins_Price_Trend, Retailer_Prices_Comparison).\n\nKeep this file—you can build directly from it for your project.\n\nEnd of Lab"
   }
 ]
