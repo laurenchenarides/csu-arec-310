@@ -26,13 +26,13 @@ By the end of this lab, you will:
 ## Step 1: Explore the Data
 
 1. Open the Excel file **milkmarketfmmocwt.xlsx**.  
-2. Review the variable list in the “Project Data” section of the project instructions.  
+2. Review the variable list in the “Project Data” section of the [project instructions](../project/project-instructions.qmd).  
 3. Answer the following in your notes (you’ll need this for Email 1):
 
    - What variables represent **quantities** sold by each retailer?  
    - What variables represent **prices**?  
    - What variables represent **market totals**?  
-   - What is the unit for `fmmocwt`? How does it differ from the retail price variables?
+   - What is the unit for `fmmocwt`? How does it differ from the retail price variables? *Hint: Be sure to review "Email 4: Price Analysis" from the [project instructions](../project/project-instructions.qmd).*
 
 Understanding these distinctions is key for interpreting supply, demand, and margins later.
 
@@ -67,7 +67,7 @@ Why is it useful to rename variables before starting your analysis? How might in
 1. Insert a new column to the left of `Year`.  
 2. In this column, create a **Date** variable using Excel’s `DATE()` function: `=DATE([Year cell], [Month cell], 1)`
    - This gives you a continuous date value for plotting time series.  
-3. Format the column as **Date (MMM-YYYY)** for readability.  
+3. Format the column as **Date ** (MM/DD/YYYY) for readability.  
 4. Name the column `Date`.
 
 **Answer the following questions:**
@@ -90,13 +90,20 @@ Why is it useful to rename variables before starting your analysis? How might in
 
 ## Step 5: Compare Retailers
 
-1. Create a new worksheet named `Retailer_Prices_Comparison`.  
-2. Using the same `Date` variable, add all five price series (`Jeminy_P`, `Cousins_P`, `Legals_P`, `FreshBetter_P`, `Greens_P`).  
+1. Using the same `Date` variable, add all five price series (`Jeminy_P`, `Cousins_P`, `Legals_P`, `FreshBetter_P`, `Greens_P`). *Important: Which cells do you need to   
+2. Rename this new worksheet `Retailer_Prices_Comparison`.  
 3. Insert a **multi-line chart** with each retailer as a different color line.  
+- Add axis titles:  
+  - *X-axis:* Date  
+  - *Y-axis:* Price per gallon ($)  
+- Title your chart clearly: *“Price Comparison for Leading Retail Chains, 2014-2019”*  
 4. Make sure all lines share the same axis range for fair comparison.  
-5. Add a legend and clear labeling.
+5. Move this chart to a **new worksheet** named `Retailer_Prices_Comparison_Graph`.  
+  - To do this: Right-click → “Move Chart” → “New Sheet.
+
 
 **Questions to discuss or jot down:**
+
 - Which retailer tends to have the highest and lowest prices?  
 - Are there visible seasonal or cyclical trends?  
 - Does Cousins follow, lead, or lag other retailers in price changes?
@@ -114,7 +121,7 @@ Before the end of class, discuss with your group or reflect individually:
 Before leaving class:
 
 - Save your Excel file as **teamname_lab1.xlsx**.  
-- Make sure your graphs appear on **separate worksheets** with descriptive names.  
+- Make sure your graphs appear on **separate worksheets** with descriptive names. **Important: The charts should be on their own worksheets, not as charts on top of a blank worksheet.** 
 - Label each worksheet clearly (e.g., `Cousins_Price_Trend`, `Retailer_Prices_Comparison`).  
 - Keep this file—you can build directly from it for your project.
 

@@ -3343,7 +3343,7 @@
     "href": "2025/excel-lab.html#step-1-explore-the-data",
     "title": "In-Class Lab: Getting Started with the Market Analysis Project",
     "section": "Step 1: Explore the Data",
-    "text": "Step 1: Explore the Data\n\nOpen the Excel file milkmarketfmmocwt.xlsx.\n\nReview the variable list in the “Project Data” section of the project instructions.\n\nAnswer the following in your notes (you’ll need this for Email 1):\n\nWhat variables represent quantities sold by each retailer?\n\nWhat variables represent prices?\n\nWhat variables represent market totals?\n\nWhat is the unit for fmmocwt? How does it differ from the retail price variables?\n\n\nUnderstanding these distinctions is key for interpreting supply, demand, and margins later."
+    "text": "Step 1: Explore the Data\n\nOpen the Excel file milkmarketfmmocwt.xlsx.\n\nReview the variable list in the “Project Data” section of the project instructions.\n\nAnswer the following in your notes (you’ll need this for Email 1):\n\nWhat variables represent quantities sold by each retailer?\n\nWhat variables represent prices?\n\nWhat variables represent market totals?\n\nWhat is the unit for fmmocwt? How does it differ from the retail price variables? Hint: Be sure to review “Email 4: Price Analysis” from the project instructions.\n\n\nUnderstanding these distinctions is key for interpreting supply, demand, and margins later."
   },
   {
     "objectID": "2025/excel-lab.html#step-2-rename-variables-to-align-with-retailer-names",
@@ -3357,7 +3357,7 @@
     "href": "2025/excel-lab.html#step-3-create-a-date-variable",
     "title": "In-Class Lab: Getting Started with the Market Analysis Project",
     "section": "Step 3: Create a Date Variable",
-    "text": "Step 3: Create a Date Variable\n\nInsert a new column to the left of Year.\n\nIn this column, create a Date variable using Excel’s DATE() function: =DATE([Year cell], [Month cell], 1)\n\nThis gives you a continuous date value for plotting time series.\n\n\nFormat the column as Date (MMM-YYYY) for readability.\n\nName the column Date.\n\nAnswer the following questions:\n\nWhat is the period covered by the data?\nWhat is the frequency of the data (e.g., monthly, quarterly, annually)?\nAre there any missing months or irregular gaps in the data? If so, how might that affect your analysis?"
+    "text": "Step 3: Create a Date Variable\n\nInsert a new column to the left of Year.\n\nIn this column, create a Date variable using Excel’s DATE() function: =DATE([Year cell], [Month cell], 1)\n\nThis gives you a continuous date value for plotting time series.\n\n\nFormat the column as Date  (MM/DD/YYYY) for readability.\n\nName the column Date.\n\nAnswer the following questions:\n\nWhat is the period covered by the data?\nWhat is the frequency of the data (e.g., monthly, quarterly, annually)?\nAre there any missing months or irregular gaps in the data? If so, how might that affect your analysis?"
   },
   {
     "objectID": "2025/excel-lab.html#step-4-plot-prices-over-time",
@@ -3371,14 +3371,14 @@
     "href": "2025/excel-lab.html#step-5-compare-retailers",
     "title": "In-Class Lab: Getting Started with the Market Analysis Project",
     "section": "Step 5: Compare Retailers",
-    "text": "Step 5: Compare Retailers\n\nCreate a new worksheet named Retailer_Prices_Comparison.\n\nUsing the same Date variable, add all five price series (Jeminy_P, Cousins_P, Legals_P, FreshBetter_P, Greens_P).\n\nInsert a multi-line chart with each retailer as a different color line.\n\nMake sure all lines share the same axis range for fair comparison.\n\nAdd a legend and clear labeling.\n\nQuestions to discuss or jot down: - Which retailer tends to have the highest and lowest prices?\n- Are there visible seasonal or cyclical trends?\n- Does Cousins follow, lead, or lag other retailers in price changes?"
+    "text": "Step 5: Compare Retailers\n\nUsing the same Date variable, add all five price series (Jeminy_P, Cousins_P, Legals_P, FreshBetter_P, Greens_P). *Important: Which cells do you need to\n\nRename this new worksheet Retailer_Prices_Comparison.\n\nInsert a multi-line chart with each retailer as a different color line.\n\n\n\nAdd axis titles:\n\nX-axis: Date\n\nY-axis: Price per gallon ($)\n\n\nTitle your chart clearly: “Price Comparison for Leading Retail Chains, 2014-2019”\n\n\n\nMake sure all lines share the same axis range for fair comparison.\n\nMove this chart to a new worksheet named Retailer_Prices_Comparison_Graph.\n\n\n\nTo do this: Right-click → “Move Chart” → “New Sheet.\n\nQuestions to discuss or jot down: - Which retailer tends to have the highest and lowest prices?\n- Are there visible seasonal or cyclical trends?\n- Does Cousins follow, lead, or lag other retailers in price changes?"
   },
   {
     "objectID": "2025/excel-lab.html#step-6-preview-next-steps",
     "href": "2025/excel-lab.html#step-6-preview-next-steps",
     "title": "In-Class Lab: Getting Started with the Market Analysis Project",
     "section": "Step 6: Preview Next Steps",
-    "text": "Step 6: Preview Next Steps\nBefore the end of class, discuss with your group or reflect individually:\n\nHow could these graphs help you write Email 2: Data Visualization?\n\nWhat additional information might you need to explain the trends (e.g., input costs, competition, or seasonality)?\n\nHow might you connect these patterns to market structure or supply-demand dynamics for Email 3?"
+    "text": "Step 6: Preview Next Steps\nBefore the end of class, discuss with your group or reflect individually:\n\nHow could these graphs help you write Email 2: Data Visualization?\n\nWhat additional information might you need to explain the trends (e.g., input costs, competition, or seasonality)?\n\nHow might you connect these patterns to market structure for Email 3?"
   },
   {
     "objectID": "2025/excel-lab.html#step-7-save-and-organize",
