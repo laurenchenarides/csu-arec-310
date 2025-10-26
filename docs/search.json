@@ -137,7 +137,7 @@
     "href": "project/hw4-solution.html#mapping-to-excel-columns",
     "title": "Homework 4",
     "section": "Mapping to Excel Columns",
-    "text": "Mapping to Excel Columns\nPer month (row):\nRevenues\n\nr1 = p1*q1 (Jeminy)\n\nr2 = p2*q2 (Cousins)\n\nr3 = p3*q3\n\nr4 = p4*q4\n\nr5 = p5*q5\n\nOthers (if needed):\nr_others = MAX(0, VM - (r1 + r2 + r3 + r4 + r5))\n\nShares\n\nsh_i = r_i / VM for each of the 5 named firms (+ Others if r_others &gt; 0)\n\nExcel tips (replace shares_range with the cell range of shares):\n\nHHI = SUMPRODUCT((100*shares_range)^2)\n\nCR2 = SUM(LARGE(shares_range,{1,2}))\n\nCR4 = SUM(LARGE(shares_range,{1,2,3,4}))\n\n\nDo not use QM for HHI/CR — we are using revenue shares, not quantity shares."
+    "text": "Mapping to Excel Columns\nPer month (row):\nRevenues\n\nr1 = p1*q1 (Jeminy)\n\nr2 = p2*q2 (Cousins)\n\nr3 = p3*q3\n\nr4 = p4*q4\n\nr5 = p5*q5\n\nAll Others:\nr_others = MAX(0, VM - (r1 + r2 + r3 + r4 + r5))\n\nShares\n\nsh_i = r_i / VM for each of the 5 named firms (+ Others if r_others &gt; 0)\n\nExcel tips (replace shares_range with the cell range of shares):\n\nHHI = SUMPRODUCT((100*shares_range)^2)\n\nCR2 = SUM(LARGE(shares_range,{1,2}))\n\nCR4 = SUM(LARGE(shares_range,{1,2,3,4}))\n\n\nDo not use QM for HHI/CR — we are using revenue shares, not quantity shares."
   },
   {
     "objectID": "project/hw4-solution.html#graphs-over-time",

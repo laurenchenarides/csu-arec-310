@@ -65,7 +65,7 @@ Per month (row):
 - `r3 = p3*q3`  
 - `r4 = p4*q4`  
 - `r5 = p5*q5`  
-- **Others (if needed):** 
+- **All Others:** 
 
   `r_others = MAX(0, VM - (r1 + r2 + r3 + r4 + r5))`
 
