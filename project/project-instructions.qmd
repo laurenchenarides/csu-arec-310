@@ -21,7 +21,7 @@ Cousins Supermarket is one of the largest food retailers in the U.S. They operat
 
 ## Project 
 
-You and your team are working as market data analysts for Cousins Supermarket. Your manager sends you company data in the following Excel file: [milkmarketfmmocwt.xlsx](milkmarketfmmocwt.xlsx). She tells you that this file is *PROJECT TEAM EYES ONLY* and MUST not be shared outside of your team. The file contains data on Cousins milk sales in Colorado prior to the pandemic: June 2014 – February 2019. She was also able to obtain milk data on the local competitors: Jeminy, Legals, Greens, and Fresh & Better. There were a bunch of small stores that she could not get data on, but she has a good idea of sales for the total market area based on industry estimates. Your manager tells you that milk is a good indicator for overall sales.  
+You and your team are working as market data analysts for Cousins Supermarket. Your manager sends you company data in the following Excel file: [milkmarketfmmocwt.xlsx](milkmarketfmmocwt_corrected.xlsx). She tells you that this file is *PROJECT TEAM EYES ONLY* and MUST not be shared outside of your team. The file contains data on Cousins milk sales in Colorado prior to the pandemic: June 2014 – February 2019. She was also able to obtain milk data on the local competitors: Jeminy, Legals, Greens, and Fresh & Better. There were a bunch of small stores that she could not get data on, but she has a good idea of sales for the total market area based on industry estimates. Your manager tells you that milk is a good indicator for overall sales.  
 
 Over the course of six emails, your manager asks you to complete a series of data-driven tasks to inform decision-making at Cousins Supermarket. These tasks include analyzing market trends, visualizing competitive data, and assessing strategic options such as mergers. 
 
@@ -45,7 +45,7 @@ For the final submission of your project, please ensure that your work is organi
 
 ## Project Data
 
-👉 [Download data file here](milkmarketfmmocwt.xlsx)
+👉 [Download data file here](milkmarketfmmocwt_corrected.xlsx)
 
 ::: {.callout-note icon=false title="Description of the data file"}
 

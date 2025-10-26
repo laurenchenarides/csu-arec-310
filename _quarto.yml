@@ -32,6 +32,8 @@ website:
           href: 2025/hw3.qmd
         - text: "Assignment 4"
           href: project/hw4.qmd
+        - text: "Assignment 4 - Solution Key"
+          href: project/hw4-solution.qmd
         - text: "Assignment 5"
           href: project/hw5.qmd
       - text: Additional Resources

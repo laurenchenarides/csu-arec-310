@@ -8,7 +8,7 @@ This lab gives you hands-on practice with the tools and steps you’ll use in yo
 By the end of class, you’ll have time to explore the dataset, practice building visualizations, and connect these early steps to the questions you’ll address in your final submission.
 
 **Time:** 50 minutes  
-**Files needed:** [milkmarketfmmocwt.xlsx](../project/milkmarketfmmocwt.xlsx)
+**Files needed:** [milkmarketfmmocwt.xlsx](../project/milkmarketfmmocwt_corrected.xlsx)
 
 ---
 
