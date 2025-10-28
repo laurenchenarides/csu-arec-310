@@ -46,8 +46,8 @@ You are required to summarize your findings in a concise, professional email to 
 
 **Submission Notes:**
 
-- Start with the Excel workbook that was graded after assignment 4. This way, you will not have to create a new `date` variable by combining the `month` and `year` variables using an Excel formula.
-- The Federal Milk Marketing Order prices are per hundredweight (cwt), so you will need to convert them to gallons to match the retail data you were given. 
+- Start with the [Excel workbook from assignment 4](milkmarketfmmocwt_hw4_solution.xlsx). This way, you will not have to create a new `date` variable by combining the `month` and `year` variables using an Excel formula.
+- The Federal Milk Marketing Order prices are per hundredweight (cwt), so you will need to use the variable that converts them into gallons to match the retail data you were given. 
 - Each graph should be formatted to appear on their own worksheet. Points will be deducted for graphs that are embedded on the data sheet itself.
 - Your email should be clear, concise, and actionable, providing management with the information they need to make informed decisions about Cousins' pricing strategies in the Colorado retail milk market.
 

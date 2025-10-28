@@ -40,4 +40,7 @@ Management wants to understand the position of the firm in the market. They ask 
 
 - You must create a new `date` variable by combining the `month` and `year` variables using an Excel formula.
 - Each graph should be formatted to appear on their own worksheet. Points will be deducted for graphs that are embedded on the data sheet itself.
+- Your email should be clear, concise, and actionable, providing management with the information they need to make informed decisions about Cousins' pricing strategies in the Colorado retail milk market.
+
+
 
