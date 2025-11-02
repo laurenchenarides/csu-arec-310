@@ -30,15 +30,13 @@ Homework 5 is an excerpt from [the project instructions](project-instructions.qm
 
 Management has requested an analysis of price movements to gain a deeper understanding of price trends in the Colorado retail milk market. This analysis will help identify patterns in pricing strategies across the industry and specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.
 
-You are required to summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. Be sure to explain the implications of your findings for Cousins' pricing strategy and overall market position.
-
 1. Graph the monthly weighted average price of milk sold by each retailer over time. Add labels and title to your graph. Include a legend.
 
 2. Calculate the Laspeyres **and** Paasche indices to show how the aggregate price in the market is moving over time. Graph them on the same chart in a new worksheet. Add labels and title to your graph. Include a legend.
 
     - Note: The "market" is represented by `Market_Quantity` (total quantity) and `Market_V_Corrected` (value of milk sales). The price index will represent the price changes relative to the base period. 
 
-3. Summarize your findings for parts 1 and 2 in a concise, professional email to your manager. This email should describe how you constructed each measure, outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. Be sure to interpret your findings and explain the implications for Cousins' pricing strategy position.  
+3. Summarize your findings for parts 1 and 2 in a concise, professional email to your manager. This email should describe how you constructed each measure, outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. Be sure to interpret your findings and explain the implications for Cousins' overall market position.  
 
 **Submission Notes:**
 
