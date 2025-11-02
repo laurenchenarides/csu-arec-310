@@ -212,7 +212,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
   <li><a href="#email-3-market-structure-analysis" id="toc-email-3-market-structure-analysis" class="nav-link" data-scroll-target="#email-3-market-structure-analysis">Email 3: Market Structure Analysis</a></li>
   <li><a href="#email-4-price-analysis" id="toc-email-4-price-analysis" class="nav-link" data-scroll-target="#email-4-price-analysis">Email 4: Price Analysis</a></li>
   <li><a href="#email-5-margin-analysis" id="toc-email-5-margin-analysis" class="nav-link" data-scroll-target="#email-5-margin-analysis">Email 5: Margin Analysis</a></li>
-  <li><a href="#email-6-merger-analysis" id="toc-email-6-merger-analysis" class="nav-link" data-scroll-target="#email-6-merger-analysis">Email 6: Merger Analysis</a></li>
+  <li><a href="#email-6-demand-analysis" id="toc-email-6-demand-analysis" class="nav-link" data-scroll-target="#email-6-demand-analysis">Email 6: Demand Analysis</a></li>
   <li><a href="#how-youll-be-graded" id="toc-how-youll-be-graded" class="nav-link" data-scroll-target="#how-youll-be-graded">How You’ll Be Graded</a></li>
   <li><a href="#cover-page-template" id="toc-cover-page-template" class="nav-link" data-scroll-target="#cover-page-template">COVER PAGE TEMPLATE</a></li>
   </ul>
@@ -406,43 +406,40 @@ Description of the data file
 </section>
 <section id="email-4-price-analysis" class="level2">
 <h2 class="anchored" data-anchor-id="email-4-price-analysis">Email 4: Price Analysis</h2>
-<p>Management has requested an analysis of price movements and marketing margins to gain a deeper understanding of pricing trends and profitability in the Colorado retail milk market. This analysis will help identify pricing strategy patterns across the industry, specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.</p>
+<p>Management has requested an analysis of price movements to gain a deeper understanding of price trends in the Colorado retail milk market. This analysis will help identify patterns in pricing strategies across the industry and specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.</p>
+<p>You are required to summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you’ve identified. Be sure to explain the implications of your findings for Cousins’ pricing strategy and overall market position.</p>
 <ol type="1">
-<li><p>Graph the monthly weighted average price of milk sold by each retailer (one line for each) over time. Make sure that the values of the axes are the same for ease of comparison.</p></li>
-<li><p>Create a price index (Laspeyres <em>or</em> Paasche) to show how the aggregate price in the market is moving over time. Graph it in a new worksheet.</p></li>
-</ol>
+<li><p>Graph the monthly weighted average price of milk sold by each retailer over time. Add labels and title to your graph. Include a legend.</p></li>
+<li><p>Calculate the Laspeyres <strong>and</strong> Paasche indices to show how the aggregate price in the market is moving over time. Graph them on the same chart in a new worksheet. Add labels and title to your graph. Include a legend.</p>
 <ul>
-<li>Note: The “market” is represented by QM (total quantity) and VM (value of milk sales). The price index will represent the price changes relative to the base period.</li>
-</ul>
-<ol start="3" type="1">
-<li>Using the Federal Milk Marketing Order Class I price (<code>fmmocwt</code>), calculate the following as two separate variables and plot them on the same graph:
-<ol type="a">
-<li>the industry-wide marketing margin, and</li>
-<li>the marketing margin for Cousins, only.</li>
-</ol></li>
-<li>Summarize your findings for parts 1-3 in a concise, professional email to your manager. This email should describe how you constructed each measure, outline the key insights from your analysis, highlighting any significant trends or patterns you’ve identified. Be sure to interpret your findings and explain the implications for Cousins’ pricing strategy position.</li>
+<li>Note: The “market” is represented by <code>Market_Quantity</code> (total quantity) and <code>Market_V_Corrected</code> (value of milk sales). The price index will represent the price changes relative to the base period.</li>
+</ul></li>
+<li><p>Summarize your findings for parts 1 and 2 in a concise, professional email to your manager. This email should describe how you constructed each measure, outline the key insights from your analysis, highlighting any significant trends or patterns you’ve identified. Be sure to interpret your findings and explain the implications for Cousins’ pricing strategy position.</p></li>
 </ol>
 </section>
 <section id="email-5-margin-analysis" class="level2">
 <h2 class="anchored" data-anchor-id="email-5-margin-analysis">Email 5: Margin Analysis</h2>
 <ol type="1">
-<li>Using the Federal Milk Marketing Order Class I price (variable = fmmocwt), do the following:</li>
-</ol>
-<ul>
+<li><p>Using the Federal Milk Marketing Order Class I price (variable = <code>fmmocwt</code>), do the following:</p>
+<ol type="a">
+<li>Create a new variable <code>fmmogal = fmmocwt/11.63</code>. The Federal Milk Marketing Order prices are <em>per hundredweight</em> (cwt), so you will need to convert them to gallons to match the retail data you were given. There are roughly 11.63 pounds of milk in a gallon.</li>
 <li>Determine the marketing margin of the industry over time. Graph it.</li>
 <li>Determine the marketing margin for Cousins only over time. Graph it.</li>
-</ul>
-<p>Note: The Federal Milk Marketing Order prices are <em>per hundredweight</em> (cwt), so you will need to convert them to gallons to match the retail data you were given by creating a new variable <code>fmmogal = fmmocwt/11.63</code>. There are roughly 11.63 pounds of milk in a gallon.</p>
-<ol start="2" type="1">
-<li>Summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you’ve identified. This email must contain discussion of the results of the marketing margins and an interpretation of your findings. Be sure to explain the implications of your findings for Cousins’ overall market position.</li>
+</ol></li>
+<li><p>Summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you’ve identified. This email must contain discussion of the results of the marketing margins and an interpretation of your findings. Be sure to explain the implications of your findings for Cousins’ overall market position.</p></li>
 </ol>
 </section>
-<section id="email-6-merger-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="email-6-merger-analysis">Email 6: Merger Analysis</h2>
+<section id="email-6-demand-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="email-6-demand-analysis">Email 6: Demand Analysis</h2>
 <p>Your manager also shares some confidential information from the CEO. The CEO believes that one way to increase profits will be to merge with another retailer in Colorado.</p>
 <ol type="1">
-<li>Estimate the demand for Cousins milk. What is the own-price elasticity? What are the cross-price elasticities? Interpret them.</li>
-<li>Which retailer do you recommend that Cousins merge with? Why?</li>
+<li><p>Estimate the demand for Cousins milk. What is the own-price elasticity? What are the cross-price elasticities? Interpret them.</p></li>
+<li><p>Look at your demand results. Which other retailer’s price has a negative and significant cross-price elasticity with Cousins milk? Explain:</p>
+<ul>
+<li>Why your results show they are complements</li>
+<li>How merging with that retailer could help increase profits (for example, through joint promotions, product bundles, or shared customers)</li>
+<li>Any possible challenges or risks (like competition or store overlap)</li>
+</ul></li>
 </ol>
 </section>
 <section id="how-youll-be-graded" class="level2">

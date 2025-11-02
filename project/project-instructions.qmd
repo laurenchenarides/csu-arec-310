@@ -113,37 +113,38 @@ Management wants to understand the position of the firm in the market. They ask 
 
 ## Email 4: Price Analysis
 
-Management has requested an analysis of price movements and marketing margins to gain a deeper understanding of pricing trends and profitability in the Colorado retail milk market. This analysis will help identify pricing strategy patterns across the industry, specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.
+Management has requested an analysis of price movements to gain a deeper understanding of price trends in the Colorado retail milk market. This analysis will help identify patterns in pricing strategies across the industry and specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.
 
-1. Graph the monthly weighted average price of milk sold by each retailer (one line for each) over time. Make sure that the values of the axes are the same for ease of comparison.
+You are required to summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. Be sure to explain the implications of your findings for Cousins' pricing strategy and overall market position.
 
-2. Create a price index (Laspeyres *or* Paasche) to show how the aggregate price in the market is moving over time. Graph it in a new worksheet.
+1. Graph the monthly weighted average price of milk sold by each retailer over time. Add labels and title to your graph. Include a legend.
 
-  - Note: The "market" is represented by QM (total quantity) and VM (value of milk sales). The price index will represent the price changes relative to the base period. 
+2. Calculate the Laspeyres **and** Paasche indices to show how the aggregate price in the market is moving over time. Graph them on the same chart in a new worksheet. Add labels and title to your graph. Include a legend.
 
-3. Using the Federal Milk Marketing Order Class I price (`fmmocwt`), calculate the following as two separate variables and plot them on the same graph:
-    (a) the industry-wide marketing margin, and 
-    (b) the marketing margin for Cousins, only. 
+    - Note: The "market" is represented by `Market_Quantity` (total quantity) and `Market_V_Corrected` (value of milk sales). The price index will represent the price changes relative to the base period. 
 
-4. Summarize your findings for parts 1-3 in a concise, professional email to your manager. This email should describe how you constructed each measure, outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. Be sure to interpret your findings and explain the implications for Cousins' pricing strategy position.   
+3. Summarize your findings for parts 1 and 2 in a concise, professional email to your manager. This email should describe how you constructed each measure, outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. Be sure to interpret your findings and explain the implications for Cousins' pricing strategy position.   
 
 ## Email 5: Margin Analysis
 
-1. Using the Federal Milk Marketing Order Class I price (variable = fmmocwt), do the following:
+1. Using the Federal Milk Marketing Order Class I price (variable = `fmmocwt`), do the following:
 
-  - Determine the marketing margin of the industry over time. Graph it.
-  - Determine the marketing margin for Cousins only over time. Graph it.
-
-Note: The Federal Milk Marketing Order prices are *per hundredweight* (cwt), so you will need to convert them to gallons to match the retail data you were given by creating a new variable `fmmogal = fmmocwt/11.63`. There are roughly 11.63 pounds of milk in a gallon.
+    (a) Create a new variable `fmmogal = fmmocwt/11.63`. The Federal Milk Marketing Order prices are *per hundredweight* (cwt), so you will need to convert them to gallons to match the retail data you were given. There are roughly 11.63 pounds of milk in a gallon.
+    (b) Determine the marketing margin of the industry over time. Graph it.
+    (c) Determine the marketing margin for Cousins only over time. Graph it.
 
 2. Summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. This email must contain discussion of the results of the marketing margins and an interpretation of your findings. Be sure to explain the implications of your findings for Cousins' overall market position.
 
-## Email 6: Merger Analysis
+## Email 6: Demand Analysis
 
 Your manager also shares some confidential information from the CEO. The CEO believes that one way to increase profits will be to merge with another retailer in Colorado. 
 
 1. Estimate the demand for Cousins milk. What is the own-price elasticity? What are the cross-price elasticities? Interpret them. 
-2. Which retailer do you recommend that Cousins merge with? Why?
+2. Look at your demand results. Which other retailer’s price has a negative and significant cross-price elasticity with Cousins milk? Explain: 
+
+    - Why your results show they are complements
+    - How merging with that retailer could help increase profits (for example, through joint promotions, product bundles, or shared customers)
+    - Any possible challenges or risks (like competition or store overlap)
 
 
 ## How You’ll Be Graded
