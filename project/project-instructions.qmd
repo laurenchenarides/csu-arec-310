@@ -115,7 +115,7 @@ Management wants to understand the position of the firm in the market. They ask 
 
 Management has requested an analysis of price movements to gain a deeper understanding of price trends in the Colorado retail milk market. This analysis will help identify patterns in pricing strategies across the industry and specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.
 
-1. Graph the monthly weighted average price of milk sold by each retailer over time. Add labels and title to your graph. Include a legend.
+1. Graph the monthly **weighted aggregate price index** of milk sold by each retailer over time. Add labels and title to your graph. Include a legend.
 
 2. Calculate the Laspeyres **and** Paasche indices to show how the aggregate price in the market is moving over time. Graph them on the same chart in a new worksheet. Add labels and title to your graph. Include a legend.
 
