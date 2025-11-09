@@ -36,6 +36,8 @@ website:
           href: project/hw4-solution.qmd
         - text: "Assignment 5"
           href: project/hw5.qmd
+        - text: "Assignment 5 - Solution Key"
+          href: project/hw5-solution.qmd
       - text: Additional Resources
         menu: 
         - text: "Equilibrium Displacement Models"

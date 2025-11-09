@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/2025/students.html",
-    "items": []
-  },
-  {
     "listing": "/lectures/lectures.html",
     "items": [
       "/lectures/lecture1.html",
@@ -20,5 +16,9 @@
       "/lectures/lecture12.html",
       "/lectures/lecture13.html"
     ]
+  },
+  {
+    "listing": "/2025/students.html",
+    "items": []
   }
 ]
