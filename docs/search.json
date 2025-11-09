@@ -3435,5 +3435,40 @@
     "title": "Analyzing Market Forces in Colorado Retail Milk",
     "section": "Email 6: Demand Analysis",
     "text": "Email 6: Demand Analysis\nYour manager also shares some confidential information from the CEO. The CEO believes that one way to increase profits will be to merge with another retailer in Colorado.\n\nEstimate the demand for Cousins milk. What is the own-price elasticity? What are the cross-price elasticities? Interpret them.\nLook at your demand results. Which other retailer’s price has a negative and significant cross-price elasticity with Cousins milk? Explain:\n\nWhy your results show they are complements\nHow merging with that retailer could help increase profits (for example, through joint promotions, product bundles, or shared customers)\nAny possible challenges or risks (like competition or store overlap)"
+  },
+  {
+    "objectID": "project/hw5-solution.html",
+    "href": "project/hw5-solution.html",
+    "title": "Homework 5",
+    "section": "",
+    "text": "👉 Download HW 5 solution file here"
+  },
+  {
+    "objectID": "project/hw5-solution.html#weighted-aggregate-price-index",
+    "href": "project/hw5-solution.html#weighted-aggregate-price-index",
+    "title": "Homework 5",
+    "section": "1) Weighted Aggregate Price Index",
+    "text": "1) Weighted Aggregate Price Index\nTo evaluate overall price movements in the Colorado retail milk market, a weighted aggregate price index was calculated using each retailer’s weighted average price and market share.\nThe index is defined as:\n\\[\nP_t = \\frac{\\sum_i p_{it} q_{it}}{\\sum_i q_{it}}\n\\]\nwhere:\n- \\(p_{it}\\) = weighted average price of milk sold by retailer i in month t\n- \\(q_{it}\\) = quantity of milk sold by retailer i in month t\n- \\(P_t\\) = weighted aggregate retail price for the market in month t\nEach month’s index was normalized relative to the base period (June 2014 = 100).\nInterpretation:\nThe weighted aggregate retail price increased steadily from mid-2014 through late 2017, peaking around late 2017. After this point, the index shows a sharp decline through 2018 and early 2019. This pattern suggests that after a period of price growth, possibly due to tightening supply or higher wholesale costs, retail prices fell rapidly, likely reflecting easing market pressures or a response to competitive pricing."
+  },
+  {
+    "objectID": "project/hw5-solution.html#laspeyres-and-paasche-price-indices",
+    "href": "project/hw5-solution.html#laspeyres-and-paasche-price-indices",
+    "title": "Homework 5",
+    "section": "2) Laspeyres and Paasche Price Indices",
+    "text": "2) Laspeyres and Paasche Price Indices\nTo better understand aggregate price changes over time, both Laspeyres and Paasche indices were computed.\n\nLaspeyres Price Index:\n\n\\[\nL_t = \\frac{\\sum_i p_{it} q_{i0}}{\\sum_i p_{i0} q_{i0}}\n\\]\n\nPaasche Price Index:\n\n\\[\nP_t = \\frac{\\sum_i p_{it} q_{it}}{\\sum_i p_{i0} q_{it}}\n\\]\nwhere:\n- \\(p_{i0}, q_{i0}\\) = prices and quantities in the base period\n- \\(p_{it}, q_{it}\\) = prices and quantities in month t\nBoth indices are normalized to the base period (June 2014 = 100). The Laspeyres index measures price change using base-period quantities, while the Paasche index uses current-period quantities.\nInterpretation:\nBoth indices follow nearly identical trends, suggesting that relative quantities sold across retailers did not change substantially during the study period. The market experienced a steady price increase until 2017, followed by a significant decline through 2018–2019. The similarity between the two indices implies that the choice of index formula does not materially affect the interpretation of price trends in this dataset."
+  },
+  {
+    "objectID": "project/hw5-solution.html#summary-email-to-management",
+    "href": "project/hw5-solution.html#summary-email-to-management",
+    "title": "Homework 5",
+    "section": "3) Summary Email to Management",
+    "text": "3) Summary Email to Management\nTo: Management Team\nFrom: [Your Name]\nSubject: Analysis of Retail Milk Price Movements (June 2014–February 2019)\nDear Management,\nAs requested, I analyzed monthly price movements for the Colorado retail milk market to better understand pricing trends and implications for Cousins.\n1. Weighted Aggregate Price Index:\nThe overall market price index shows gradual growth from mid-2014 through 2017, peaking in late 2017. A sharp decline followed in 2018–2019, bringing prices below early-period levels. This suggests a shift in market dynamics—possibly due to changing wholesale costs or increased retail competition.\n2. Laspeyres and Paasche Indices:\nBoth indices show similar movements, indicating that changes in retail quantities did not materially affect the overall market price trend. Prices rose by roughly 30% from the base period before declining steeply by over 40% toward the end of the sample period.\nImplications for Cousins:\nCousins likely faced narrowing margins during the 2018–2019 period as retail prices declined more rapidly than wholesale milk prices. The observed pattern highlights the need for Cousins to reassess its pricing strategy—potentially focusing on value-added differentiation or cost efficiencies to sustain profitability under competitive conditions.\nBest regards,\n[Your Name]\nCousins Retail Market Analysis Team"
+  },
+  {
+    "objectID": "project/hw5-solution.html#common-pitfalls",
+    "href": "project/hw5-solution.html#common-pitfalls",
+    "title": "Homework 5",
+    "section": "Common Pitfalls",
+    "text": "Common Pitfalls\n\nNot locking base-period cells: Forgetting to use absolute references (e.g., row 2) when computing Laspeyres or Paasche indices leads to incorrect results.\nUsing the wrong denominator or unit.\nPoor graph formatting, e.g., missing titles, labels, or legends, or embedding graphs on the data sheet instead of separate worksheets.\nNot explaining how measures were constructed or omitting key findings and implications for Cousins."
   }
 ]
