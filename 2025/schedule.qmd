@@ -29,14 +29,14 @@ All lecture slides are available on Canvas.
 | 8    | 10/16      | R   | *In-Class Activity: Excel Lab*              |                            |
 | 9    | 10/21      | T   | Lecture 5.1                                 |                            |
 | 9    | 10/23      | R   | Lecture 5.2                                 | [Homework 4](../project/hw4.qmd)                 |
-| 10   | 10/28      | T   | *In-Class Activity: Market Power in Beef Industry*    |                  |
-| 10   | 10/30      | R   | Lecture 6.1                                 |                            |
-| 11   | 11/4       | T   | *In-Class Activity: Price Indexes*          |                            |
-| 11   | 11/6       | R   | Lecture 7.1                                 | [Homework 5](../project/hw5.qmd)                  |
-| 12   | 11/11      | T   | Lecture 8.1                                 |                            |
-| 12   | 11/13      | R   | Lecture 8.2                                 |                            |
-| 13   | 11/18      | T   | Lecture 8.3                                 |                            |
-| 13   | 11/20      | R   | Lecture 8.4                                 | Homework 6                 |
+| 10   | 10/28      | T   | Lecture 5.2 (*extended*)    |                  |
+| 10   | 10/30      | R   | *In-Class Activity: Market Power in Beef Industry*                                 |                            |
+| 11   | 11/4       | T   | Lecture 6.1          |                            |
+| 11   | 11/6       | R   | *In-Class Activity: Price Indexes*                  | [Homework 5](../project/hw5.qmd)                  |
+| 12   | 11/11      | T   | Lecture 7.1                                 |                            |
+| 12   | 11/13      | R   | Lecture 8.1                                 |                            |
+| 13   | 11/18      | T   | Lecture 8.2                                 |                            |
+| 13   | 11/20      | R   | Lecture 8.2 + *In-Class Activity*           | Homework 6                 |
 | 14   | 11/25      | T   | Fall Recess                                 |                            |
 | 14   | 11/27      | R   | Fall Recess (Thanksgiving)                  |                            |
 | 15   | 12/2       | T   | Lecture 7.2                                 |                            |
