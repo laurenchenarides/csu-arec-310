@@ -42,7 +42,7 @@ All lecture slides are available on Canvas.
 | 15   | 12/2       | T   | Lecture 7.2                                 |                            |
 | 15   | 12/4       | R   | Exam 2 Study Session (In-Class)             |                            |
 | 16   | 12/9       | T   | **Exam 2** (In-Class) <br> Bring a calculator!                       |                            |
-| 16   | 12/11      | R   | No Lecture                                  | [Market Data Analysis Project](../project/project-instructions.qmd)   |
+| 16   | 12/11      | R   | Final Project "Lab" (In-Class)                                  | [Market Data Analysis Project](../project/project-instructions.qmd)   |
 
 : {.striped .responsive}
 

@@ -193,5 +193,5 @@ Email 2: Data Visualization <br>
 Email 3: Market Structure Analysis <br>
 Email 4: Price Analysis <br>
 Email 5: Margin Analysis <br>
-Email 6: Merger Analysis <br>
+Email 6: Demand Analysis <br>
 
