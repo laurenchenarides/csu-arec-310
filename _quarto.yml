@@ -20,8 +20,8 @@ website:
             href: 2026sp/syllabus.qmd
           - text: Schedule
             href: 2026sp/schedule.qmd
-          - text: Readings
-            href: 2026sp/readings.qmd
+          # - text: Readings
+          #   href: 2026sp/readings.qmd
       - text: "Fall 2025"
         menu:
           - text: Syllabus - Fall 2025
@@ -69,7 +69,7 @@ website:
   repo-url: https://github.com/laurenchenarides/csu-arec-310
   repo-actions: [edit, issue, source]
   open-graph: true
-  site-url: "https://github.com/laurenchenarides/csu-arec-310"
+  site-url: "https://laurenchenarides.github.io/csu-arec-310"
   google-analytics:
     tracking-id: "G-GG4GM3TPXK"
     anonymize-ip: false
