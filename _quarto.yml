@@ -25,7 +25,7 @@ website:
       - text: "Fall 2025"
         menu:
           - text: Syllabus - Fall 2025
-            href: syllabus.qmd
+            href: 2025/syllabus.qmd
           - text: Schedule - Fall 2025
             href: 2025/schedule.qmd
           - text: Readings
