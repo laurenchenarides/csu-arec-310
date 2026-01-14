@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Lauren Chenarides">
-<meta name="description" content="Course on Food and Agricultural Markets developed by Dr.&nbsp;Lauren Chenarides.">
+<meta name="description" content="Course on Food and Agricultural Markets">
 
 <title>Multi-Sector Models and Marketing Margins – Food &amp; Ag Markets</title>
 <style>
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-6d4e65521db30a067f9f8795ad24baa6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-ef9176d5b3a494f395673aa65efdea21.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -92,7 +93,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -110,7 +111,7 @@ window.Quarto = {
 
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Multi-Sector Models and Marketing Margins – Food &amp; Ag Markets">
-<meta property="og:description" content="Course on Food and Agricultural Markets developed by Dr.&nbsp;Lauren Chenarides">
+<meta property="og:description" content="Course on Food and Agricultural Markets">
 <meta property="og:site_name" content="Food &amp; Ag Markets">
 </head>
 
@@ -121,6 +122,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Food &amp; Ag Markets</span>
     </a>
@@ -132,68 +135,77 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../syllabus.html"> 
-<span class="menu-text">Syllabus</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../2025/schedule.html"> 
-<span class="menu-text">Schedule</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../2025/readings.html"> 
-<span class="menu-text">Readings</span></a>
+    <a class="nav-link" href="../project/project-instructions.html"> 
+<span class="menu-text">Market Analysis Project</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-working-with-excel" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Working with Excel</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-spring-2026" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Spring 2026</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-working-with-excel">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-spring-2026">    
         <li>
-    <a class="dropdown-item" href="../2025/excel-course.html">
- <span class="dropdown-text">Excel Primer (Assignment 2)</span></a>
+    <a class="dropdown-item" href="../2026sp/syllabus.html">
+ <span class="dropdown-text">Syllabus</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../2026sp/schedule.html">
+ <span class="dropdown-text">Schedule</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../2026sp/readings.html">
+ <span class="dropdown-text">Readings</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-fall-2025" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Fall 2025</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-fall-2025">    
+        <li>
+    <a class="dropdown-item" href="../syllabus.qmd">
+ <span class="dropdown-text">Syllabus - Fall 2025</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../2025/schedule.html">
+ <span class="dropdown-text">Schedule - Fall 2025</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../2025/readings.html">
+ <span class="dropdown-text">Readings</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../2025/project-instructions.html">
+ <span class="dropdown-text">Market Data Analysis Project</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../2025/excel-lab.html">
  <span class="dropdown-text">Excel Lab (In-Class)</span></a>
   </li>  
-    </ul>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="../project/project-instructions.html"> 
-<span class="menu-text">Market Data Analysis Project</span></a>
+        <li>
+    <a class="dropdown-item" href="../2025/excel-course.html">
+ <span class="dropdown-text">Assignment 2 (Excel Primer)</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-homework-assignments" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Homework Assignments</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-homework-assignments">    
         <li>
     <a class="dropdown-item" href="../2025/hw3.pdf">
  <span class="dropdown-text">Assignment 3</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../project/hw4.html">
+    <a class="dropdown-item" href="../2025/hw4.html">
  <span class="dropdown-text">Assignment 4</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../project/hw4-solution.html">
+    <a class="dropdown-item" href="../2025/hw4-solution.html">
  <span class="dropdown-text">Assignment 4 - Solution Key</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../project/hw5.html">
+    <a class="dropdown-item" href="../2025/hw5.html">
  <span class="dropdown-text">Assignment 5</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../project/hw5-solution.html">
+    <a class="dropdown-item" href="../2025/hw5-solution.html">
  <span class="dropdown-text">Assignment 5 - Solution Key</span></a>
   </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-additional-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Additional Resources</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-additional-resources">    
         <li>
     <a class="dropdown-item" href="../2025/edm.pdf">
  <span class="dropdown-text">Equilibrium Displacement Models</span></a>
@@ -440,13 +452,14 @@ P^{Beer} = P^{Barley} + MB
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

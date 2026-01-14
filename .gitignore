@@ -37,3 +37,5 @@ Backup of *.doc*
 *.~vsd*
 /.luarc.json
 .Rproj.user
+
+**/*.quarto_ipynb

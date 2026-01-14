@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Market Forces in Colorado Retail Milk"
+title: "Market Power and Competition in Food and Agricultural Sectors"
 subtitle: "Group Project"
 format: 
   html: 
@@ -9,171 +9,181 @@ format:
     link-external-newwindow: true
 ---
 
-<!--This is my personal clarity, please delete or replace with your own clarity-->
-<!-- {{< include /files/includes/_msclarity.qmd >}} -->
-
 *This is a Group Project. Max number per group is 4. Groups must be submitted via Canvas by the due date listed on Canvas.*
-
 
 ## Background
 
-Cousins Supermarket is one of the largest food retailers in the U.S. They operate about 1,525 grocery retail stores in 20 states under a variety of banner names. Cousins operates about 15 food production or manufacturing facilities producing high quality private-label products. Data and science are at the core of their business. They collect 96% of sales on their customer loyalty card. Like many other agricultural and food businesses, they are increasingly interested in leveraging the data that they collect to increase profits.
+You and your team are market analysts working for a food company with operations in Colorado. 
 
-## Project 
+Your manager wants a structured evaluation of the marketing channel in one sector of the food supply chain, as this will impact procurement decisions within your company.
 
-You and your team are working as market data analysts for Cousins Supermarket. Your manager sends you company data in the following Excel file: [milkmarketfmmocwt.xlsx](milkmarketfmmocwt_corrected.xlsx). She tells you that this file is *PROJECT TEAM EYES ONLY* and MUST not be shared outside of your team. The file contains data on Cousins milk sales in Colorado prior to the pandemic: June 2014 – February 2019. She was also able to obtain milk data on the local competitors: Jeminy, Legals, Greens, and Fresh & Better. There were a bunch of small stores that she could not get data on, but she has a good idea of sales for the total market area based on industry estimates. Your manager tells you that milk is a good indicator for overall sales.  
+Your manager asks you to pick **one sector** and use the **case study data provided on Canvas** to complete both qualitative and quantitative analysis.
 
-Over the course of six emails, your manager asks you to complete a series of data-driven tasks to inform decision-making at Cousins Supermarket. These tasks include analyzing market trends, visualizing competitive data, and assessing strategic options such as mergers. 
+All project documents and files you create must carry the designation *PROJECT TEAM EYES ONLY*.
+
+## Choose ONE sector
+
+Select **one** of the four sectors below and use the corresponding case study dataset (Excel file) provided with that case on Canvas.
+
+**Sector options and case study choices**
+
+1. **Fluid milk**
+    - *Market Power in the Fluid Milk Industry* (Bolotova – 2021)
+
+2. **Dairy**
+    - *Market Power in the U.S. Dairy Industry* (Bolotova – 2023)
+
+3. **Broilers**
+    - *Buyer Market Power in the U.S. Broiler Chicken Industry* (Bolotova – 2025)
+    - *Price-Fixing in the U.S. Broiler Chicken and Pork Industries* (Bolotova – 2022)
+
+4. **Pork**
+    - *Price-Fixing in the U.S. Broiler Chicken and Pork Industries* (Bolotova – 2022)
+
+5. **Potatoes**
+    - *Market Power in the U.S. Potato Industry* (Bolotova – 2021)
+
+> Note: Some cases focus on seller market power (monopoly/oligopoly); others focus on buyer power (monopsony/oligopsony) or alleged collusion. Use the case’s framing, but your deliverables below stay the same.
+
+## Project Overview
+
+You will submit **one professional email** to your manager that includes:
+
+- A short, clear narrative summary (what you found and why it matters)
+- References to exhibits (tables/figures) in your Excel workbook
+- Calculations and results for concentration, market power, regression, and damages
+
+Your Excel workbook will contain:
+
+- Cleaned data
+- Calculations
+- Exhibits (graphs/tables), each on its **own worksheet**
 
 ## Submission Guidelines
 
-For the final submission of your project, please ensure that your work is organized and presented professionally. Follow these instructions carefully:
+Your final submission must include **two files**:
 
-1.	Organize all six emails sequentially in a Word Document. 
-    - Each email should be clearly labeled (e.g., Email 1: Market Analysis and Predictions). 
-    - Every file that you create must carry the designation *PROJECT TEAM EYES ONLY* to prevent a data breach. 
-    - Prepare a cover page before the emails using the template provided below.
-    - Use Times New Roman, 12-point font, throughout.
-2.	You must include the Excel file that generated the graphs referenced in your emails. 
-    - Each graph must be clearly labeled and formatted to appear on **separate Worksheets** in your Excel workbook, with axis labels and appropriate titles.
-3.	Your final submission files will include: 
-    (1)	Your email packet, including a cover letter and the six emails, as a Word Doc or PDF.
-    (2)	Your complete Excel workbook with all graphs and exhibits referenced in the emails, as well as the data and calculations used to create the graphs. Each graph must appear in separate Excel Worksheets.
-4.	Submit your final documents via Canvas by the deadline. 
+1. **Email packet (Word or PDF)**
+   - Include the **cover page** (template below)
+   - Then include **one email** (the final email to your manager)
+   - Use consistent 12-point font throughout
+   - Every page must include: *PROJECT TEAM EYES ONLY*
 
-**Late submissions will not be accepted.** Make sure to review all materials and complete the submission before the deadline.
+2. **Excel workbook**
+   - All calculations and exhibits must be reproducible in Excel
+   - Each exhibit must be on a **separate worksheet**, clearly titled (e.g., “Exhibit 2: Firm Volumes Over Time”)
+   - Label axes and add informative titles to every figure
 
-## Project Data
+## Data Source
 
-👉 [Download data file here](milkmarketfmmocwt_corrected.xlsx)
+Use the **Excel data file provided with your selected case study on Canvas**. Your analysis *must* use the case data as the quantitative backbone.
 
-::: {.callout-note icon=false title="Description of the data file"}
+## Final Email Requirements (what your one email must contain)
 
-| Variable  | Description                             |
-|-----------|-----------------------------------------|
-| Year | Year of the data point
-| Month | Month (numeric) of the data point
-| MonthName | Month (name) of the data point
-| q1 | Quantity (i.e., gallons) of milk sold via Jeminy
-| q2 | Quantity (i.e., gallons) of milk sold via Cousins
-| q3 | Quantity (i.e., gallons) of milk sold via Legals
-| q4 | Quantity (i.e., gallons) of milk sold via Fresh & Better
-| q5 | Quantity (i.e., gallons) of milk sold via Greens
-| QM | Quantity (i.e., gallons) of milk sold for the entire Colorado market
-| p1 | Weighted average price of milk sold via Jeminy
-| p2 | Weighted average price of milk sold via Cousins
-| p3 | Weighted average price of milk sold via Legals
-| p4 | Weighted average price of milk sold via Fresh & Better
-| p5 | Weighted average price of milk sold via Greens
-| VM | Value of milk sales for the entire Colorado market
-| fmmocwt | The Federal Milk Marketing Order (fmmo) prices per hundredweight (cwt)
+Your email must be written to a manager and must be organized into **six numbered sections** below. Use headings for readability.
 
-: {.striped .responsive}
+### Section 1. Industry description (qualitative)
 
-:::
+Describe the industry in **qualitative terms**, using economic logic:
 
+1. **Structure**
+   - Who are the major players? (national and, if relevant, Colorado)
+   - Roughly how many major firms vs. a competitive fringe?
+   - Barriers to entry (capital needs, contracts, regulation, technology, access to distribution, etc.)
 
-## Email 1: Market Analysis and Predictions
+2. **Conduct**
+   - Evidence of mergers/acquisitions, contracting practices, capacity decisions, product differentiation, pricing behavior, or alleged collusion (as relevant to your case)
+   - If buyer power is central (e.g., broilers), describe contracting/compensation mechanisms and what makes suppliers vulnerable
 
-Management contacts you to gather information about the retail milk market in Colorado. They are asking you to conduct market research and make educated predictions about the general direction of retail milk market growth. Write an email to your manager outlining what your predictions are and what information they are based on. 
+3. **Performance**
+   - Evidence on productivity/technical change, product quality, innovation, new products
+   - Social or supply-chain implications of firm decisions (labor, resilience, regional access, etc.)
 
-In your email, you must answer the following questions:
+Your goal: apply economic concepts to real-world qualitative details (not just “tell a story”).
 
-1. What types of factors determine whether demand for retail milk will increase, decrease, or stay the same? What retail milk demand factors are at play currently in the Colorado market and what factors were at play during the June 2014 – February 2019 period? 
+### Section 2. Describe the data (quantitative)
 
-2. What types of factors determine whether supply for retail milk will increase, decrease, or stay the same? What retail milk supply factors are at play currently in the Colorado market and what factors were at play during the June 2014 – February 2019 period?
+Using the case dataset, provide a **descriptive overview**:
 
-Assume that retail milk is a homogeneous product in a market with many buyers and sellers, near perfect information, and mobile resources.
+- What is measured (e.g., firm-level volume/value, prices, costs, attributes, time period)?
+- Key trends over time (show graphs)
+- Notable differences across firms/products (show tables or figures)
 
-**Cite all your sources.** I will check to make sure that all sources exist and that the information is true and accurate. MLA citation style is not required, but easily accessing where the information is available is required. Note that webpages can disappear from day to day, so it is best practice to save a pdf of any website you reference with the download date in case the link is not working when your manager clicks it. 
+Your email should point the manager to the key exhibits (e.g., “See Exhibit 2”).
 
-Please refer to the syllabus for the course policy on academic integrity and use of generative AI.
+### Section 3. Concentration (quantitative)
 
-## Email 2: Data Visualization
+Calculate and report:
 
-Your next task is to design a series of graphs and send them in an email to management. The three graphs you are to send to management include:
+- **HHI**
+- **CR4**
+- **CRx**, where you choose *x* to clearly show where market share is concentrated (and where a fringe begins)
 
-1. Graph the monthly quantity of milk sold by Cousins over time. Our data is collected from August 2014 to January 2019, so the graphs should be for each month-year point in the dataset.  
+Explain what your concentration results imply for market structure and strategic behavior.
 
-2. In a separate graph, do the same for Jeminy, Legals, Greens, and Fresh & Better. Make sure that the values of the axes are the same for ease of comparison. Discuss your findings.
+### Section 4. Market power (quantitative)
 
-3. Graph the market shares of Cousins, Jeminy, Legals, Greens, and Fresh & Better. Discuss your findings. Note: Market share is the percentage of an industry’s total sales over a certain period. It is calculated by dividing total company sales by total industry sales.
-Your email must include a description of the method you used to create the exhibit, and a discussion of the results. The graphs should have labeled axes and make appropriate use of colors.  
+Calculate and interpret a **Lerner Index** (or the closest feasible approximation given the variables in your case data).
 
+State clearly:
 
-## Email 3: Market Structure Analysis
+- The formula used
+- Any assumptions required by the data (e.g., how marginal cost is measured/approximated)
 
-Management is interested in understanding the competitive landscape of the Colorado retail milk market. They want to assess the level of market concentration and determine if the market structure resembles perfect competition or tends towards oligopoly. To achieve this, you are asked to calculate and analyze key market structure indicators. These calculations will help determine Cousins' position in the market relative to its competitors and provide insights into the overall market dynamics.
+### Section 5. Regression analysis (quantitative)
 
-Management wants to understand the position of the firm in the market. They ask you to perform the following calculations and report back in one, easy-to-understand email:
+Run a regression that answers a simple pricing question, such as:
 
-1. Calculate the HHI of the market and graph it over time. Discuss your findings. 
-2. Calculate the CR4 and the CR2 and graph each over time. Discuss your findings. 
-3. Based on these findings, can we assume the market is behaving as if it is perfectly competitive? Describe your rationale in your email.
+- How do product/firm attributes relate to price?
+- Which attributes are associated with higher prices, and by how much?
 
-## Email 4: Price Analysis
+Minimum expectations:
 
-Management has requested an analysis of price movements to gain a deeper understanding of price trends in the Colorado retail milk market. This analysis will help identify patterns in pricing strategies across the industry and specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.
+- Define your dependent variable (price) and key independent variables (attributes)
+- Report coefficient estimates and interpret them in plain language (e.g., “associated with about X% higher price” if using logs)
 
-1. Graph the monthly **weighted aggregate price index** of milk sold by each retailer over time. Add labels and title to your graph. Include a legend.
+(If your case is better suited to forecasting or another simple model, you may do that, but keep it straightforward and interpretable.)
 
-2. Calculate the Laspeyres **and** Paasche indices to show how the aggregate price in the market is moving over time. Graph them on the same chart in a new worksheet. Add labels and title to your graph. Include a legend.
+### Section 6. Damages from market power (quantitative + qualitative link)
 
-    - Note: The "market" is represented by `Market_Quantity` (total quantity) and `Market_V_Corrected` (value of milk sales). The price index will represent the price changes relative to the base period. 
+Estimate damages associated with market power in your sector. Depending on the case framing and available data, damages may be discussed as:
 
-3. Summarize your findings for parts 1 and 2 in a concise, professional email to your manager. This email should describe how you constructed each measure, outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. Be sure to interpret your findings and explain the implications for Cousins' overall market position.    
+- Overcharge/underpayment × quantity (where appropriate)
+- Deadweight loss (if you can support it with a simple model)
+- A clearly-defined “market power cost” metric justified by your methods and data
 
-## Email 5: Margin Analysis
+Then connect the damages back to:
 
-1. Using the Federal Milk Marketing Order Class I price (variable = `fmmocwt`), do the following:
+- **Allocative efficiency** (price vs. marginal cost)
+- **Productive efficiency** (cost discipline, innovation incentives, excess capacity, etc.)
 
-    (a) Create a new variable `fmmogal = fmmocwt/11.63`. The Federal Milk Marketing Order prices are *per hundredweight* (cwt), so you will need to convert them to gallons to match the retail data you were given. There are roughly 11.63 pounds of milk in a gallon.
-    (b) Determine the marketing margin of the industry over time. Graph it.
-    (c) Determine the marketing margin for Cousins only over time. Graph it.
+## Professional Style Requirements (for the email)
 
-2. Summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you've identified. This email must contain discussion of the results of the marketing margins and an interpretation of your findings. Be sure to explain the implications of your findings for Cousins' overall market position.
+Your manager should be able to read the email quickly. Your email must:
 
-## Email 6: Demand Analysis
-
-Your manager also shares some confidential information from the CEO. The CEO believes that one way to increase profits will be to merge with another retailer in Colorado. 
-
-1. Estimate the demand for Cousins milk. What is the own-price elasticity? What are the cross-price elasticities? Interpret them. 
-2. Look at your demand results. Which other retailer’s price has a negative and significant cross-price elasticity with Cousins milk? Explain: 
-
-    - Why your results show they are complements
-    - How merging with that retailer could help increase profits (for example, through joint promotions, product bundles, or shared customers)
-    - Any possible challenges or risks (like competition or store overlap)
-
-
-## How You’ll Be Graded
-
-Your project will be evaluated based on:
-
-| Criteria         | Points | Description |
-|----------------|--------|-------------------------------|
-| **Depth of research + prep**    | 25     | Evidence of thoughtful background research, preparation, and familiarity with the mentor’s work and industry. |
-| **Interview quality + flow**    | 25     | Questions are clear and engaging; conversation flows naturally and professionally; follow-ups deepen the discussion. |
-| **Insightful show notes**       | 25     | Notes accurately summarize the episode, highlight key takeaways, and are clearly written for an external audience. |
-| **Team coordination & clarity** | 25     | All team members contribute meaningfully; roles are clear; final product is cohesive and well-organized. |
-
-**Total: 100 points** (10% of final grade)
-
+- Start with a 2–4 sentence executive summary
+- Use section headings (1–6) and refer to exhibits by name
+- Use short paragraphs and bullets
+- Avoid jargon when a plain alternative works
+- Cite any sources used beyond the case materials (brief citations/links are fine)
 
 ---
 
 ## COVER PAGE TEMPLATE
 
-Cousins Supermarket Data Analytics Project: Final Submission
+Market Power and Competition Project: Final Submission
 
 Team Name: [Insert Team Name]
 
-Project Title: Market Data Analysis and Strategic Recommendations for Cousins Supermarket
+Sector Chosen: [Pork / Broilers / Fluid Milk / Potatoes]
+
+Case Study Used: [Insert full case title + year]
 
 Date of Submission: [Insert Date]
 
-Instructor: Dr. Chenarides
+Instructor: [Insert Instructor Name]
 
-Course: [Insert Course Name]
+Course: AREC 310: Food and Agricultural Markets
 
 **Team Members:**
 
@@ -182,16 +192,12 @@ Course: [Insert Course Name]
 3. [Insert Full Name]
 4. [Insert Full Name]
 
-**Summary of Project:**
+**Summary (4–6 sentences):**
 
-This project analyzes the retail milk market in Colorado for Cousins Supermarket from June 2014 to February 2019, using sales data to assess market trends, pricing strategies, competition, and the potential for mergers. 
+Briefly describe the sector you analyzed and the main takeaway for management.
 
 **Contents:**
 
-Email 1: Market Analysis and Predictions <br>
-Email 2: Data Visualization <br>
-Email 3: Market Structure Analysis <br>
-Email 4: Price Analysis <br>
-Email 5: Margin Analysis <br>
-Email 6: Demand Analysis <br>
-
+- Cover Page  
+- Final Email to Manager (Sections 1–6)  
+- Excel Workbook (Data + Calculations + Exhibits)

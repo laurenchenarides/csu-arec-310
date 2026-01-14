@@ -1,6 +1,5 @@
 ---
 title: "Food and Agricultural Markets"
-subtitle: "Fall 2025"
 image: "/files/images/ag-stock-photo.jpg"
 sidebar: false
 toc: false
@@ -8,22 +7,20 @@ css: /custom.css
 repo-actions: false
 ---
 
-<!--This is my personal clarity, please delete or replace with your own clarity-->
-<!-- {{< include /files/includes/_msclarity.qmd >}} -->
 
 {{< include /files/includes/_coursedescription.qmd >}}
 
-👉 [Access Syllabus Here](syllabus.qmd)
+👉 [Access Syllabus Here](2026sp/syllabus.qmd)
 
-## Why This Course Matters
+<!-- ## Why This Course Matters -->
 
-In this course, you build a foundation for understanding how food moves from farms to consumers, how prices form, and how the parts of the supply chain connect. We work with real-world data to see how value is added across the food system, measure market concentration, and explore the role of forecasting and risk management tools like futures and options.
+<!-- In this course, you build a foundation for understanding how food moves from farms to consumers, how prices form, and how the parts of the supply chain connect. We work with real-world data to see how value is added across the food system, measure market concentration, and explore the role of forecasting and risk management tools like futures and options. -->
 
-These skills help you analyze market conditions, interpret trends, and connect day-to-day business decisions with broader patterns in food and agricultural markets.
+<!-- These skills help you analyze market conditions, interpret trends, and connect day-to-day business decisions with broader patterns in food and agricultural markets. -->
 
 ### Our Learning Culture
 
-I want you to imagine we’re all part of the same organization—one where everyone’s success depends on how well we collaborate, share ideas, and support each other’s growth. That means:
+I want you to imagine we’re all part of the same organization—one where everyone’s success depends on how well we collaborate, share ideas, and support each others growth. That means:
 
 - We take initiative and hold ourselves accountable.
 - We celebrate experimentation and embrace failure as part of the process.

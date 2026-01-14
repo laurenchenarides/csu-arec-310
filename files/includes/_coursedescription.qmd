@@ -1,5 +1,7 @@
 ## Course Description
 
-The primary objective is to foster development and understanding of key agricultural marketing issues and concerns, and equip you with analytical skills that may be utilized to evaluate different marketing problems and programs from both the industry and firm perspective. This course will provide you with an understanding of economic concepts that will be employed for analyzing issues in agricultural marketing.
+The food and agricultural sector is one of the most heavily regulated industries in the U.S., as well as globally. This course examines the structure, strategic behavior, and performance of firms in modern food and agricultural markets. Students will study how increasing consolidation and concentration at different stages of the supply chain have enabled the presence of firms with significant seller and buyer market power. Students will learn the economic theory underlying modern food and agricultural markets and then apply it to contemporary case studies where we will examine the economic conduct of agricultural producers, processors, and retailers in a national context. Students will also learn about managing risk, including a review of futures markets.
+
+This course is designed to prepare students with an understanding of key agricultural marketing issues and concerns and to develop students’ analytical skills used so that they may better evaluate different marketing problems and programs to support food and agricultural businesses. 
 
 ## Prerequisite: AREC/ECON 202 (Principles of Microeconomics)

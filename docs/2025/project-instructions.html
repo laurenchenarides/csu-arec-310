@@ -9,7 +9,7 @@
 <meta name="author" content="Lauren Chenarides">
 <meta name="description" content="Course on Food and Agricultural Markets">
 
-<title>In-Class Lab: Getting Started with the Market Analysis Project – Food &amp; Ag Markets</title>
+<title>Analyzing Market Forces in Colorado Retail Milk – Food &amp; Ag Markets</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -81,8 +81,8 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
 
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="In-Class Lab: Getting Started with the Market Analysis Project – Food &amp; Ag Markets">
-<meta property="og:description" content="Course on Food and Agricultural Markets">
+<meta property="og:title" content="Analyzing Market Forces in Colorado Retail Milk – Food &amp; Ag Markets">
+<meta property="og:description" content="Group Project">
 <meta property="og:site_name" content="Food &amp; Ag Markets">
 </head>
 
@@ -211,7 +211,7 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -219,28 +219,33 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#objectives" id="toc-objectives" class="nav-link active" data-scroll-target="#objectives">Objectives</a></li>
-  <li><a href="#step-1-explore-the-data" id="toc-step-1-explore-the-data" class="nav-link" data-scroll-target="#step-1-explore-the-data">Step 1: Explore the Data</a></li>
-  <li><a href="#step-2-rename-variables-to-align-with-retailer-names" id="toc-step-2-rename-variables-to-align-with-retailer-names" class="nav-link" data-scroll-target="#step-2-rename-variables-to-align-with-retailer-names">Step 2: Rename Variables to Align with Retailer Names</a></li>
-  <li><a href="#step-3-create-a-date-variable" id="toc-step-3-create-a-date-variable" class="nav-link" data-scroll-target="#step-3-create-a-date-variable">Step 3: Create a Date Variable</a></li>
-  <li><a href="#step-4-plot-prices-over-time" id="toc-step-4-plot-prices-over-time" class="nav-link" data-scroll-target="#step-4-plot-prices-over-time">Step 4: Plot Prices Over Time</a></li>
-  <li><a href="#step-5-compare-retailers" id="toc-step-5-compare-retailers" class="nav-link" data-scroll-target="#step-5-compare-retailers">Step 5: Compare Retailers</a></li>
-  <li><a href="#step-6-preview-next-steps" id="toc-step-6-preview-next-steps" class="nav-link" data-scroll-target="#step-6-preview-next-steps">Step 6: Preview Next Steps</a></li>
-  <li><a href="#step-7-save-and-organize" id="toc-step-7-save-and-organize" class="nav-link" data-scroll-target="#step-7-save-and-organize">Step 7: Save and Organize</a></li>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
+  <li><a href="#project" id="toc-project" class="nav-link" data-scroll-target="#project">Project</a></li>
+  <li><a href="#submission-guidelines" id="toc-submission-guidelines" class="nav-link" data-scroll-target="#submission-guidelines">Submission Guidelines</a></li>
+  <li><a href="#project-data" id="toc-project-data" class="nav-link" data-scroll-target="#project-data">Project Data</a></li>
+  <li><a href="#email-1-market-analysis-and-predictions" id="toc-email-1-market-analysis-and-predictions" class="nav-link" data-scroll-target="#email-1-market-analysis-and-predictions">Email 1: Market Analysis and Predictions</a></li>
+  <li><a href="#email-2-data-visualization" id="toc-email-2-data-visualization" class="nav-link" data-scroll-target="#email-2-data-visualization">Email 2: Data Visualization</a></li>
+  <li><a href="#email-3-market-structure-analysis" id="toc-email-3-market-structure-analysis" class="nav-link" data-scroll-target="#email-3-market-structure-analysis">Email 3: Market Structure Analysis</a></li>
+  <li><a href="#email-4-price-analysis" id="toc-email-4-price-analysis" class="nav-link" data-scroll-target="#email-4-price-analysis">Email 4: Price Analysis</a></li>
+  <li><a href="#email-5-margin-analysis" id="toc-email-5-margin-analysis" class="nav-link" data-scroll-target="#email-5-margin-analysis">Email 5: Margin Analysis</a></li>
+  <li><a href="#email-6-demand-analysis" id="toc-email-6-demand-analysis" class="nav-link" data-scroll-target="#email-6-demand-analysis">Email 6: Demand Analysis</a></li>
+  <li><a href="#how-youll-be-graded" id="toc-how-youll-be-graded" class="nav-link" data-scroll-target="#how-youll-be-graded">How You’ll Be Graded</a></li>
+  <li><a href="#cover-page-template" id="toc-cover-page-template" class="nav-link" data-scroll-target="#cover-page-template">COVER PAGE TEMPLATE</a></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/laurenchenarides/csu-arec-310/edit/main/2025/project-instructions.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/blob/main/2025/project-instructions.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">In-Class Lab: Getting Started with the Market Analysis Project</h1>
+<h1 class="title">Analyzing Market Forces in Colorado Retail Milk</h1>
+<p class="subtitle lead">Group Project</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -252,218 +257,267 @@ gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': false});
 </header>
 
 
-<p>This lab gives you hands-on practice with the tools and steps you’ll use in your <a href="../project/project-instructions.html">Market Analysis Project</a>.<br>
-By the end of class, you’ll have time to explore the dataset, practice building visualizations, and connect these early steps to the questions you’ll address in your final submission.</p>
-<p><strong>Time:</strong> 50 minutes<br>
-<strong>Files needed:</strong> <a href="../project/milkmarketfmmocwt_corrected.xlsx">milkmarketfmmocwt.xlsx</a></p>
-<hr>
-<section id="objectives" class="level2">
-<h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
-<p>By the end of this lab, you will:</p>
-<ul>
-<li>Understand the structure and variables in the dataset.<br>
-</li>
-<li>Create new variables (e.g., a date variable combining year and month).<br>
-</li>
-<li>Generate and label clear Excel graphs of milk prices.<br>
-</li>
-<li>Interpret trends and patterns in your visualizations.<br>
-</li>
-<li>See how these tasks connect to the first two project emails.</li>
-</ul>
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- {{< include /files/includes/_msclarity.qmd >}} -->
+<p><em>This is a Group Project. Max number per group is 4. Groups must be submitted via Canvas by the due date listed on Canvas.</em></p>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<p>Cousins Supermarket is one of the largest food retailers in the U.S. They operate about 1,525 grocery retail stores in 20 states under a variety of banner names. Cousins operates about 15 food production or manufacturing facilities producing high quality private-label products. Data and science are at the core of their business. They collect 96% of sales on their customer loyalty card. Like many other agricultural and food businesses, they are increasingly interested in leveraging the data that they collect to increase profits.</p>
 </section>
-<section id="step-1-explore-the-data" class="level2">
-<h2 class="anchored" data-anchor-id="step-1-explore-the-data">Step 1: Explore the Data</h2>
+<section id="project" class="level2">
+<h2 class="anchored" data-anchor-id="project">Project</h2>
+<p>You and your team are working as market data analysts for Cousins Supermarket. Your manager sends you company data in the following Excel file: <a href="milkmarketfmmocwt_corrected.xlsx">milkmarketfmmocwt.xlsx</a>. She tells you that this file is <em>PROJECT TEAM EYES ONLY</em> and MUST not be shared outside of your team. The file contains data on Cousins milk sales in Colorado prior to the pandemic: June 2014 – February 2019. She was also able to obtain milk data on the local competitors: Jeminy, Legals, Greens, and Fresh &amp; Better. There were a bunch of small stores that she could not get data on, but she has a good idea of sales for the total market area based on industry estimates. Your manager tells you that milk is a good indicator for overall sales.</p>
+<p>Over the course of six emails, your manager asks you to complete a series of data-driven tasks to inform decision-making at Cousins Supermarket. These tasks include analyzing market trends, visualizing competitive data, and assessing strategic options such as mergers.</p>
+</section>
+<section id="submission-guidelines" class="level2">
+<h2 class="anchored" data-anchor-id="submission-guidelines">Submission Guidelines</h2>
+<p>For the final submission of your project, please ensure that your work is organized and presented professionally. Follow these instructions carefully:</p>
 <ol type="1">
-<li><p>Open the Excel file <strong>milkmarketfmmocwt.xlsx</strong>.<br>
-</p></li>
-<li><p>Review the variable list in the “Project Data” section of the <a href="../project/project-instructions.html">project instructions</a>.<br>
-</p></li>
-<li><p>Answer the following in your notes (you’ll need this for Email 1):</p>
+<li>Organize all six emails sequentially in a Word Document.
 <ul>
-<li>What variables represent <strong>quantities</strong> sold by each retailer?<br>
-</li>
-<li>What variables represent <strong>prices</strong>?<br>
-</li>
-<li>What variables represent <strong>market totals</strong>?<br>
-</li>
-<li>What is the unit for <code>fmmocwt</code>? How does it differ from the retail price variables? <em>Hint: Be sure to review “Email 4: Price Analysis” from the <a href="../project/project-instructions.html">project instructions</a>.</em></li>
+<li>Each email should be clearly labeled (e.g., Email 1: Market Analysis and Predictions).</li>
+<li>Every file that you create must carry the designation <em>PROJECT TEAM EYES ONLY</em> to prevent a data breach.</li>
+<li>Prepare a cover page before the emails using the template provided below.</li>
+<li>Use Times New Roman, 12-point font, throughout.</li>
 </ul></li>
-</ol>
-<p>Understanding these distinctions is key for interpreting supply, demand, and margins later.</p>
-</section>
-<section id="step-2-rename-variables-to-align-with-retailer-names" class="level2">
-<h2 class="anchored" data-anchor-id="step-2-rename-variables-to-align-with-retailer-names">Step 2: Rename Variables to Align with Retailer Names</h2>
-<p>To make your analysis easier to follow, rename the quantity and price variables to match each retailer’s name. This will help you keep track of which series belongs to which firm when creating graphs later.</p>
+<li>You must include the Excel file that generated the graphs referenced in your emails.
+<ul>
+<li>Each graph must be clearly labeled and formatted to appear on <strong>separate Worksheets</strong> in your Excel workbook, with axis labels and appropriate titles.</li>
+</ul></li>
+<li>Your final submission files will include:
 <ol type="1">
-<li><p>In your Excel file, rename each variable as follows:</p>
-<table class="caption-top table">
+<li>Your email packet, including a cover letter and the six emails, as a Word Doc or PDF.</li>
+<li>Your complete Excel workbook with all graphs and exhibits referenced in the emails, as well as the data and calculations used to create the graphs. Each graph must appear in separate Excel Worksheets.</li>
+</ol></li>
+<li>Submit your final documents via Canvas by the deadline.</li>
+</ol>
+<p><strong>Late submissions will not be accepted.</strong> Make sure to review all materials and complete the submission before the deadline.</p>
+</section>
+<section id="project-data" class="level2">
+<h2 class="anchored" data-anchor-id="project-data">Project Data</h2>
+<p>👉 <a href="milkmarketfmmocwt_corrected.xlsx">Download data file here</a></p>
+<div class="callout callout-style-default callout-note no-icon callout-titled" title="Description of the data file">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Description of the data file
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<div class="table-responsive">
+<table class="table-striped caption-top table">
+<colgroup>
+<col style="width: 21%">
+<col style="width: 78%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Original Variable</th>
-<th>New Name</th>
+<th>Variable</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td>Year</td>
+<td>Year of the data point</td>
+</tr>
+<tr class="even">
+<td>Month</td>
+<td>Month (numeric) of the data point</td>
+</tr>
+<tr class="odd">
+<td>MonthName</td>
+<td>Month (name) of the data point</td>
+</tr>
+<tr class="even">
 <td>q1</td>
-<td>Jeminy_Q</td>
+<td>Quantity (i.e., gallons) of milk sold via Jeminy</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>q2</td>
-<td>Cousins_Q</td>
-</tr>
-<tr class="odd">
-<td>q3</td>
-<td>Legals_Q</td>
+<td>Quantity (i.e., gallons) of milk sold via Cousins</td>
 </tr>
 <tr class="even">
-<td>q4</td>
-<td>FreshBetter_Q</td>
+<td>q3</td>
+<td>Quantity (i.e., gallons) of milk sold via Legals</td>
 </tr>
 <tr class="odd">
+<td>q4</td>
+<td>Quantity (i.e., gallons) of milk sold via Fresh &amp; Better</td>
+</tr>
+<tr class="even">
 <td>q5</td>
-<td>Greens_Q</td>
+<td>Quantity (i.e., gallons) of milk sold via Greens</td>
+</tr>
+<tr class="odd">
+<td>QM</td>
+<td>Quantity (i.e., gallons) of milk sold for the entire Colorado market</td>
 </tr>
 <tr class="even">
 <td>p1</td>
-<td>Jeminy_P</td>
+<td>Weighted average price of milk sold via Jeminy</td>
 </tr>
 <tr class="odd">
 <td>p2</td>
-<td>Cousins_P</td>
+<td>Weighted average price of milk sold via Cousins</td>
 </tr>
 <tr class="even">
 <td>p3</td>
-<td>Legals_P</td>
+<td>Weighted average price of milk sold via Legals</td>
 </tr>
 <tr class="odd">
 <td>p4</td>
-<td>FreshBetter_P</td>
+<td>Weighted average price of milk sold via Fresh &amp; Better</td>
 </tr>
 <tr class="even">
 <td>p5</td>
-<td>Greens_P</td>
+<td>Weighted average price of milk sold via Greens</td>
+</tr>
+<tr class="odd">
+<td>VM</td>
+<td>Value of milk sales for the entire Colorado market</td>
+</tr>
+<tr class="even">
+<td>fmmocwt</td>
+<td>The Federal Milk Marketing Order (fmmo) prices per hundredweight (cwt)</td>
 </tr>
 </tbody>
-</table></li>
-<li><p>Check that your variable names are consistent (e.g., use underscores instead of spaces) so formulas and charts reference them correctly.<br>
-</p></li>
-<li><p>Save your workbook before moving on.</p></li>
-</ol>
-<p><strong>Question to consider:</strong></p>
-<p>Why is it useful to rename variables before starting your analysis? How might inconsistent naming create problems later?</p>
+</table>
+</div>
+</div>
+</div>
 </section>
-<section id="step-3-create-a-date-variable" class="level2">
-<h2 class="anchored" data-anchor-id="step-3-create-a-date-variable">Step 3: Create a Date Variable</h2>
+<section id="email-1-market-analysis-and-predictions" class="level2">
+<h2 class="anchored" data-anchor-id="email-1-market-analysis-and-predictions">Email 1: Market Analysis and Predictions</h2>
+<p>Management contacts you to gather information about the retail milk market in Colorado. They are asking you to conduct market research and make educated predictions about the general direction of retail milk market growth. Write an email to your manager outlining what your predictions are and what information they are based on.</p>
+<p>In your email, you must answer the following questions:</p>
 <ol type="1">
-<li>Insert a new column to the left of <code>Year</code>.<br>
-</li>
-<li>In this column, create a <strong>Date</strong> variable using Excel’s <code>DATE()</code> function: <code>=DATE([Year cell], [Month cell], 1)</code>
-<ul>
-<li>This gives you a continuous date value for plotting time series.<br>
-</li>
-</ul></li>
-<li>Format the column as <strong>Date </strong> (MM/DD/YYYY) for readability.<br>
-</li>
-<li>Name the column <code>Date</code>.</li>
+<li><p>What types of factors determine whether demand for retail milk will increase, decrease, or stay the same? What retail milk demand factors are at play currently in the Colorado market and what factors were at play during the June 2014 – February 2019 period?</p></li>
+<li><p>What types of factors determine whether supply for retail milk will increase, decrease, or stay the same? What retail milk supply factors are at play currently in the Colorado market and what factors were at play during the June 2014 – February 2019 period?</p></li>
 </ol>
-<p><strong>Answer the following questions:</strong></p>
-<ul>
-<li>What is the period covered by the data?</li>
-<li>What is the frequency of the data (e.g., monthly, quarterly, annually)?</li>
-<li>Are there any missing months or irregular gaps in the data? If so, how might that affect your analysis?</li>
-</ul>
+<p>Assume that retail milk is a homogeneous product in a market with many buyers and sellers, near perfect information, and mobile resources.</p>
+<p><strong>Cite all your sources.</strong> I will check to make sure that all sources exist and that the information is true and accurate. MLA citation style is not required, but easily accessing where the information is available is required. Note that webpages can disappear from day to day, so it is best practice to save a pdf of any website you reference with the download date in case the link is not working when your manager clicks it.</p>
+<p>Please refer to the syllabus for the course policy on academic integrity and use of generative AI.</p>
 </section>
-<section id="step-4-plot-prices-over-time" class="level2">
-<h2 class="anchored" data-anchor-id="step-4-plot-prices-over-time">Step 4: Plot Prices Over Time</h2>
+<section id="email-2-data-visualization" class="level2">
+<h2 class="anchored" data-anchor-id="email-2-data-visualization">Email 2: Data Visualization</h2>
+<p>Your next task is to design a series of graphs and send them in an email to management. The three graphs you are to send to management include:</p>
 <ol type="1">
-<li>Highlight your new <code>Date</code> column and the price variable for <strong>Cousins</strong> (<code>Cousins_P</code>).<br>
-</li>
-<li>Insert a <strong>Line Chart</strong> showing Cousins’ average price of milk over time.<br>
-</li>
+<li><p>Graph the monthly quantity of milk sold by Cousins over time. Our data is collected from August 2014 to January 2019, so the graphs should be for each month-year point in the dataset.</p></li>
+<li><p>In a separate graph, do the same for Jeminy, Legals, Greens, and Fresh &amp; Better. Make sure that the values of the axes are the same for ease of comparison. Discuss your findings.</p></li>
+<li><p>Graph the market shares of Cousins, Jeminy, Legals, Greens, and Fresh &amp; Better. Discuss your findings. Note: Market share is the percentage of an industry’s total sales over a certain period. It is calculated by dividing total company sales by total industry sales. Your email must include a description of the method you used to create the exhibit, and a discussion of the results. The graphs should have labeled axes and make appropriate use of colors.</p></li>
 </ol>
-<ul>
-<li>Add axis titles:
-<ul>
-<li><em>X-axis:</em> Date<br>
-</li>
-<li><em>Y-axis:</em> Price per gallon ($)<br>
-</li>
-</ul></li>
-<li>Title your chart clearly: <em>“Cousins Average Retail Milk Price, 2014–2019”</em><br>
-</li>
-</ul>
-<ol start="3" type="1">
-<li>Move this chart to a <strong>new worksheet</strong> named <code>Cousins_Price_Trend</code>.<br>
-</li>
-</ol>
-<ul>
-<li>To do this: Right-click → “Move Chart” → “New Sheet.”</li>
-</ul>
 </section>
-<section id="step-5-compare-retailers" class="level2">
-<h2 class="anchored" data-anchor-id="step-5-compare-retailers">Step 5: Compare Retailers</h2>
+<section id="email-3-market-structure-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="email-3-market-structure-analysis">Email 3: Market Structure Analysis</h2>
+<p>Management is interested in understanding the competitive landscape of the Colorado retail milk market. They want to assess the level of market concentration and determine if the market structure resembles perfect competition or tends towards oligopoly. To achieve this, you are asked to calculate and analyze key market structure indicators. These calculations will help determine Cousins’ position in the market relative to its competitors and provide insights into the overall market dynamics.</p>
+<p>Management wants to understand the position of the firm in the market. They ask you to perform the following calculations and report back in one, easy-to-understand email:</p>
 <ol type="1">
-<li>Using the same <code>Date</code> variable, add all five price series (<code>Jeminy_P</code>, <code>Cousins_P</code>, <code>Legals_P</code>, <code>FreshBetter_P</code>, <code>Greens_P</code>). *Important: Which cells do you need to<br>
-</li>
-<li>Rename this new worksheet <code>Retailer_Prices_Comparison</code>.<br>
-</li>
-<li>Insert a <strong>multi-line chart</strong> with each retailer as a different color line.<br>
-</li>
+<li>Calculate the HHI of the market and graph it over time. Discuss your findings.</li>
+<li>Calculate the CR4 and the CR2 and graph each over time. Discuss your findings.</li>
+<li>Based on these findings, can we assume the market is behaving as if it is perfectly competitive? Describe your rationale in your email.</li>
 </ol>
+</section>
+<section id="email-4-price-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="email-4-price-analysis">Email 4: Price Analysis</h2>
+<p>Management has requested an analysis of price movements to gain a deeper understanding of price trends in the Colorado retail milk market. This analysis will help identify patterns in pricing strategies across the industry and specifically for Cousins. Additionally, it will provide insights into how retail prices compare to the cost of milk at the wholesale level, indicating the potential for profit in the supply chain.</p>
+<ol type="1">
+<li><p>Graph the monthly <strong>weighted aggregate price index</strong> of milk sold by each retailer over time. Add labels and title to your graph. Include a legend.</p></li>
+<li><p>Calculate the Laspeyres <strong>and</strong> Paasche indices to show how the aggregate price in the market is moving over time. Graph them on the same chart in a new worksheet. Add labels and title to your graph. Include a legend.</p>
 <ul>
-<li>Add axis titles:
-<ul>
-<li><em>X-axis:</em> Date<br>
-</li>
-<li><em>Y-axis:</em> Price per gallon ($)<br>
-</li>
+<li>Note: The “market” is represented by <code>Market_Quantity</code> (total quantity) and <code>Market_V_Corrected</code> (value of milk sales). The price index will represent the price changes relative to the base period.</li>
 </ul></li>
-<li>Title your chart clearly: <em>“Price Comparison for Leading Retail Chains, 2014-2019”</em><br>
-</li>
-</ul>
-<ol start="4" type="1">
-<li>Make sure all lines share the same axis range for fair comparison.<br>
-</li>
-<li>Move this chart to a <strong>new worksheet</strong> named <code>Retailer_Prices_Comparison_Graph</code>.<br>
-</li>
+<li><p>Summarize your findings for parts 1 and 2 in a concise, professional email to your manager. This email should describe how you constructed each measure, outline the key insights from your analysis, highlighting any significant trends or patterns you’ve identified. Be sure to interpret your findings and explain the implications for Cousins’ overall market position.</p></li>
 </ol>
-<ul>
-<li>To do this: Right-click → “Move Chart” → “New Sheet.</li>
-</ul>
-<p><strong>Questions to discuss or jot down:</strong></p>
-<ul>
-<li>Which retailer tends to have the highest and lowest prices?<br>
-</li>
-<li>Are there visible seasonal or cyclical trends?<br>
-</li>
-<li>Does Cousins follow, lead, or lag other retailers in price changes?</li>
-</ul>
 </section>
-<section id="step-6-preview-next-steps" class="level2">
-<h2 class="anchored" data-anchor-id="step-6-preview-next-steps">Step 6: Preview Next Steps</h2>
-<p>Before the end of class, discuss with your group or reflect individually:</p>
-<ul>
-<li>How could these graphs help you write <strong>Email 2: Data Visualization</strong>?<br>
-</li>
-<li>What additional information might you need to explain the trends (e.g., input costs, competition, or seasonality)?<br>
-</li>
-<li>How might you connect these patterns to market structure for <strong>Email 3</strong>?</li>
-</ul>
+<section id="email-5-margin-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="email-5-margin-analysis">Email 5: Margin Analysis</h2>
+<ol type="1">
+<li><p>Using the Federal Milk Marketing Order Class I price (variable = <code>fmmocwt</code>), do the following:</p>
+<ol type="a">
+<li>Create a new variable <code>fmmogal = fmmocwt/11.63</code>. The Federal Milk Marketing Order prices are <em>per hundredweight</em> (cwt), so you will need to convert them to gallons to match the retail data you were given. There are roughly 11.63 pounds of milk in a gallon.</li>
+<li>Determine the marketing margin of the industry over time. Graph it.</li>
+<li>Determine the marketing margin for Cousins only over time. Graph it.</li>
+</ol></li>
+<li><p>Summarize your findings in a concise, professional email to your manager. This email should outline the key insights from your analysis, highlighting any significant trends or patterns you’ve identified. This email must contain discussion of the results of the marketing margins and an interpretation of your findings. Be sure to explain the implications of your findings for Cousins’ overall market position.</p></li>
+</ol>
 </section>
-<section id="step-7-save-and-organize" class="level2">
-<h2 class="anchored" data-anchor-id="step-7-save-and-organize">Step 7: Save and Organize</h2>
-<p>Before leaving class:</p>
+<section id="email-6-demand-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="email-6-demand-analysis">Email 6: Demand Analysis</h2>
+<p>Your manager also shares some confidential information from the CEO. The CEO believes that one way to increase profits will be to merge with another retailer in Colorado.</p>
+<ol type="1">
+<li><p>Estimate the demand for Cousins milk. What is the own-price elasticity? What are the cross-price elasticities? Interpret them.</p></li>
+<li><p>Look at your demand results. Which other retailer’s price has a negative and significant cross-price elasticity with Cousins milk? Explain:</p>
 <ul>
-<li>Save your Excel file as <strong>teamname_lab1.xlsx</strong>.<br>
-</li>
-<li>Make sure your graphs appear on <strong>separate worksheets</strong> with descriptive names. <strong>Important: The charts should be on their own worksheets, not as charts on top of a blank worksheet.</strong></li>
-<li>Label each worksheet clearly (e.g., <code>Cousins_Price_Trend</code>, <code>Retailer_Prices_Comparison</code>).<br>
-</li>
-<li>Keep this file—you can build directly from it for your project.</li>
-</ul>
-<p><strong>End of Lab</strong></p>
+<li>Why your results show they are complements</li>
+<li>How merging with that retailer could help increase profits (for example, through joint promotions, product bundles, or shared customers)</li>
+<li>Any possible challenges or risks (like competition or store overlap)</li>
+</ul></li>
+</ol>
+</section>
+<section id="how-youll-be-graded" class="level2">
+<h2 class="anchored" data-anchor-id="how-youll-be-graded">How You’ll Be Graded</h2>
+<p>Your project will be evaluated based on:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 29%">
+<col style="width: 14%">
+<col style="width: 56%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criteria</th>
+<th>Points</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Depth of research + prep</strong></td>
+<td>25</td>
+<td>Evidence of thoughtful background research, preparation, and familiarity with the mentor’s work and industry.</td>
+</tr>
+<tr class="even">
+<td><strong>Interview quality + flow</strong></td>
+<td>25</td>
+<td>Questions are clear and engaging; conversation flows naturally and professionally; follow-ups deepen the discussion.</td>
+</tr>
+<tr class="odd">
+<td><strong>Insightful show notes</strong></td>
+<td>25</td>
+<td>Notes accurately summarize the episode, highlight key takeaways, and are clearly written for an external audience.</td>
+</tr>
+<tr class="even">
+<td><strong>Team coordination &amp; clarity</strong></td>
+<td>25</td>
+<td>All team members contribute meaningfully; roles are clear; final product is cohesive and well-organized.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Total: 100 points</strong> (10% of final grade)</p>
+<hr>
+</section>
+<section id="cover-page-template" class="level2">
+<h2 class="anchored" data-anchor-id="cover-page-template">COVER PAGE TEMPLATE</h2>
+<p>Cousins Supermarket Data Analytics Project: Final Submission</p>
+<p>Team Name: [Insert Team Name]</p>
+<p>Project Title: Market Data Analysis and Strategic Recommendations for Cousins Supermarket</p>
+<p>Date of Submission: [Insert Date]</p>
+<p>Instructor: Dr.&nbsp;Chenarides</p>
+<p>Course: [Insert Course Name]</p>
+<p><strong>Team Members:</strong></p>
+<ol type="1">
+<li>[Insert Full Name]</li>
+<li>[Insert Full Name]</li>
+<li>[Insert Full Name]</li>
+<li>[Insert Full Name]</li>
+</ol>
+<p><strong>Summary of Project:</strong></p>
+<p>This project analyzes the retail milk market in Colorado for Cousins Supermarket from June 2014 to February 2019, using sales data to assess market trends, pricing strategies, competition, and the potential for mergers.</p>
+<p><strong>Contents:</strong></p>
+<p>Email 1: Market Analysis and Predictions <br> Email 2: Data Visualization <br> Email 3: Market Structure Analysis <br> Email 4: Price Analysis <br> Email 5: Margin Analysis <br> Email 6: Demand Analysis <br></p>
 
 
 </section>
@@ -883,7 +937,7 @@ By the end of class, you’ll have time to explore the dataset, practice buildin
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/laurenchenarides/csu-arec-310/edit/main/2025/project-instructions.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/laurenchenarides/csu-arec-310/blob/main/2025/project-instructions.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
