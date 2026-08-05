@@ -14,7 +14,7 @@ website:
     left:
       - text: Market Analysis Project
         href: project/project-instructions.qmd
-      - text: "Fall 2026"
+      - text: "Spring 2026"
         menu:
           - text: Syllabus
             href: 2026sp/syllabus.qmd
@@ -22,6 +22,8 @@ website:
             href: 2026sp/schedule.qmd
           # - text: Readings
           #   href: 2026sp/readings.qmd
+      - text: "Fall 2025"
+        menu:
           - text: Syllabus - Fall 2025
             href: 2025/syllabus.qmd
           - text: Schedule - Fall 2025
@@ -53,21 +55,21 @@ website:
 
     right: 
       - icon: github
-        href: https://github.com/laurenchenarides/csu-arec-570
+        href: https://github.com/laurenchenarides/csu-arec-310
   page-navigation: true
   page-footer: 
-    left: "[Lauren Chenarides](https://github.com/laurenchenarides/csu-arec-570) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "[Lauren Chenarides](https://github.com/laurenchenarides/csu-arec-310) &copy; <script>document.write(new Date().getFullYear())</script>" 
     right: 
       - icon: github
-        href: https://github.com/laurenchenarides/csu-arec-570
+        href: https://github.com/laurenchenarides/csu-arec-310
   search:
     location: navbar
     type: textbox
   reader-mode: true
-  repo-url: https://github.com/laurenchenarides/csu-arec-570
+  repo-url: https://github.com/laurenchenarides/csu-arec-310
   repo-actions: [edit, issue, source]
   open-graph: true
-  site-url: "https://laurenchenarides.github.io/csu-arec-570"
+  site-url: "https://laurenchenarides.github.io/csu-arec-310"
   google-analytics:
     tracking-id: "G-GG4GM3TPXK"
     anonymize-ip: false
